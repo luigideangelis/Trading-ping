@@ -1,0 +1,30 @@
+# Local-only data (daily leaderboard snapshots) and logs
+data/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem
+
+# NOTE: state/, signals.json, portfolio.json, paper_trades.json,
+# active_wallets.json and NOTES.md are intentionally NOT ignored —
+# they carry state across GitHub Actions runs.
