@@ -375,6 +375,7 @@ Then per-day sections:
   - For each opened: append `{ts, trader, type:"NEW", **p}` to `signals.json`.
   - For each closed: append `{ts, trader, type:"CLOSED", **p}` to `signals.json`.
   - Save current snapshot to `state/<addr>.json`.
+- **Dropped traders**: for every `state/<addr>.json` whose address is no longer in the shortlist, append a `CLOSED` signal (with `"reason": "dropped_from_shortlist"`) for each position in that snapshot, then delete the state file. Otherwise their paper positions stay open forever, because nobody polls them any more.
 - After polling: call `paper_engine.apply_new_signals()`.
 - If any signals were generated, append a NOTES.md entry titled "Position poll (Job B)" with: count, one bullet per NEW/CLOSED, and current portfolio equity/PnL%.
 
@@ -657,3 +658,4 @@ Paper portfolio: $10,000 → $9,993 (-0.07 %, slippage only)
 - **2026-05-19:** The 22-hour silent bug — `copytrade-positions` polled fine but never committed state. Root cause: `git add a b c d e` aborts entirely (exit 128) if any one pathspec is missing, and `paper_trades.json` doesn't exist until the first trade closes. Fixed by staging each path in a loop. Also: `if: always()` on the commit step, broadened paper_engine except, and `git pull --rebase -X theirs` to auto-resolve state-file conflicts between near-simultaneous runs.
 - **2026-05-19:** GitHub Actions cron confirmed unreliable — ~80 % of scheduled runs dropped. Moved the real scheduling to **cron-job.org** (free external scheduler) hitting the `workflow_dispatch` API. Workflows keep `schedule:` blocks as fallback. Positions cadence raised to every 5 min (GitHub cron minimum), report to every 30 min for the launch period.
 - **2026-05-19:** `daily_report.py` gained a "Last activity" section (most recent signal + closed trade with humanised age) so the reader can tell how fresh the data is at a glance.
+- **2026-10-27:** Orphaned-position fix — when the daily refresh swapped 2 of 5 traders, their ~133 paper positions were never closed (Job B only polls the current shortlist) and kept nearly all paper cash locked. `job_positions.py` now closes every paper position of a trader who drops off the shortlist and deletes their `state/` snapshot.

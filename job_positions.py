@@ -60,6 +60,20 @@ def main() -> int:
         state_file.write_text(json.dumps(snap, indent=2), encoding="utf-8")
         log(f"  {addr[:10]}... {len(snap['positions'])} open positions")
 
+    # Traders who fell off the shortlist are no longer polled, so their
+    # positions would never get a CLOSED signal. Close them out now and drop
+    # their snapshot (if they return later, everything they hold is NEW again).
+    shortlist = {t["address"] for t in traders}
+    for state_file in sorted(STATE_DIR.glob("*.json")):
+        addr = state_file.stem
+        if addr in shortlist:
+            continue
+        prev = json.loads(state_file.read_text(encoding="utf-8")).get("positions", [])
+        for p in prev:
+            new_signals.append({"ts": now, "trader": addr, "type": "CLOSED", "reason": "dropped_from_shortlist", **p})
+        state_file.unlink()
+        log(f"  {addr[:10]}... dropped from shortlist, closing {len(prev)} positions")
+
     if new_signals:
         signals.extend(new_signals)
         SIGNALS.write_text(json.dumps(signals, indent=2), encoding="utf-8")
@@ -79,7 +93,8 @@ def main() -> int:
     if new_signals:
         lines = [f"{len(new_signals)} signals"]
         for s in new_signals:
-            lines.append(f"{s['type']} {s['side']} {s['coin']} x{s['leverage']} ({s['trader'][:10]}...)")
+            suffix = " — dropped from shortlist" if s.get("reason") == "dropped_from_shortlist" else ""
+            lines.append(f"{s['type']} {s['side']} {s['coin']} x{s['leverage']} ({s['trader'][:10]}...){suffix}")
         lines.append(f"Portfolio equity: ${result['equity']:,.2f} ({pnl_pct:+.2f}%)")
         notes.append_entry("Position poll (Job B)", lines)
     return 0
