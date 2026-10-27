@@ -1,5 +1,5 @@
 {
-  "cash": 0.232546549606297,
+  "cash": 0.1993795979686989,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -2497,6 +2497,42 @@
       "margin": 0.012239292084541949,
       "opened_at": "2026-10-27T01:05:14.889316+00:00",
       "signal_ts": "2026-10-27T01:05:13.845996+00:00"
+    },
+    "0xf899937184168b1d9dee75acbaa3fef0f52888db:BTC:SHORT": {
+      "trader": "0xf899937184168b1d9dee75acbaa3fef0f52888db",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 4.3556505384773776e-07,
+      "entry_price": 80084.43775,
+      "leverage": 3,
+      "notional": 0.03488198244094455,
+      "margin": 0.01162732748031485,
+      "opened_at": "2026-10-27T14:15:18.574687+00:00",
+      "signal_ts": "2026-10-27T14:15:15.735157+00:00"
+    },
+    "0xf899937184168b1d9dee75acbaa3fef0f52888db:ETH:SHORT": {
+      "trader": "0xf899937184168b1d9dee75acbaa3fef0f52888db",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 1.4257223569275585e-05,
+      "entry_price": 2324.287275,
+      "leverage": 3,
+      "notional": 0.033137883318897325,
+      "margin": 0.011045961106299108,
+      "opened_at": "2026-10-27T14:15:18.574709+00:00",
+      "signal_ts": "2026-10-27T14:15:15.735157+00:00"
+    },
+    "0xf899937184168b1d9dee75acbaa3fef0f52888db:SOL:SHORT": {
+      "trader": "0xf899937184168b1d9dee75acbaa3fef0f52888db",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 0.0003139470473133647,
+      "entry_price": 100.2748375,
+      "leverage": 3,
+      "notional": 0.03148098915295246,
+      "margin": 0.010493663050984153,
+      "opened_at": "2026-10-27T14:15:18.574715+00:00",
+      "signal_ts": "2026-10-27T14:15:15.735157+00:00"
     }
   },
   "equity_history": [
@@ -3314,7 +3350,12 @@
       "ts": "2026-10-27T14:10:19.076796+00:00",
       "equity": 10052.134055609558,
       "cash": 0.232546549606297
+    },
+    {
+      "ts": "2026-10-27T14:15:18.574837+00:00",
+      "equity": 10026.945671310197,
+      "cash": 0.1993795979686989
     }
   ],
-  "last_processed_signal_index": 207
+  "last_processed_signal_index": 210
 }
