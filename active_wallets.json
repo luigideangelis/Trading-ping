@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-10-27T00:33:18.503963+00:00",
+  "filters": {
+    "min_account_value": 100000,
+    "min_30d_volume": 5000000,
+    "min_30d_pnl": 50000,
+    "day_pnl_positive": true,
+    "week_pnl_positive": true,
+    "max_day_to_month_pnl_ratio": 0.8,
+    "max_abs_day_roi": 5.0
+  },
+  "leaderboard_count": 47608,
+  "qualified_count": 269,
+  "top_traders": [
+    {
+      "address": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+      "account_value": 7903662.700145,
+      "day_pnl": 179599.677154,
+      "day_roi": 0.022009369,
+      "week_pnl": 461022.164813,
+      "week_roi": 0.1254444094,
+      "month_pnl": 3296127.9066749997,
+      "month_roi": 1.0132824278,
+      "month_volume": 12003443.48,
+      "month_edge_bps": 2745.9852767807592,
+      "week_edge_bps": 127193.23000727533,
+      "score": 132691.71856489306
+    },
+    {
+      "address": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+      "account_value": 30753435.404237,
+      "day_pnl": 273155.508479,
+      "day_roi": 0.0089617126,
+      "week_pnl": 1150678.861379,
+      "week_roi": 0.0979681428,
+      "month_pnl": 4279158.260975,
+      "month_roi": 0.4165644328,
+      "month_volume": 10850830.43,
+      "month_edge_bps": 3943.6228301422275,
+      "week_edge_bps": 28732.32322589689,
+      "score": 36626.20024453013
+    },
+    {
+      "address": "0xabe6724948b47deb99ae12fce930ea4b35d51d99",
+      "account_value": 456641.363969,
+      "day_pnl": 28635.394395,
+      "day_roi": 0.0880296594,
+      "week_pnl": 116039.571396,
+      "week_roi": 0.3910514438,
+      "month_pnl": 486044.950356,
+      "month_roi": 0.5337654887,
+      "month_volume": 11642913.33,
+      "month_edge_bps": 417.4599059357594,
+      "week_edge_bps": 21208.30222856142,
+      "score": 22048.90871686843
+    },
+    {
+      "address": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+      "account_value": 2730249.421554,
+      "day_pnl": 112809.033259,
+      "day_roi": 0.0430989885,
+      "week_pnl": 694911.92811,
+      "week_roi": 0.1660348608,
+      "month_pnl": 2331524.74166,
+      "month_roi": 0.7949766593,
+      "month_volume": 5897744.67,
+      "month_edge_bps": 3953.248016177682,
+      "week_edge_bps": 11675.779797900745,
+      "score": 19588.64347028457
+    },
+    {
+      "address": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+      "account_value": 3539091.537227,
+      "day_pnl": 7968.937856,
+      "day_roi": 0.0022567718,
+      "week_pnl": 377968.333617,
+      "week_roi": 0.0667656082,
+      "month_pnl": 2715388.403644,
+      "month_roi": 0.5904039753,
+      "month_volume": 7418017.24,
+      "month_edge_bps": 3660.5312656889973,
+      "week_edge_bps": 9774.619852892061,
+      "score": 17102.116216229024
+    }
+  ]
+}
