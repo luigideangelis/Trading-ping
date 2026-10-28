@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-10-28
+
+### 12:25 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT TAO x5 (0xc435249d...) — trader no longer on shortlist
+- Portfolio equity: $9,604.21 (-3.96%)
+
 ## 2026-10-27
 
 ### 15:19 UTC — Daily refresh (Job A)
