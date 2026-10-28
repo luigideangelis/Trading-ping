@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-28
 
+### 16:00 UTC — Position poll (Job B)
+- 15 signals
+- NEW SHORT ENA x10 (0xba5d9cc8...)
+- NEW SHORT ZRO x5 (0xba5d9cc8...)
+- NEW SHORT HYPE x10 (0xba5d9cc8...)
+- NEW SHORT GRAM x5 (0xba5d9cc8...)
+- NEW SHORT SOL x20 (0xba5d9cc8...)
+- NEW SHORT ETHFI x5 (0xba5d9cc8...)
+- NEW SHORT LINK x10 (0xba5d9cc8...)
+- NEW SHORT ETH x20 (0xba5d9cc8...)
+- NEW SHORT MON x5 (0xba5d9cc8...)
+- NEW SHORT XMR x5 (0xba5d9cc8...)
+- NEW SHORT NEAR x10 (0xba5d9cc8...)
+- NEW SHORT AAVE x10 (0xba5d9cc8...)
+- NEW SHORT UNI x10 (0xba5d9cc8...)
+- NEW SHORT PUMP x10 (0xba5d9cc8...)
+- NEW SHORT BTC x20 (0xba5d9cc8...)
+- Portfolio equity: $9,772.02 (-2.28%)
+
 ### 15:59 UTC — Daily refresh (Job A)
 - Leaderboard: 47768 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
