@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 16:05 UTC — Position poll (Job B)
+- 15 signals
+- NEW LONG kPEPE x4 (0x4b673377...)
+- NEW SHORT STRK x5 (0xacb66d19...)
+- NEW SHORT XRP x20 (0xacb66d19...)
+- NEW SHORT EIGEN x5 (0xacb66d19...)
+- NEW LONG WLD x10 (0xacb66d19...)
+- NEW SHORT PAXG x10 (0xacb66d19...)
+- NEW SHORT OP x5 (0xacb66d19...)
+- NEW LONG PUMP x10 (0xacb66d19...)
+- NEW LONG JUP x10 (0xacb66d19...)
+- NEW SHORT ETH x10 (0xacb66d19...)
+- NEW SHORT SOL x20 (0xacb66d19...)
+- NEW SHORT BTC x20 (0xacb66d19...)
+- NEW SHORT ENS x5 (0xacb66d19...)
+- NEW LONG ASTER x5 (0xacb66d19...)
+- NEW SHORT HBAR x5 (0xacb66d19...)
+- Portfolio equity: $8,737.02 (-12.63%)
+
 ### 16:02 UTC — Daily refresh (Job A)
 - Leaderboard: 48379 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
