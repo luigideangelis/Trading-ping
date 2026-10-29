@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 20:45 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT HBAR x5 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $11,066.94 (+10.67%)
+
 ### 16:05 UTC — Position poll (Job B)
 - 15 signals
 - NEW LONG kPEPE x4 (0x4b673377...)

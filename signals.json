@@ -3237,5 +3237,19 @@
     "leverage": 5,
     "unrealized_pnl": 15698.596148,
     "liquidation_price": 4.347134331
+  },
+  {
+    "ts": "2026-10-29T20:45:15.579586+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "HBAR",
+    "side": "SHORT",
+    "size": 1840674.0,
+    "entry_price": 0.109358,
+    "position_value_usd": 130831.426572,
+    "leverage": 5,
+    "unrealized_pnl": 70461.764188,
+    "liquidation_price": 1.1865955769
   }
 ]
