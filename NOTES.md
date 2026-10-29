@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 14:15 UTC — Position poll (Job B)
+- 3 signals
+- NEW SHORT HYPE x10 (0xfb1898bb...)
+- NEW SHORT BTC x40 (0xfb1898bb...)
+- NEW SHORT ETH x25 (0xfb1898bb...)
+- Portfolio equity: $9,544.26 (-4.56%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48228 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
