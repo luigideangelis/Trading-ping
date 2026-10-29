@@ -3251,5 +3251,47 @@
     "leverage": 5,
     "unrealized_pnl": 70461.764188,
     "liquidation_price": 1.1865955769
+  },
+  {
+    "ts": "2026-10-29T20:50:15.939666+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "XLM",
+    "side": "SHORT",
+    "size": 1318161.0,
+    "entry_price": 0.219464,
+    "position_value_usd": 214781.15334,
+    "leverage": 5,
+    "unrealized_pnl": 74508.131471,
+    "liquidation_price": 1.595828044
+  },
+  {
+    "ts": "2026-10-29T20:50:15.939666+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "XLM",
+    "side": "SHORT",
+    "size": 963000.0,
+    "entry_price": 0.209931,
+    "position_value_usd": 156911.22,
+    "leverage": 5,
+    "unrealized_pnl": 45252.361606,
+    "liquidation_price": 2.6069988808
+  },
+  {
+    "ts": "2026-10-29T20:50:15.939666+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ETC",
+    "side": "SHORT",
+    "size": 5116.95,
+    "entry_price": 9.4387,
+    "position_value_usd": 36583.634025,
+    "leverage": 5,
+    "unrealized_pnl": 11713.739916,
+    "liquidation_price": 467.1166097503
   }
 ]
