@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 11:05 UTC — Position poll (Job B)
+- 1 signals
+- NEW SHORT CHIP x3 (0xc435249d...)
+- Portfolio equity: $9,763.63 (-2.36%)
+
 ### 02:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT SEI x5 (0xa20fb0c9...) — trader no longer on shortlist
