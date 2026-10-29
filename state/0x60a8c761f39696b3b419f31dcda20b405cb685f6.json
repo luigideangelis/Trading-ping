@@ -1,24 +1,24 @@
 {
-  "account_value": 1607354.463933,
+  "account_value": 1609886.71809,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 35.22827,
       "entry_price": 82688.9,
-      "position_value_usd": 2859232.07801,
+      "position_value_usd": 2858069.5451,
       "leverage": 10,
-      "unrealized_pnl": 53756.28949,
-      "liquidation_price": 749078.2614016709
+      "unrealized_pnl": 54918.8224,
+      "liquidation_price": 749296.1430262935
     },
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 15.0542,
       "entry_price": 2430.55,
-      "position_value_usd": 35456.555092,
+      "position_value_usd": 35457.15726,
       "leverage": 10,
-      "unrealized_pnl": -1133.568919,
+      "unrealized_pnl": -1132.966751,
       "liquidation_price": 0.0
     },
     {
@@ -26,19 +26,19 @@
       "side": "SHORT",
       "size": 63648.5,
       "entry_price": 4.90374,
-      "position_value_usd": 300147.23145,
+      "position_value_usd": 299574.39495,
       "leverage": 2,
-      "unrealized_pnl": 11968.59386,
-      "liquidation_price": 359.0568441358
+      "unrealized_pnl": 12541.43036,
+      "liquidation_price": 359.176066025
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 9.72,
       "entry_price": 78.376,
-      "position_value_usd": 782.96544,
+      "position_value_usd": 782.57664,
       "leverage": 10,
-      "unrealized_pnl": 21.15072,
+      "unrealized_pnl": 20.76192,
       "liquidation_price": 0.0
     },
     {
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.1,
       "entry_price": 0.13313,
-      "position_value_usd": 0.013355,
+      "position_value_usd": 0.013334,
       "leverage": 10,
-      "unrealized_pnl": 4.2e-05,
+      "unrealized_pnl": 2.1e-05,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 1138102.0,
       "entry_price": 4.869422,
-      "position_value_usd": 3339191.268,
+      "position_value_usd": 3338394.5966,
       "leverage": 3,
-      "unrealized_pnl": 2202707.9806,
-      "liquidation_price": 21.9637833229
+      "unrealized_pnl": 2203504.652,
+      "liquidation_price": 21.97023127
     }
   ],
-  "timestamp_ms": 1793233822308
+  "timestamp_ms": 1793234113757
 }
