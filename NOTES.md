@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 16:02 UTC — Daily refresh (Job A)
+- Leaderboard: 48379 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x4b67337795c5e1ca1aaea307f57b79419c632c88
+-   +0x60a8c761f39696b3b419f31dcda20b405cb685f6
+-   +0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13
+-   +0xacb66d1996501bcc82a0e7819c9e041599f5efbd
+-   -0xfb1898bb5955fdd11704e397104c6a0e0725eb17
+-   -0x47f5a6397b79deaaca5c456503e7c1a49357b942
+-   -0xba5d9cc840745aeeeeedac5712e32f13ab8ea352
+-   -0xc435249d0e837efa5eb431ad74c9fa8889f2c905
+- #1 0x4b673377... acc=$1,086,929 month=$680,021 edge=717bps
+- #2 0xa40ee97b... acc=$2,349,037 month=$185,155 edge=151bps
+- #3 0x60a8c761... acc=$31,339,905 month=$3,902,357 edge=2654bps
+- #4 0xbbf7fbc7... acc=$2,807,460 month=$727,259 edge=529bps
+- #5 0xacb66d19... acc=$5,482,503 month=$2,006,479 edge=1829bps
+- Current positions across the shortlist:
+-   0x4b673377... 1 positions: LONG kPEPE x4
+-   0xa40ee97b... no open positions
+-   0x60a8c761... 6 positions: SHORT BTC x10, LONG ETH x10, SHORT NEAR x2, LONG HYPE x10, LONG FARTCOIN x10, SHORT LIT x3
+-   0xbbf7fbc7... no open positions
+-   0xacb66d19... 14 positions: SHORT BTC x20, SHORT ETH x10, SHORT SOL x20, SHORT OP x5, SHORT XRP x20, LONG WLD x10, LONG JUP x10, SHORT ENS x5, SHORT STRK x5, SHORT HBAR x5, SHORT EIGEN x5, SHORT PAXG x10, LONG PUMP x10, LONG ASTER x5
+
 ### 14:15 UTC — Position poll (Job B)
 - 3 signals
 - NEW SHORT HYPE x10 (0xfb1898bb...)
