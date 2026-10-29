@@ -1,45 +1,45 @@
 {
-  "account_value": 334405.961921,
+  "account_value": 333295.706115,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 11.999,
       "entry_price": 83108.7,
-      "position_value_usd": 964947.581,
+      "position_value_usd": 964923.583,
       "leverage": 20,
-      "unrealized_pnl": 32273.888229,
-      "liquidation_price": 109653.337960221
+      "unrealized_pnl": 32297.886229,
+      "liquidation_price": 109557.1410610143
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 556.004,
       "entry_price": 2484.68,
-      "position_value_usd": 1294355.07184,
+      "position_value_usd": 1295100.1172,
       "leverage": 20,
-      "unrealized_pnl": 87140.81723,
-      "liquidation_price": 2954.2208465668
+      "unrealized_pnl": 86395.77187,
+      "liquidation_price": 2953.542951382
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 180.0,
       "entry_price": 159.2461,
-      "position_value_usd": 23995.8,
+      "position_value_usd": 24044.4,
       "leverage": 10,
-      "unrealized_pnl": 4668.5086,
-      "liquidation_price": 2012.5036849206
+      "unrealized_pnl": 4619.9086,
+      "liquidation_price": 2006.7186745979
     },
     {
       "coin": "XLM",
       "side": "SHORT",
       "size": 540000.0,
       "entry_price": 0.183935,
-      "position_value_usd": 92091.6,
+      "position_value_usd": 92124.0,
       "leverage": 5,
-      "unrealized_pnl": 7233.73357,
-      "liquidation_price": 0.7684652634
+      "unrealized_pnl": 7201.33357,
+      "liquidation_price": 0.7665986692
     },
     {
       "coin": "BNB",
@@ -49,28 +49,28 @@
       "position_value_usd": 442300.701,
       "leverage": 10,
       "unrealized_pnl": -18366.595492,
-      "liquidation_price": 1312.4536584428
+      "liquidation_price": 1310.6210590144
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 1224.82,
       "entry_price": 107.3077,
-      "position_value_usd": 123449.240354,
+      "position_value_usd": 123510.8488,
       "leverage": 20,
-      "unrealized_pnl": 7983.382346,
-      "liquidation_price": 383.6924791035
+      "unrealized_pnl": 7921.7739,
+      "liquidation_price": 382.8312289742
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 180000.0,
       "entry_price": 1.12684,
-      "position_value_usd": 167851.8,
+      "position_value_usd": 168098.4,
       "leverage": 10,
-      "unrealized_pnl": 34980.32083,
-      "liquidation_price": 2.8117036849
+      "unrealized_pnl": 34733.72083,
+      "liquidation_price": 2.8070186746
     }
   ],
-  "timestamp_ms": 1793283916794
+  "timestamp_ms": 1793284221330
 }
