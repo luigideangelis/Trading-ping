@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-30
 
+### 16:05 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT ASTER x5 (0xc435249d...) — trader no longer on shortlist
+- Portfolio equity: $11,083.90 (+10.84%)
+
 ### 15:51 UTC — Daily refresh (Job A)
 - Leaderboard: 48414 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped

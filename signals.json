@@ -3449,5 +3449,19 @@
     "leverage": 3,
     "unrealized_pnl": 119837.288506,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-10-30T16:05:15.271737+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ASTER",
+    "side": "SHORT",
+    "size": 19923.0,
+    "entry_price": 0.725882,
+    "position_value_usd": 13474.32336,
+    "leverage": 5,
+    "unrealized_pnl": 987.439487,
+    "liquidation_price": 79.7169256132
   }
 ]
