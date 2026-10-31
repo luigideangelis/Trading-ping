@@ -4,6 +4,31 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-31
 
+### 14:15 UTC — Position poll (Job B)
+- 21 signals
+- NEW SHORT XMR x3 (0x5b5d5120...)
+- NEW SHORT PURR x3 (0x5b5d5120...)
+- NEW SHORT ZRO x3 (0x5b5d5120...)
+- NEW SHORT BOME x3 (0x641edd3f...)
+- NEW SHORT REZ x3 (0x641edd3f...)
+- NEW SHORT SUI x10 (0x641edd3f...)
+- NEW SHORT GRIFFAIN x3 (0x641edd3f...)
+- NEW SHORT ZORA x3 (0x641edd3f...)
+- NEW SHORT VVV x3 (0x641edd3f...)
+- NEW SHORT NIL x3 (0x641edd3f...)
+- NEW SHORT MON x5 (0x641edd3f...)
+- NEW SHORT BNB x10 (0x641edd3f...)
+- NEW SHORT CHIP x3 (0x641edd3f...)
+- NEW SHORT MEGA x3 (0x641edd3f...)
+- NEW SHORT WLD x10 (0x641edd3f...)
+- NEW SHORT 0G x3 (0x641edd3f...)
+- NEW SHORT NEAR x10 (0x641edd3f...)
+- NEW SHORT STRK x5 (0x641edd3f...)
+- NEW SHORT PUMP x10 (0x641edd3f...)
+- NEW SHORT HYPE x5 (0xd4758770...)
+- NEW SHORT UNI x10 (0xd4758770...)
+- Portfolio equity: $11,024.35 (+10.24%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48236 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
