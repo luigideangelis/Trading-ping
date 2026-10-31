@@ -3775,5 +3775,19 @@
     "leverage": 3,
     "unrealized_pnl": 1319.8626,
     "liquidation_price": 52217.1053486816
+  },
+  {
+    "ts": "2026-10-31T18:05:14.732656+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "IOTA",
+    "side": "LONG",
+    "size": 332463.0,
+    "entry_price": 0.033829,
+    "position_value_usd": 13272.920349,
+    "leverage": 3,
+    "unrealized_pnl": 2025.738454,
+    "liquidation_price": 0.0
   }
 ]

@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-31
 
+### 18:05 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED LONG IOTA x3 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $10,747.27 (+7.47%)
+
 ### 15:20 UTC — Position poll (Job B)
 - 3 signals
 - NEW SHORT ETH x4 (0x91a9cadc...)
