@@ -3789,5 +3789,19 @@
     "leverage": 3,
     "unrealized_pnl": 2025.738454,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-01T01:45:20.196940+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "BNB",
+    "side": "SHORT",
+    "size": 0.231,
+    "entry_price": 729.48,
+    "position_value_usd": 162.39069,
+    "leverage": 10,
+    "unrealized_pnl": 6.11919,
+    "liquidation_price": 7841259.220989486
   }
 ]
