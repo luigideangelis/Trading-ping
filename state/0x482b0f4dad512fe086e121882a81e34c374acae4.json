@@ -1,44 +1,44 @@
 {
-  "account_value": 1218843.014499,
+  "account_value": 1235560.244686,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 718206.07082,
+      "position_value_usd": 718546.92,
       "leverage": 40,
-      "unrealized_pnl": 31793.6419,
-      "liquidation_price": 243076.488479306
+      "unrealized_pnl": 31452.79272,
+      "liquidation_price": 244765.5502070042
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 472104.09113,
+      "position_value_usd": 472270.75777,
       "leverage": 25,
-      "unrealized_pnl": 27895.82887,
-      "liquidation_price": 9513.4502367826
+      "unrealized_pnl": 27729.16223,
+      "liquidation_price": 9586.7644212
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2873737.5569,
+      "position_value_usd": 2873828.48837,
       "leverage": 20,
-      "unrealized_pnl": -205489.26977,
-      "liquidation_price": 144.3802708512
+      "unrealized_pnl": -205580.20124,
+      "liquidation_price": 144.8792518159
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1569965.5386,
+      "position_value_usd": 1573053.56456,
       "leverage": 3,
-      "unrealized_pnl": 95592.999586,
+      "unrealized_pnl": 98681.025546,
       "liquidation_price": 0.0
     },
     {
@@ -46,11 +46,11 @@
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3946379.648663,
+      "position_value_usd": 3960607.30018,
       "leverage": 10,
-      "unrealized_pnl": 1579106.002968,
-      "liquidation_price": 51.66104514
+      "unrealized_pnl": 1593333.654485,
+      "liquidation_price": 51.6167744155
     }
   ],
-  "timestamp_ms": 1793548820431
+  "timestamp_ms": 1793549113832
 }
