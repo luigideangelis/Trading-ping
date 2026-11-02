@@ -4,6 +4,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-02
 
+### 14:15 UTC — Position poll (Job B)
+- 10 signals
+- NEW SHORT TAO x5 (0x781e95fd...)
+- NEW SHORT XPL x10 (0x781e95fd...)
+- NEW SHORT BTC x40 (0x781e95fd...)
+- NEW SHORT HYPE x10 (0x781e95fd...)
+- NEW SHORT NEAR x10 (0x781e95fd...)
+- NEW SHORT AERO x3 (0x781e95fd...)
+- NEW SHORT PAXG x10 (0x781e95fd...)
+- NEW SHORT MON x5 (0x781e95fd...)
+- NEW SHORT TRX x10 (0x781e95fd...)
+- NEW SHORT DOT x10 (0x47f5a639...)
+- Portfolio equity: $11,054.52 (+10.55%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48220 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
