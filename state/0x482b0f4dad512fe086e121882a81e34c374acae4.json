@@ -1,56 +1,56 @@
 {
-  "account_value": 1321053.14463,
+  "account_value": 1314509.91971,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2858733.86435,
+      "position_value_usd": 2862674.22805,
       "leverage": 20,
-      "unrealized_pnl": -190485.57722,
-      "liquidation_price": 128.7206769857
+      "unrealized_pnl": -194425.94092,
+      "liquidation_price": 128.8641115193
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 716929.268216,
+      "position_value_usd": 717469.09962,
       "leverage": 40,
-      "unrealized_pnl": 33070.444504,
-      "liquidation_price": 192426.1815324904
+      "unrealized_pnl": 32530.6131,
+      "liquidation_price": 192529.5305860889
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3875493.44691,
+      "position_value_usd": 3877788.95538,
       "leverage": 10,
-      "unrealized_pnl": 1508219.801215,
-      "liquidation_price": 61.1044625082
+      "unrealized_pnl": 1510515.309685,
+      "liquidation_price": 61.145701221
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 476729.09039,
+      "position_value_usd": 477479.09027,
       "leverage": 25,
-      "unrealized_pnl": 23270.82961,
-      "liquidation_price": 7318.5325762405
+      "unrealized_pnl": 22520.82973,
+      "liquidation_price": 7324.0967529237
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1583434.588,
+      "position_value_usd": 1584880.04696,
       "leverage": 3,
-      "unrealized_pnl": 109062.048986,
-      "liquidation_price": 0.0228853287
+      "unrealized_pnl": 110507.507946,
+      "liquidation_price": 0.0229572127
     }
   ],
-  "timestamp_ms": 1793631320744
+  "timestamp_ms": 1793631630170
 }
