@@ -1,56 +1,56 @@
 {
-  "account_value": 1270309.947771,
+  "account_value": 1262483.377438,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2771469.96364,
+      "position_value_usd": 2776622.74694,
       "leverage": 20,
-      "unrealized_pnl": -103221.67651,
-      "liquidation_price": 126.1456793344
+      "unrealized_pnl": -108374.45981,
+      "liquidation_price": 126.6746736435
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 708468.83884,
+      "position_value_usd": 709076.84008,
       "leverage": 40,
-      "unrealized_pnl": 41530.87388,
-      "liquidation_price": 192520.3821786748
+      "unrealized_pnl": 40922.87264,
+      "liquidation_price": 193782.1554053994
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3756527.595203,
+      "position_value_usd": 3758647.56479,
       "leverage": 10,
-      "unrealized_pnl": 1389253.949508,
-      "liquidation_price": 58.2404799453
+      "unrealized_pnl": 1391373.919095,
+      "liquidation_price": 58.0267412267
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 468354.09173,
+      "position_value_usd": 468729.09167,
       "leverage": 25,
-      "unrealized_pnl": 31645.82827,
-      "liquidation_price": 7322.7788028964
+      "unrealized_pnl": 31270.82833,
+      "liquidation_price": 7377.0650501281
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1494867.37536,
+      "position_value_usd": 1491056.61992,
       "leverage": 3,
-      "unrealized_pnl": 20494.836346,
-      "liquidation_price": 0.0152828231
+      "unrealized_pnl": 16684.080906,
+      "liquidation_price": 0.0139742961
     }
   ],
-  "timestamp_ms": 1793652321495
+  "timestamp_ms": 1793652619832
 }
