@@ -3999,5 +3999,31 @@
     "leverage": 10,
     "unrealized_pnl": 57.668127,
     "liquidation_price": 490.4588085853
+  },
+  {
+    "ts": "2026-11-02T15:15:31.692710+00:00",
+    "trader": "0x781e95fdc049433565cf8e05265361b8402196b7",
+    "type": "NEW",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 0.486,
+    "entry_price": 606.63,
+    "position_value_usd": 294.89994,
+    "leverage": 5,
+    "unrealized_pnl": -0.07776,
+    "liquidation_price": 6602344.395774409
+  },
+  {
+    "ts": "2026-11-02T15:15:31.692710+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "NEW",
+    "coin": "WLFI",
+    "side": "SHORT",
+    "size": 203426.0,
+    "entry_price": 0.050418,
+    "position_value_usd": 10207.91668,
+    "leverage": 3,
+    "unrealized_pnl": 48.415388,
+    "liquidation_price": 8.4619644713
   }
 ]

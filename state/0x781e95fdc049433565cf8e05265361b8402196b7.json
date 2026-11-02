@@ -1,96 +1,106 @@
 {
-  "account_value": 1249312.685506,
+  "account_value": 1244394.954396,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 37.72296,
       "entry_price": 85606.1,
-      "position_value_usd": 2942994.44736,
+      "position_value_usd": 2939486.21208,
       "leverage": 40,
-      "unrealized_pnl": 286324.289967,
-      "liquidation_price": 169645.9767201542
+      "unrealized_pnl": 289832.525247,
+      "liquidation_price": 170326.0737738738
     },
     {
       "coin": "TRX",
       "side": "SHORT",
       "size": 1365570.0,
       "entry_price": 0.331078,
-      "position_value_usd": 435411.9945,
+      "position_value_usd": 435330.0603,
       "leverage": 10,
-      "unrealized_pnl": 16698.8414,
-      "liquidation_price": 2.7340853771
+      "unrealized_pnl": 16780.7756,
+      "liquidation_price": 2.7536855987
     },
     {
       "coin": "NEAR",
       "side": "SHORT",
-      "size": 1032565.7,
+      "size": 1026128.5,
       "entry_price": 2.4474,
-      "position_value_usd": 4210286.64175,
+      "position_value_usd": 4168647.03125,
       "leverage": 10,
-      "unrealized_pnl": -1683176.514181,
-      "liquidation_price": 7.3054840318
+      "unrealized_pnl": -1657291.362044,
+      "liquidation_price": 7.3381399873
     },
     {
       "coin": "TAO",
       "side": "SHORT",
       "size": 783.343,
       "entry_price": 233.564,
-      "position_value_usd": 180325.5586,
+      "position_value_usd": 179730.21792,
       "leverage": 5,
-      "unrealized_pnl": 2635.329083,
-      "liquidation_price": 4291.7679105716
+      "unrealized_pnl": 3230.669763,
+      "liquidation_price": 4325.2760212657
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
-      "size": 11560.06,
-      "entry_price": 85.8487,
-      "position_value_usd": 997008.93476,
+      "size": 11573.37,
+      "entry_price": 85.8493,
+      "position_value_usd": 996293.55645,
       "leverage": 10,
-      "unrealized_pnl": -4591.767827,
-      "liquidation_price": 374.5754369907
+      "unrealized_pnl": -2727.101427,
+      "liquidation_price": 376.5127273353
     },
     {
       "coin": "PAXG",
       "side": "SHORT",
-      "size": 400.097,
-      "entry_price": 4320.473,
-      "position_value_usd": 1585384.3625,
+      "size": 400.314,
+      "entry_price": 4320.28,
+      "position_value_usd": 1585763.8482,
       "leverage": 10,
-      "unrealized_pnl": 143224.295876,
-      "liquidation_price": 12075.2864057125
+      "unrealized_pnl": 143704.768776,
+      "liquidation_price": 12136.7021539387
     },
     {
       "coin": "XPL",
       "side": "SHORT",
       "size": 2059636.0,
       "entry_price": 0.094308,
-      "position_value_usd": 145389.70524,
+      "position_value_usd": 145544.17794,
       "leverage": 10,
-      "unrealized_pnl": 48851.814869,
-      "liquidation_price": 1.6783283602
+      "unrealized_pnl": 48697.342169,
+      "liquidation_price": 1.6914331689
     },
     {
       "coin": "MON",
       "side": "SHORT",
       "size": 40922154.0,
       "entry_price": 0.02165,
-      "position_value_usd": 757469.07054,
+      "position_value_usd": 753704.232372,
       "leverage": 5,
-      "unrealized_pnl": 128497.27044,
-      "liquidation_price": 0.0962576374
+      "unrealized_pnl": 132262.108608,
+      "liquidation_price": 0.0968216069
     },
     {
       "coin": "AERO",
       "side": "SHORT",
-      "size": 149436.0,
+      "size": 146684.0,
       "entry_price": 0.539716,
-      "position_value_usd": 93080.69568,
+      "position_value_usd": 91463.34136,
       "leverage": 3,
-      "unrealized_pnl": -12427.610889,
-      "liquidation_price": 20.6969922102
+      "unrealized_pnl": -12295.556561,
+      "liquidation_price": 21.2468171948
+    },
+    {
+      "coin": "XMR",
+      "side": "SHORT",
+      "size": 0.486,
+      "entry_price": 606.63,
+      "position_value_usd": 294.89994,
+      "leverage": 5,
+      "unrealized_pnl": -0.07776,
+      "liquidation_price": 6602344.395774409
     }
   ],
-  "timestamp_ms": 1793632218607
+  "timestamp_ms": 1793632531868
 }
