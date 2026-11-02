@@ -1,56 +1,56 @@
 {
-  "account_value": 1321673.178043,
+  "account_value": 1314305.163013,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2787534.52334,
+      "position_value_usd": 2784048.81699,
       "leverage": 20,
-      "unrealized_pnl": -119286.23621,
-      "liquidation_price": 128.2473793688
+      "unrealized_pnl": -115800.52986,
+      "liquidation_price": 127.884655371
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 707639.74624,
+      "position_value_usd": 708063.50468,
       "leverage": 40,
-      "unrealized_pnl": 42359.96648,
-      "liquidation_price": 197665.553806334
+      "unrealized_pnl": 41936.20804,
+      "liquidation_price": 196886.410575074
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3797536.17887,
+      "position_value_usd": 3788489.1749,
       "leverage": 10,
-      "unrealized_pnl": 1430262.533175,
-      "liquidation_price": 58.009611361
+      "unrealized_pnl": 1421215.529205,
+      "liquidation_price": 57.9886031005
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 469687.42485,
+      "position_value_usd": 469624.92486,
       "leverage": 25,
-      "unrealized_pnl": 30312.49515,
-      "liquidation_price": 7558.9669485218
+      "unrealized_pnl": 30374.99514,
+      "liquidation_price": 7522.4488173
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1506562.4524,
+      "position_value_usd": 1505116.99344,
       "leverage": 3,
-      "unrealized_pnl": 32189.913386,
-      "liquidation_price": 0.0117136468
+      "unrealized_pnl": 30744.454426,
+      "liquidation_price": 0.0123064813
     }
   ],
-  "timestamp_ms": 1793661330732
+  "timestamp_ms": 1793661620645
 }
