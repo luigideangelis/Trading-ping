@@ -1,56 +1,56 @@
 {
-  "account_value": 1202159.019809,
+  "account_value": 1200120.062583,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2782836.39739,
+      "position_value_usd": 2790838.36675,
       "leverage": 20,
-      "unrealized_pnl": -114588.11026,
-      "liquidation_price": 125.6724596917
+      "unrealized_pnl": -122590.07962,
+      "liquidation_price": 125.838585812
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 707068.59356,
+      "position_value_usd": 708266.17176,
       "leverage": 40,
-      "unrealized_pnl": 42931.11916,
-      "liquidation_price": 189543.0495390047
+      "unrealized_pnl": 41733.54096,
+      "liquidation_price": 189347.0416833482
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3734027.1112,
+      "position_value_usd": 3738978.2079,
       "leverage": 10,
-      "unrealized_pnl": 1366753.465505,
-      "liquidation_price": 58.3568808699
+      "unrealized_pnl": 1371704.562205,
+      "liquidation_price": 58.5379942461
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 467916.5918,
+      "position_value_usd": 468979.09163,
       "leverage": 25,
-      "unrealized_pnl": 32083.3282,
-      "liquidation_price": 7196.6660686054
+      "unrealized_pnl": 31020.82837,
+      "liquidation_price": 7187.4565586283
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1474499.54456,
+      "position_value_usd": 1477771.538024,
       "leverage": 3,
-      "unrealized_pnl": 127.005546,
-      "liquidation_price": 0.0161393644
+      "unrealized_pnl": 3398.99901,
+      "liquidation_price": 0.016666049
     }
   ],
-  "timestamp_ms": 1793677520176
+  "timestamp_ms": 1793677820969
 }
