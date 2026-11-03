@@ -4355,5 +4355,47 @@
     "leverage": 10,
     "unrealized_pnl": 6544.086281,
     "liquidation_price": 0.398756726
+  },
+  {
+    "ts": "2026-11-03T18:30:39.105018+00:00",
+    "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 9.72,
+    "entry_price": 78.376,
+    "position_value_usd": 840.04128,
+    "leverage": 10,
+    "unrealized_pnl": 78.22656,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-03T18:30:39.105018+00:00",
+    "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 15.0542,
+    "entry_price": 2430.55,
+    "position_value_usd": 34570.46488,
+    "leverage": 10,
+    "unrealized_pnl": -2019.659131,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-03T18:30:39.105018+00:00",
+    "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "FARTCOIN",
+    "side": "LONG",
+    "size": 0.1,
+    "entry_price": 0.13313,
+    "position_value_usd": 0.011798,
+    "leverage": 10,
+    "unrealized_pnl": -0.001515,
+    "liquidation_price": 0.0
   }
 ]
