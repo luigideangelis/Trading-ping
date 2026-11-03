@@ -1,56 +1,56 @@
 {
-  "account_value": 1311343.433951,
+  "account_value": 1309917.26255,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2839956.515795,
+      "position_value_usd": 2841911.5424,
       "leverage": 20,
-      "unrealized_pnl": -171708.228665,
-      "liquidation_price": 132.7275512915
+      "unrealized_pnl": -173663.25527,
+      "liquidation_price": 133.0018189609
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 716013.5815,
+      "position_value_usd": 715764.85372,
       "leverage": 40,
-      "unrealized_pnl": 33986.13122,
-      "liquidation_price": 207736.759882846
+      "unrealized_pnl": 34234.859,
+      "liquidation_price": 208408.4744767419
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3926624.77283,
+      "position_value_usd": 3934051.41788,
       "leverage": 10,
-      "unrealized_pnl": 1559351.127135,
-      "liquidation_price": 58.879023302
+      "unrealized_pnl": 1566777.772185,
+      "liquidation_price": 58.8916099386
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 479243.673321,
+      "position_value_usd": 479291.58998,
       "leverage": 25,
-      "unrealized_pnl": 20756.246679,
-      "liquidation_price": 8006.9949853357
+      "unrealized_pnl": 20708.33002,
+      "liquidation_price": 8037.8937660865
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1529426.98504,
+      "position_value_usd": 1539413.7924,
       "leverage": 3,
-      "unrealized_pnl": 55054.446026,
-      "liquidation_price": 0.0056495296
+      "unrealized_pnl": 65041.253386,
+      "liquidation_price": 0.0058143835
     }
   ],
-  "timestamp_ms": 1793721325491
+  "timestamp_ms": 1793721632520
 }
