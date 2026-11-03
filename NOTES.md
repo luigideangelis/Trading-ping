@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-03
 
+### 17:10 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT PUMP x10 (0xba5d9cc8...)
+- Portfolio equity: $11,132.82 (+11.33%)
+
 ### 16:59 UTC — Daily refresh (Job A)
 - Leaderboard: 48352 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
