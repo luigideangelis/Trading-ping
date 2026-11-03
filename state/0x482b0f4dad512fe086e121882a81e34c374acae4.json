@@ -1,56 +1,56 @@
 {
-  "account_value": 1269239.511885,
+  "account_value": 1275801.571698,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2827977.810147,
+      "position_value_usd": 2830160.165427,
       "leverage": 20,
-      "unrealized_pnl": -159729.523017,
-      "liquidation_price": 132.3755277584
+      "unrealized_pnl": -161911.878297,
+      "liquidation_price": 132.7105662298
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 712095.658358,
+      "position_value_usd": 712255.02838,
       "leverage": 40,
-      "unrealized_pnl": 37904.054362,
-      "liquidation_price": 207455.2762663396
+      "unrealized_pnl": 37744.68434,
+      "liquidation_price": 208348.7304383934
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3900068.89053,
+      "position_value_usd": 3903966.753932,
       "leverage": 10,
-      "unrealized_pnl": 1532795.244835,
-      "liquidation_price": 58.2576520685
+      "unrealized_pnl": 1536693.108237,
+      "liquidation_price": 58.1531331118
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 476270.75713,
+      "position_value_usd": 476104.09049,
       "leverage": 25,
-      "unrealized_pnl": 23729.16287,
-      "liquidation_price": 7999.0375386601
+      "unrealized_pnl": 23895.82951,
+      "liquidation_price": 8036.6947004876
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1540202.22456,
+      "position_value_usd": 1545064.22288,
       "leverage": 3,
-      "unrealized_pnl": 65829.685546,
-      "liquidation_price": 0.0063470307
+      "unrealized_pnl": 70691.683866,
+      "liquidation_price": 0.0059707465
     }
   ],
-  "timestamp_ms": 1793717728953
+  "timestamp_ms": 1793718028418
 }
