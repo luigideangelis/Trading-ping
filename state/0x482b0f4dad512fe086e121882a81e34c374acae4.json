@@ -1,56 +1,56 @@
 {
-  "account_value": 1259194.881717,
+  "account_value": 1253591.886317,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2834242.98843,
+      "position_value_usd": 2831151.31845,
       "leverage": 20,
-      "unrealized_pnl": -165994.7013,
-      "liquidation_price": 131.0049349795
+      "unrealized_pnl": -162903.03132,
+      "liquidation_price": 130.6837826263
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 715838.55084,
+      "position_value_usd": 715442.42882,
       "leverage": 40,
-      "unrealized_pnl": 34161.16188,
-      "liquidation_price": 202607.7757805743
+      "unrealized_pnl": 34557.2839,
+      "liquidation_price": 201834.8017671904
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3892012.1059,
+      "position_value_usd": 3886925.97929,
       "leverage": 10,
-      "unrealized_pnl": 1524738.460205,
-      "liquidation_price": 59.2246842388
+      "unrealized_pnl": 1519652.333595,
+      "liquidation_price": 59.2709163424
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 478854.09005,
+      "position_value_usd": 478916.59004,
       "leverage": 25,
-      "unrealized_pnl": 21145.82995,
-      "liquidation_price": 7780.8317138743
+      "unrealized_pnl": 21083.32996,
+      "liquidation_price": 7749.0908588945
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1522725.31168,
+      "position_value_usd": 1518783.15088,
       "leverage": 3,
-      "unrealized_pnl": 48352.772666,
-      "liquidation_price": 0.0094920746
+      "unrealized_pnl": 44410.611866,
+      "liquidation_price": 0.0098138466
     }
   ],
-  "timestamp_ms": 1793726122812
+  "timestamp_ms": 1793726435304
 }
