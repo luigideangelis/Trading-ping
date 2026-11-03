@@ -1,56 +1,56 @@
 {
-  "account_value": 1240058.96999,
+  "account_value": 1256511.183433,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2821603.5141,
+      "position_value_usd": 2827795.947207,
       "leverage": 20,
-      "unrealized_pnl": -153355.22697,
-      "liquidation_price": 130.4566992078
+      "unrealized_pnl": -159547.660077,
+      "liquidation_price": 131.2441287229
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 713581.57654,
+      "position_value_usd": 714161.94136,
       "leverage": 40,
-      "unrealized_pnl": 36418.13618,
-      "liquidation_price": 201925.6428838522
+      "unrealized_pnl": 35837.77136,
+      "liquidation_price": 203930.9874952716
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3870947.43994,
+      "position_value_usd": 3889491.54758,
       "leverage": 10,
-      "unrealized_pnl": 1503673.794245,
-      "liquidation_price": 58.8520377574
+      "unrealized_pnl": 1522217.901885,
+      "liquidation_price": 58.8403464854
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 476999.92368,
+      "position_value_usd": 477312.42363,
       "leverage": 25,
-      "unrealized_pnl": 22999.99632,
-      "liquidation_price": 7752.7445763968
+      "unrealized_pnl": 22687.49637,
+      "liquidation_price": 7839.5001894212
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1507876.506,
+      "position_value_usd": 1512869.90968,
       "leverage": 3,
-      "unrealized_pnl": 33503.966986,
-      "liquidation_price": 0.0087344125
+      "unrealized_pnl": 38497.370666,
+      "liquidation_price": 0.0074599763
     }
   ],
-  "timestamp_ms": 1793724328457
+  "timestamp_ms": 1793724625369
 }
