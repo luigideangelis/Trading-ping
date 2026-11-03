@@ -1,56 +1,56 @@
 {
-  "account_value": 1225410.438652,
+  "account_value": 1224536.809212,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2781533.04632,
+      "position_value_usd": 2782897.01837,
       "leverage": 20,
-      "unrealized_pnl": -113284.75919,
-      "liquidation_price": 126.4187163121
+      "unrealized_pnl": -114648.73124,
+      "liquidation_price": 126.4447441881
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 706479.0166,
+      "position_value_usd": 706700.10796,
       "leverage": 40,
-      "unrealized_pnl": 43520.69612,
-      "liquidation_price": 192107.982398535
+      "unrealized_pnl": 43299.60476,
+      "liquidation_price": 192068.788199104
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3747575.11217,
+      "position_value_usd": 3747034.99253,
       "leverage": 10,
-      "unrealized_pnl": 1380301.466475,
-      "liquidation_price": 58.084421402
+      "unrealized_pnl": 1379761.346835,
+      "liquidation_price": 58.0862062014
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 468583.25836,
+      "position_value_usd": 468645.75835,
       "leverage": 25,
-      "unrealized_pnl": 31416.66164,
-      "liquidation_price": 7315.2581989354
+      "unrealized_pnl": 31354.16165,
+      "liquidation_price": 7312.7844067984
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1483040.89296,
+      "position_value_usd": 1484354.94656,
       "leverage": 3,
-      "unrealized_pnl": 8668.353946,
-      "liquidation_price": 0.0145501111
+      "unrealized_pnl": 9982.407546,
+      "liquidation_price": 0.0147039382
     }
   ],
-  "timestamp_ms": 1793685026382
+  "timestamp_ms": 1793685322452
 }
