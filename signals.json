@@ -4133,5 +4133,19 @@
     "leverage": 10,
     "unrealized_pnl": 39056.70435,
     "liquidation_price": 56.3260317384
+  },
+  {
+    "ts": "2026-11-03T08:45:17.915182+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "WLD",
+    "side": "SHORT",
+    "size": 4728.1,
+    "entry_price": 0.38856,
+    "position_value_usd": 1720.791995,
+    "leverage": 10,
+    "unrealized_pnl": 116.387268,
+    "liquidation_price": 297.204433834
   }
 ]
