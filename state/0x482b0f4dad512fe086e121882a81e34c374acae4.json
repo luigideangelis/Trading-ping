@@ -1,56 +1,56 @@
 {
-  "account_value": 1221945.454623,
+  "account_value": 1216197.717853,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2826695.67642,
+      "position_value_usd": 2823604.00644,
       "leverage": 20,
-      "unrealized_pnl": -158447.38929,
-      "liquidation_price": 131.2651631935
+      "unrealized_pnl": -155355.71931,
+      "liquidation_price": 131.1624201107
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 712356.36192,
+      "position_value_usd": 712485.33188,
       "leverage": 40,
-      "unrealized_pnl": 37643.3508,
-      "liquidation_price": 203925.9627368255
+      "unrealized_pnl": 37514.38084,
+      "liquidation_price": 203937.4876043735
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3881614.80283,
+      "position_value_usd": 3876708.7161,
       "leverage": 10,
-      "unrealized_pnl": 1514341.157135,
-      "liquidation_price": 58.6236883046
+      "unrealized_pnl": 1509435.070405,
+      "liquidation_price": 58.515228215
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 476937.42369,
+      "position_value_usd": 477062.42367,
       "leverage": 25,
-      "unrealized_pnl": 23062.49631,
-      "liquidation_price": 7846.0826933262
+      "unrealized_pnl": 22937.49633,
+      "liquidation_price": 7846.5740519836
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1511030.23464,
+      "position_value_usd": 1507350.88456,
       "leverage": 3,
-      "unrealized_pnl": 36657.695626,
-      "liquidation_price": 0.0071573088
+      "unrealized_pnl": 32978.345546,
+      "liquidation_price": 0.0068794171
     }
   ],
-  "timestamp_ms": 1793720122015
+  "timestamp_ms": 1793720380216
 }
