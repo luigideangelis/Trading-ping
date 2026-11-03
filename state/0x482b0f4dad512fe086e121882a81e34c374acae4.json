@@ -1,56 +1,56 @@
 {
-  "account_value": 1211143.308873,
+  "account_value": 1227907.593132,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2816117.31541,
+      "position_value_usd": 2824028.3533,
       "leverage": 20,
-      "unrealized_pnl": -147869.02828,
-      "liquidation_price": 130.3432485384
+      "unrealized_pnl": -155780.06617,
+      "liquidation_price": 131.2571754415
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 711527.26932,
+      "position_value_usd": 712724.84752,
       "leverage": 40,
-      "unrealized_pnl": 38472.4434,
-      "liquidation_price": 201927.6427764791
+      "unrealized_pnl": 37274.8652,
+      "liquidation_price": 204232.4753292938
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3864420.99429,
+      "position_value_usd": 3890063.174199,
       "leverage": 10,
-      "unrealized_pnl": 1497147.348595,
-      "liquidation_price": 58.6579576456
+      "unrealized_pnl": 1522789.528504,
+      "liquidation_price": 58.7532528643
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 475645.75723,
+      "position_value_usd": 476729.09039,
       "leverage": 25,
-      "unrealized_pnl": 24354.16277,
-      "liquidation_price": 7756.1205292334
+      "unrealized_pnl": 23270.82961,
+      "liquidation_price": 7856.7807691037
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1504722.77736,
+      "position_value_usd": 1506036.83096,
       "leverage": 3,
-      "unrealized_pnl": 30350.238346,
-      "liquidation_price": 0.0083027637
+      "unrealized_pnl": 31664.291946,
+      "liquidation_price": 0.0065503007
     }
   ],
-  "timestamp_ms": 1793719521903
+  "timestamp_ms": 1793719829657
 }
