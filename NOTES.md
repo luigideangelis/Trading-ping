@@ -4,6 +4,31 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-04
 
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 48477 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0xb69928c8891fda94f534f79b8acfe3b83773392e
+-   +0xa9d90f0eb0993390bd02a2c50cee658ebd01b48e
+-   +0xcafe9392d902f6f517b1573371923ebf7ffa7b3b
+-   +0x598930e14f4496e77593d0ccc6d7ab2e9179bc29
+-   +0xf818fa41af44a1b42ba7433f4ec472be40a2c268
+-   -0xba5d9cc840745aeeeeedac5712e32f13ab8ea352
+-   -0xacb66d1996501bcc82a0e7819c9e041599f5efbd
+-   -0xf6f371fb269f8e7c078e340fb8d3a253463247f8
+-   -0x47f5a6397b79deaaca5c456503e7c1a49357b942
+-   -0xd47587702a91731dc1089b5db0932cf820151a91
+- #1 0xb69928c8... acc=$1,531,143 month=$347,239 edge=426bps
+- #2 0xa9d90f0e... acc=$1,208,296 month=$189,426 edge=181bps
+- #3 0xcafe9392... acc=$5,843,143 month=$1,937,089 edge=2323bps
+- #4 0x598930e1... acc=$560,007 month=$184,265 edge=263bps
+- #5 0xf818fa41... acc=$34,403,309 month=$12,952,750 edge=903bps
+- Current positions across the shortlist:
+-   0xb69928c8... no open positions
+-   0xa9d90f0e... 1 positions: LONG ETH x20
+-   0xcafe9392... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0x598930e1... no open positions
+-   0xf818fa41... 6 positions: SHORT WLD x10, SHORT UNI x10, SHORT NEAR x10, SHORT ZEC x10, SHORT XMR x5, SHORT DASH x5
+
 ### 08:45 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT BNB x10 (0xabe67249...) — trader no longer on shortlist
