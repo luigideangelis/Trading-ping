@@ -1,56 +1,56 @@
 {
-  "account_value": 1254056.491728,
+  "account_value": 1248514.199476,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2787625.45481,
+      "position_value_usd": 2787898.24922,
       "leverage": 20,
-      "unrealized_pnl": -119377.16768,
-      "liquidation_price": 126.5541848675
+      "unrealized_pnl": -119649.96209,
+      "liquidation_price": 126.2756913929
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 709270.29502,
+      "position_value_usd": 708754.41518,
       "leverage": 40,
-      "unrealized_pnl": 40729.4177,
-      "liquidation_price": 192192.7038772
+      "unrealized_pnl": 41245.29754,
+      "liquidation_price": 191179.0925974842
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3755496.86689,
+      "position_value_usd": 3750950.85992,
       "leverage": 10,
-      "unrealized_pnl": 1388223.221195,
-      "liquidation_price": 58.3080353547
+      "unrealized_pnl": 1383677.214225,
+      "liquidation_price": 58.4159228707
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 471958.25782,
+      "position_value_usd": 471791.59118,
       "leverage": 25,
-      "unrealized_pnl": 28041.66218,
-      "liquidation_price": 7321.8772682204
+      "unrealized_pnl": 28208.32882,
+      "liquidation_price": 7279.0446977813
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1455971.3888,
+      "position_value_usd": 1454565.351448,
       "leverage": 3,
-      "unrealized_pnl": -18401.150214,
-      "liquidation_price": 0.0126760348
+      "unrealized_pnl": -19807.187566,
+      "liquidation_price": 0.013384702
     }
   ],
-  "timestamp_ms": 1793752820719
+  "timestamp_ms": 1793753123577
 }
