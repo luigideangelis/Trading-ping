@@ -1,56 +1,56 @@
 {
-  "account_value": 1265762.993102,
+  "account_value": 1280468.88483,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2792153.842016,
+      "position_value_usd": 2799992.13473,
       "leverage": 20,
-      "unrealized_pnl": -123905.554886,
-      "liquidation_price": 128.0498245969
+      "unrealized_pnl": -131743.8476,
+      "liquidation_price": 128.3674568836
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 712291.87694,
+      "position_value_usd": 713296.0002,
       "leverage": 40,
-      "unrealized_pnl": 37707.83578,
-      "liquidation_price": 197004.8903510497
+      "unrealized_pnl": 36703.71252,
+      "liquidation_price": 197310.520843738
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3784348.25766,
+      "position_value_usd": 3803342.465,
       "leverage": 10,
-      "unrealized_pnl": 1417074.611965,
-      "liquidation_price": 57.9708821167
+      "unrealized_pnl": 1436068.819305,
+      "liquidation_price": 58.3499903337
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 474958.25734,
+      "position_value_usd": 475902.007189,
       "leverage": 25,
-      "unrealized_pnl": 25041.66266,
-      "liquidation_price": 7533.1023138423
+      "unrealized_pnl": 24097.912811,
+      "liquidation_price": 7546.2630445033
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1467403.65512,
+      "position_value_usd": 1472265.65344,
       "leverage": 3,
-      "unrealized_pnl": -6968.883894,
-      "liquidation_price": 0.0097265271
+      "unrealized_pnl": -2106.885574,
+      "liquidation_price": 0.0099290426
     }
   ],
-  "timestamp_ms": 1793769321820
+  "timestamp_ms": 1793769620179
 }
