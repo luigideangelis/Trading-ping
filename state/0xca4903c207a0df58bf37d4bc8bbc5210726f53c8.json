@@ -1,56 +1,56 @@
 {
-  "account_value": 14363198.96912,
+  "account_value": 14229103.742596,
   "positions": [
     {
       "coin": "XRP",
       "side": "SHORT",
       "size": 4138886.0,
       "entry_price": 1.438387,
-      "position_value_usd": 5450085.0848,
+      "position_value_usd": 5460018.4112,
       "leverage": 20,
-      "unrealized_pnl": 503237.647652,
-      "liquidation_price": 4.4156568309
+      "unrealized_pnl": 493304.321252,
+      "liquidation_price": 4.3858366571
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 73943.45,
       "entry_price": 110.7011,
-      "position_value_usd": 7174141.4059,
+      "position_value_usd": 7187377.28345,
       "leverage": 20,
-      "unrealized_pnl": 1011480.854523,
-      "liquidation_price": 270.4763783574
+      "unrealized_pnl": 998244.976973,
+      "liquidation_price": 268.8518970983
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 269.5862,
       "entry_price": 80669.4,
-      "position_value_usd": 21702497.8586,
+      "position_value_usd": 21755875.9262,
       "leverage": 40,
-      "unrealized_pnl": 44859.613119,
-      "liquidation_price": 128666.2908149922
+      "unrealized_pnl": -8518.454481,
+      "liquidation_price": 128363.5159531071
     },
     {
       "coin": "DOGE",
       "side": "SHORT",
       "size": 46542649.0,
       "entry_price": 0.092947,
-      "position_value_usd": 3610685.624122,
+      "position_value_usd": 3617248.137631,
       "leverage": 10,
-      "unrealized_pnl": 715359.055859,
-      "liquidation_price": 0.3465880128
+      "unrealized_pnl": 708796.54235,
+      "liquidation_price": 0.3439319977
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 9219.7905,
       "entry_price": 2548.08,
-      "position_value_usd": 22465863.51135,
+      "position_value_usd": 22516848.952815,
       "leverage": 25,
-      "unrealized_pnl": 1026962.314952,
-      "liquidation_price": 3834.6370568412
+      "unrealized_pnl": 975976.873487,
+      "liquidation_price": 3825.632092043
     }
   ],
-  "timestamp_ms": 1793808921559
+  "timestamp_ms": 1793809225343
 }
