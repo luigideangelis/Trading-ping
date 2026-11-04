@@ -4,6 +4,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-04
 
+### 17:15 UTC — Position poll (Job B)
+- 7 signals
+- NEW SHORT TAO x5 (0x34ea1e25...)
+- NEW SHORT ZEC x10 (0x34ea1e25...)
+- NEW SHORT VVV x3 (0x34ea1e25...)
+- NEW SHORT HYPE x10 (0x34ea1e25...)
+- NEW SHORT BTC x30 (0x34ea1e25...)
+- NEW LONG WLFI x5 (0x34ea1e25...)
+- NEW SHORT USELESS x3 (0x34ea1e25...)
+- Portfolio equity: $10,410.08 (+4.10%)
+
 ### 17:10 UTC — Daily refresh (Job A)
 - Leaderboard: 48568 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
