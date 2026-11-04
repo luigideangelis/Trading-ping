@@ -1,26 +1,26 @@
 {
-  "account_value": 1234907.478373,
+  "account_value": 1236724.809058,
   "positions": [
     {
       "coin": "LIT",
       "side": "SHORT",
       "size": 1024292.0,
       "entry_price": 4.869422,
-      "position_value_usd": 3483207.3752,
+      "position_value_usd": 3501081.2706,
       "leverage": 3,
-      "unrealized_pnl": 1504502.921648,
-      "liquidation_price": 16.0269721072
+      "unrealized_pnl": 1486629.026248,
+      "liquidation_price": 16.0542276211
     },
     {
       "coin": "ENA",
       "side": "SHORT",
-      "size": 3792560.0,
+      "size": 3733140.0,
       "entry_price": 0.185468,
-      "position_value_usd": 700068.6504,
+      "position_value_usd": 696267.9414,
       "leverage": 10,
-      "unrealized_pnl": 3330.244993,
-      "liquidation_price": 3.7570986642
+      "unrealized_pnl": -3889.560496,
+      "liquidation_price": 3.8187004458
     }
   ],
-  "timestamp_ms": 1793808317244
+  "timestamp_ms": 1793808619199
 }
