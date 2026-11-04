@@ -1,56 +1,56 @@
 {
-  "account_value": 1394030.145898,
+  "account_value": 1392895.401409,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2829514.55199,
+      "position_value_usd": 2826180.39809,
       "leverage": 20,
-      "unrealized_pnl": -161266.26486,
-      "liquidation_price": 131.9003110649
+      "unrealized_pnl": -157932.11096,
+      "liquidation_price": 131.839017942
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 722904.26222,
+      "position_value_usd": 722784.5044,
       "leverage": 40,
-      "unrealized_pnl": 27095.4505,
-      "liquidation_price": 206876.801696055
+      "unrealized_pnl": 27215.20832,
+      "liquidation_price": 207026.0393084628
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3903714.6981,
+      "position_value_usd": 3901824.27936,
       "leverage": 10,
-      "unrealized_pnl": 1536441.052405,
-      "liquidation_price": 58.7207735476
+      "unrealized_pnl": 1534550.633665,
+      "liquidation_price": 58.6433840189
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 484374.9225,
+      "position_value_usd": 483770.75593,
       "leverage": 25,
-      "unrealized_pnl": 15624.9975,
-      "liquidation_price": 7961.0466440216
+      "unrealized_pnl": 16229.16407,
+      "liquidation_price": 7965.2677630075
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1533106.33512,
+      "position_value_usd": 1529821.20112,
       "leverage": 3,
-      "unrealized_pnl": 58733.796106,
-      "liquidation_price": 0.0072991445
+      "unrealized_pnl": 55448.662106,
+      "liquidation_price": 0.0069109549
     }
   ],
-  "timestamp_ms": 1793782520707
+  "timestamp_ms": 1793782825554
 }
