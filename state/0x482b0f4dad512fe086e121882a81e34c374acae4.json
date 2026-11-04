@@ -1,56 +1,56 @@
 {
-  "account_value": 1254252.590999,
+  "account_value": 1291955.487019,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2817996.56579,
+      "position_value_usd": 2827756.54357,
       "leverage": 20,
-      "unrealized_pnl": -149748.27866,
-      "liquidation_price": 125.125706888
+      "unrealized_pnl": -159508.25644,
+      "liquidation_price": 125.4862287146
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 722093.5939,
+      "position_value_usd": 724341.35606,
       "leverage": 40,
-      "unrealized_pnl": 27906.11882,
-      "liquidation_price": 185489.0309875855
+      "unrealized_pnl": 25658.35666,
+      "liquidation_price": 185861.3432411397
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3799696.65743,
+      "position_value_usd": 3832508.92556,
       "leverage": 10,
-      "unrealized_pnl": 1432423.011735,
-      "liquidation_price": 61.0559763335
+      "unrealized_pnl": 1465235.279865,
+      "liquidation_price": 61.7569870768
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 483104.08937,
+      "position_value_usd": 484208.25586,
       "leverage": 25,
-      "unrealized_pnl": 16895.83063,
-      "liquidation_price": 7020.0327268758
+      "unrealized_pnl": 15791.66414,
+      "liquidation_price": 7030.9647551849
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1499203.75224,
+      "position_value_usd": 1517206.28656,
       "leverage": 3,
-      "unrealized_pnl": 24831.213226,
-      "liquidation_price": 0.0228617081
+      "unrealized_pnl": 42833.747546,
+      "liquidation_price": 0.0241224153
     }
   ],
-  "timestamp_ms": 1793802627043
+  "timestamp_ms": 1793802923627
 }
