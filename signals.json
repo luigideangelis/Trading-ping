@@ -4730,5 +4730,19 @@
     "leverage": 5,
     "unrealized_pnl": 1808.252555,
     "liquidation_price": 554.1255891197
+  },
+  {
+    "ts": "2026-11-04T21:25:21.100059+00:00",
+    "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ENA",
+    "side": "SHORT",
+    "size": 60310.0,
+    "entry_price": 0.185468,
+    "position_value_usd": 10877.02912,
+    "leverage": 10,
+    "unrealized_pnl": 308.5519,
+    "liquidation_price": 138.7650907101
   }
 ]
