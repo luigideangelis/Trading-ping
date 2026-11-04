@@ -1,56 +1,56 @@
 {
-  "account_value": 1207317.084562,
+  "account_value": 1221041.943142,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2747706.53948,
+      "position_value_usd": 2759315.45715,
       "leverage": 20,
-      "unrealized_pnl": -79458.25235,
-      "liquidation_price": 124.9832976541
+      "unrealized_pnl": -91067.17002,
+      "liquidation_price": 125.6812956244
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 700150.27642,
+      "position_value_usd": 702379.6143,
       "leverage": 40,
-      "unrealized_pnl": 49849.4363,
-      "liquidation_price": 190357.0316070579
+      "unrealized_pnl": 47620.09842,
+      "liquidation_price": 191648.2575411024
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3688116.9418,
+      "position_value_usd": 3708776.51803,
       "leverage": 10,
-      "unrealized_pnl": 1320843.296105,
-      "liquidation_price": 56.9955051741
+      "unrealized_pnl": 1341502.872335,
+      "liquidation_price": 57.2256333931
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 466145.75875,
+      "position_value_usd": 467520.75853,
       "leverage": 25,
-      "unrealized_pnl": 33854.16125,
-      "liquidation_price": 7256.8580529232
+      "unrealized_pnl": 32479.16147,
+      "liquidation_price": 7309.5118786372
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1421805.9952,
+      "position_value_usd": 1430084.53288,
       "leverage": 3,
-      "unrealized_pnl": -52566.543814,
-      "liquidation_price": 0.0107963554
+      "unrealized_pnl": -44288.006134,
+      "liquidation_price": 0.0105326533
     }
   ],
-  "timestamp_ms": 1793762421487
+  "timestamp_ms": 1793762723510
 }
