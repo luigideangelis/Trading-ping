@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-04
 
+### 17:10 UTC — Daily refresh (Job A)
+- Leaderboard: 48568 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x4b67337795c5e1ca1aaea307f57b79419c632c88
+-   +0x34ea1e25034eb9d49f23c5c55483c84a9d642f47
+-   -0xa9d90f0eb0993390bd02a2c50cee658ebd01b48e
+-   -0xf818fa41af44a1b42ba7433f4ec472be40a2c268
+- #1 0xcafe9392... acc=$6,259,315 month=$2,352,595 edge=2817bps
+- #2 0x598930e1... acc=$551,543 month=$350,801 edge=501bps
+- #3 0xb69928c8... acc=$1,485,386 month=$301,482 edge=370bps
+- #4 0x4b673377... acc=$1,196,937 month=$808,647 edge=785bps
+- #5 0x34ea1e25... acc=$2,843,942 month=$1,033,911 edge=815bps
+- Current positions across the shortlist:
+-   0xcafe9392... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0x598930e1... no open positions
+-   0xb69928c8... no open positions
+-   0x4b673377... 1 positions: LONG kPEPE x4
+-   0x34ea1e25... 7 positions: SHORT BTC x30, SHORT TAO x5, SHORT HYPE x10, SHORT VVV x3, LONG WLFI x5, SHORT ZEC x10, SHORT USELESS x3
+
 ### 16:10 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT BTC x40 (0x482b0f4d...) — trader no longer on shortlist
