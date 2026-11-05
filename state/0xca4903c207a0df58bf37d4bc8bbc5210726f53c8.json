@@ -1,56 +1,56 @@
 {
-  "account_value": 14621168.304244,
+  "account_value": 14583703.520143,
   "positions": [
     {
       "coin": "XRP",
       "side": "SHORT",
       "size": 4138886.0,
       "entry_price": 1.438387,
-      "position_value_usd": 5404143.4502,
+      "position_value_usd": 5403729.5616,
       "leverage": 20,
-      "unrealized_pnl": 549179.282252,
-      "liquidation_price": 4.4669733288
+      "unrealized_pnl": 549593.170852,
+      "liquidation_price": 4.4578860748
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 73943.45,
       "entry_price": 110.7011,
-      "position_value_usd": 7070029.0283,
+      "position_value_usd": 7069511.42415,
       "leverage": 20,
-      "unrealized_pnl": 1115593.232123,
-      "liquidation_price": 272.5620585871
+      "unrealized_pnl": 1116110.836273,
+      "liquidation_price": 272.0520090312
     },
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 269.5862,
       "entry_price": 80669.4,
-      "position_value_usd": 21738622.4094,
+      "position_value_usd": 21749405.8574,
       "leverage": 40,
-      "unrealized_pnl": 8735.062319,
-      "liquidation_price": 129770.3853061864
+      "unrealized_pnl": -2048.385681,
+      "liquidation_price": 129670.7029165751
     },
     {
       "coin": "DOGE",
       "side": "SHORT",
       "size": 46542649.0,
       "entry_price": 0.092947,
-      "position_value_usd": 3587041.95843,
+      "position_value_usd": 3586995.415781,
       "leverage": 10,
-      "unrealized_pnl": 739002.721551,
-      "liquidation_price": 0.3514983537
+      "unrealized_pnl": 739049.2642,
+      "liquidation_price": 0.3507171753
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 9219.7905,
       "entry_price": 2548.08,
-      "position_value_usd": 22348772.172,
+      "position_value_usd": 22376431.5435,
       "leverage": 25,
-      "unrealized_pnl": 1144053.654302,
-      "liquidation_price": 3850.0939999182
+      "unrealized_pnl": 1116394.282802,
+      "liquidation_price": 3849.0397256915
     }
   ],
-  "timestamp_ms": 1793837424324
+  "timestamp_ms": 1793837724176
 }
