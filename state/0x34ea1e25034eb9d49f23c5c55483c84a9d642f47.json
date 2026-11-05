@@ -1,54 +1,54 @@
 {
-  "account_value": 354141.949983,
+  "account_value": 348487.189983,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 10.0,
       "entry_price": 83235.8,
-      "position_value_usd": 803370.0,
+      "position_value_usd": 805262.0,
       "leverage": 30,
-      "unrealized_pnl": 28988.968301,
-      "liquidation_price": 287752.3395229629
+      "unrealized_pnl": 27096.968301,
+      "liquidation_price": 287600.4086724938
     },
     {
       "coin": "TAO",
       "side": "SHORT",
       "size": 1200.0,
       "entry_price": 304.275,
-      "position_value_usd": 281640.0,
+      "position_value_usd": 282936.0,
       "leverage": 5,
-      "unrealized_pnl": 83490.319845,
-      "liquidation_price": 1825.6699338409
+      "unrealized_pnl": 82194.319845,
+      "liquidation_price": 1824.1333051583
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5000.0,
       "entry_price": 88.4479,
-      "position_value_usd": 419830.0,
+      "position_value_usd": 420940.0,
       "leverage": 10,
-      "unrealized_pnl": 22409.91393,
-      "liquidation_price": 483.9812976514
+      "unrealized_pnl": 21299.91393,
+      "liquidation_price": 483.5454024398
     },
     {
       "coin": "VVV",
       "side": "SHORT",
       "size": 19000.0,
       "entry_price": 20.1075,
-      "position_value_usd": 401897.5,
+      "position_value_usd": 400615.0,
       "leverage": 3,
-      "unrealized_pnl": -19854.801517,
-      "liquidation_price": 115.8929652332
+      "unrealized_pnl": -18572.301517,
+      "liquidation_price": 115.6696479462
     },
     {
       "coin": "WLFI",
       "side": "LONG",
       "size": 9000000.0,
       "entry_price": 0.050769,
-      "position_value_usd": 427662.0,
+      "position_value_usd": 428067.0,
       "leverage": 5,
-      "unrealized_pnl": -29259.459037,
+      "unrealized_pnl": -28854.459037,
       "liquidation_price": 0.0
     },
     {
@@ -56,21 +56,21 @@
       "side": "SHORT",
       "size": 200.0,
       "entry_price": 1425.5359,
-      "position_value_usd": 258580.0,
+      "position_value_usd": 259864.26,
       "leverage": 10,
-      "unrealized_pnl": 26527.19,
-      "liquidation_price": 11293.2824412857
+      "unrealized_pnl": 25242.93,
+      "liquidation_price": 11283.2563609952
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 2200000.0,
       "entry_price": 0.168594,
-      "position_value_usd": 307802.0,
+      "position_value_usd": 309562.0,
       "leverage": 3,
-      "unrealized_pnl": 63105.299085,
-      "liquidation_price": 0.9581231088
+      "unrealized_pnl": 61345.299085,
+      "liquidation_price": 0.9575774141
     }
   ],
-  "timestamp_ms": 1793842219805
+  "timestamp_ms": 1793842519114
 }
