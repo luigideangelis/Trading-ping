@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-05
 
+### 14:15 UTC — Position poll (Job B)
+- 1 signals
+- NEW SHORT HYPE x10 (0x6891ed9e...)
+- Portfolio equity: $11,004.17 (+10.04%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48451 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

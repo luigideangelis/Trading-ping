@@ -1,26 +1,26 @@
 {
-  "account_value": 2042210.996169,
+  "account_value": 2074689.090119,
   "positions": [
-    {
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 101408.33,
-      "entry_price": 54.6343,
-      "position_value_usd": 8292869.00241,
-      "leverage": 5,
-      "unrealized_pnl": -2752487.005227,
-      "liquidation_price": 115.4098101061
-    },
     {
       "coin": "UNI",
       "side": "SHORT",
       "size": 92150.0,
       "entry_price": 5.38747,
-      "position_value_usd": 671801.145,
+      "position_value_usd": 671266.675,
       "leverage": 10,
-      "unrealized_pnl": -175345.142389,
-      "liquidation_price": 44.3022056546
+      "unrealized_pnl": -174810.672389,
+      "liquidation_price": 44.6488537712
+    },
+    {
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 101408.33,
+      "entry_price": 54.6343,
+      "position_value_usd": 8260925.37846,
+      "leverage": 5,
+      "unrealized_pnl": -2720543.381277,
+      "liquidation_price": 115.4150805804
     }
   ],
-  "timestamp_ms": 1793887826925
+  "timestamp_ms": 1793888119374
 }
