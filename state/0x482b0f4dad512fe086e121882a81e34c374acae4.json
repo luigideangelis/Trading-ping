@@ -1,46 +1,46 @@
 {
-  "account_value": 1227621.487288,
+  "account_value": 1221179.191018,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2903290.28465,
+      "position_value_usd": 2907473.13227,
       "leverage": 20,
-      "unrealized_pnl": -235041.99752,
-      "liquidation_price": 121.9385158983
+      "unrealized_pnl": -239224.84514,
+      "liquidation_price": 121.827147521
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3755541.87686,
+      "position_value_usd": 3754911.73728,
       "leverage": 10,
-      "unrealized_pnl": 1388268.231165,
-      "liquidation_price": 64.4353322717
+      "unrealized_pnl": 1387638.091585,
+      "liquidation_price": 64.6025187872
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 406.0553,
       "entry_price": 2413.02,
-      "position_value_usd": 983344.12001,
+      "position_value_usd": 983790.78084,
       "leverage": 25,
-      "unrealized_pnl": -3523.776719,
-      "liquidation_price": 4383.5307981377
+      "unrealized_pnl": -3970.437549,
+      "liquidation_price": 4365.9251463035
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1535865.84768,
+      "position_value_usd": 1534683.19944,
       "leverage": 3,
-      "unrealized_pnl": 61493.308666,
-      "liquidation_price": 0.0426780926
+      "unrealized_pnl": 60310.660426,
+      "liquidation_price": 0.0432955925
     }
   ],
-  "timestamp_ms": 1793856321191
+  "timestamp_ms": 1793856623687
 }
