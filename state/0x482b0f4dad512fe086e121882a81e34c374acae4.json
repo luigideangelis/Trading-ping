@@ -1,36 +1,36 @@
 {
-  "account_value": 1080184.153932,
+  "account_value": 1078590.810212,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2718032.56977,
+      "position_value_usd": 2717456.67046,
       "leverage": 20,
-      "unrealized_pnl": -49784.28264,
-      "liquidation_price": 112.0786063711
+      "unrealized_pnl": -49208.38333,
+      "liquidation_price": 112.0498135395
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3492548.62215,
+      "position_value_usd": 3491693.43272,
       "leverage": 10,
-      "unrealized_pnl": 1125274.976455,
-      "liquidation_price": 61.315494989
+      "unrealized_pnl": 1124419.787025,
+      "liquidation_price": 61.3036102819
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1335604.07904,
+      "position_value_usd": 1334290.02544,
       "leverage": 3,
-      "unrealized_pnl": -138768.459974,
-      "liquidation_price": 0.03807154
+      "unrealized_pnl": -140082.513574,
+      "liquidation_price": 0.0379993239
     }
   ],
-  "timestamp_ms": 1793955020268
+  "timestamp_ms": 1793955321290
 }
