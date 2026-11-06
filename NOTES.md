@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-06
 
+### 14:15 UTC — Position poll (Job B)
+- 2 signals
+- NEW SHORT HYPE x10 (0x4fe260d1...)
+- NEW SHORT ZEC x10 (0x4fe260d1...)
+- Portfolio equity: $12,349.10 (+23.49%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48288 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
