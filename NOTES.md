@@ -4,6 +4,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-06
 
+### 16:43 UTC — Daily refresh (Job A)
+- Leaderboard: 48293 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+-   +0x6891ed9ee6a9d0649ffac2bcee814e6899a0e075
+-   -0x4fe260d11bf48ba3a94459771259c910a398ac59
+- #1 0xcf5343ba... acc=$15,700,918 month=$5,164,752 edge=4014bps
+- #2 0xd4758770... acc=$18,707,180 month=$11,917,179 edge=8359bps
+- #3 0xf6f371fb... acc=$1,037,011 month=$691,501 edge=1121bps
+- #4 0x0daae6dc... acc=$152,634 month=$92,551 edge=141bps
+- #5 0x6891ed9e... acc=$3,454,273 month=$813,497 edge=1198bps
+- Current positions across the shortlist:
+-   0xcf5343ba... 4 positions: SHORT BTC x5, SHORT ETH x7, SHORT NEAR x10, SHORT HYPE x5
+-   0xd4758770... 2 positions: SHORT UNI x10, SHORT HYPE x5
+-   0xf6f371fb... 15 positions: SHORT ETH x5, SHORT BNB x5, SHORT ARB x5, SHORT INJ x5, SHORT LINK x5, SHORT XRP x5, SHORT AAVE x5, SHORT WLD x5, SHORT UNI x5, SHORT NEAR x5, SHORT TAO x5, SHORT HBAR x5, SHORT XPL x5, SHORT ZEC x5, SHORT XMR x5
+-   0x0daae6dc... no open positions
+-   0x6891ed9e... 1 positions: SHORT HYPE x10
+
 ### 16:20 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT TAO x5 (0x781e95fd...) — trader no longer on shortlist
