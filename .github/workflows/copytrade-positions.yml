@@ -1,7 +1,7 @@
 name: copytrade-positions
 on:
   schedule:
-    - cron: '0 * * * *'  # every 5 min, off-peak slots (fallback; cron-job.org is the real driver)
+    - cron: '0 * * * *'  # every 5 min, off-peak slots (fallback; cron-job.org is the real driver) 2,7,12,17,22,27,32,37,42,47,52,57
   workflow_dispatch:
 permissions:
   contents: write
