@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-06
 
+### 16:20 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT TAO x5 (0x781e95fd...) — trader no longer on shortlist
+- Portfolio equity: $12,387.07 (+23.87%)
+
 ### 14:15 UTC — Position poll (Job B)
 - 2 signals
 - NEW SHORT HYPE x10 (0x4fe260d1...)
