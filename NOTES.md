@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-06
+
+### 06:35 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT 0G x3 (0x641edd3f...) — trader no longer on shortlist
+- Portfolio equity: $12,481.24 (+24.81%)
+
 ## 2026-11-05
 
 ### 17:20 UTC — Daily refresh (Job A)
