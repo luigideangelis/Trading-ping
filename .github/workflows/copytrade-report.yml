@@ -1,7 +1,7 @@
 name: copytrade-report
 on:
   schedule:
-    - cron: '17,47 * * * *'  # every 30 min at off-peak slots (launch period)
+    - cron: '0 * * * *'  # every 30 min at off-peak slots (launch period) '17,47 * * * *'
   workflow_dispatch:
 permissions:
   contents: read
