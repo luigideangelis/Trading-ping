@@ -4,6 +4,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-07
 
+### 15:00 UTC — Position poll (Job B)
+- 6 signals
+- NEW LONG ETH x20 (0xd74da9d8...)
+- NEW SHORT BTC x20 (0xd74da9d8...)
+- NEW SHORT SOL x20 (0x9c16bc8f...)
+- NEW SHORT AVAX x10 (0x9c16bc8f...)
+- NEW SHORT BTC x40 (0x9c16bc8f...)
+- NEW SHORT ETH x25 (0x9c16bc8f...)
+- Portfolio equity: $12,624.83 (+26.25%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48282 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
