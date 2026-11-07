@@ -1,5 +1,5 @@
 {
-  "cash": 284.5516933155893,
+  "cash": 179.33853674828825,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -3673,6 +3673,114 @@
       "margin": 14.97640491134681,
       "opened_at": "2026-11-07T15:00:27.619953+00:00",
       "signal_ts": "2026-11-07T15:00:21.233927+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:FARTCOIN:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "FARTCOIN",
+      "side": "SHORT",
+      "size": 368.87022588203837,
+      "entry_price": 0.115712115,
+      "leverage": 3,
+      "notional": 42.6827539973384,
+      "margin": 14.227584665779467,
+      "opened_at": "2026-11-07T16:00:26.241909+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:SOL:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 0.45320531916646156,
+      "entry_price": 89.47074225000001,
+      "leverage": 3,
+      "notional": 40.548616297471476,
+      "margin": 13.516205432490493,
+      "opened_at": "2026-11-07T16:00:26.241919+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:HYPE:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.49847001921237916,
+      "entry_price": 77.27884125,
+      "leverage": 3,
+      "notional": 38.5211854825979,
+      "margin": 12.840395160865967,
+      "opened_at": "2026-11-07T16:00:26.241922+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:ETH:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.016373424378923807,
+      "entry_price": 2235.0319250000002,
+      "leverage": 3,
+      "notional": 36.59512620846801,
+      "margin": 12.19837540282267,
+      "opened_at": "2026-11-07T16:00:26.241924+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:SKY:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "SKY",
+      "side": "SHORT",
+      "size": 544.5186336247838,
+      "entry_price": 0.06384606100000001,
+      "leverage": 3,
+      "notional": 34.765369898044604,
+      "margin": 11.588456632681535,
+      "opened_at": "2026-11-07T16:00:26.241926+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:LIT:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "LIT",
+      "side": "SHORT",
+      "size": 10.369880186646713,
+      "entry_price": 3.18490675,
+      "leverage": 3,
+      "notional": 33.027101403142375,
+      "margin": 11.009033801047458,
+      "opened_at": "2026-11-07T16:00:26.241928+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:ENA:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "ENA",
+      "side": "SHORT",
+      "size": 198.47902158581348,
+      "entry_price": 0.15808092,
+      "leverage": 3,
+      "notional": 31.37574633298526,
+      "margin": 10.458582110995087,
+      "opened_at": "2026-11-07T16:00:26.241931+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:UNI:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "UNI",
+      "side": "SHORT",
+      "size": 4.250127545899304,
+      "entry_price": 7.01319165,
+      "leverage": 3,
+      "notional": 29.806959016335995,
+      "margin": 9.935653005445332,
+      "opened_at": "2026-11-07T16:00:26.241939+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
+    },
+    "0x2de373887b9742162c9a5885ddb5debea8e4486d:ONDO:SHORT": {
+      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+      "coin": "ONDO",
+      "side": "SHORT",
+      "size": 78.01720146432062,
+      "entry_price": 0.3629534325,
+      "leverage": 3,
+      "notional": 28.316611065519197,
+      "margin": 9.438870355173066,
+      "opened_at": "2026-11-07T16:00:26.241943+00:00",
+      "signal_ts": "2026-11-07T16:00:20.537820+00:00"
     }
   },
   "equity_history": [
@@ -19375,7 +19483,12 @@
       "ts": "2026-11-07T15:00:27.620077+00:00",
       "equity": 12624.829721769122,
       "cash": 284.5516933155893
+    },
+    {
+      "ts": "2026-11-07T16:00:26.242007+00:00",
+      "equity": 12822.9330443849,
+      "cash": 179.33853674828825
     }
   ],
-  "last_processed_signal_index": 379
+  "last_processed_signal_index": 388
 }

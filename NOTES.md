@@ -4,6 +4,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-07
 
+### 16:00 UTC — Position poll (Job B)
+- 9 signals
+- NEW SHORT FARTCOIN x10 (0x2de37388...)
+- NEW SHORT SOL x20 (0x2de37388...)
+- NEW SHORT HYPE x10 (0x2de37388...)
+- NEW SHORT ETH x25 (0x2de37388...)
+- NEW SHORT SKY x3 (0x2de37388...)
+- NEW SHORT LIT x5 (0x2de37388...)
+- NEW SHORT ENA x10 (0x2de37388...)
+- NEW SHORT UNI x10 (0x2de37388...)
+- NEW SHORT ONDO x10 (0x2de37388...)
+- Portfolio equity: $12,822.93 (+28.23%)
+
 ### 15:37 UTC — Daily refresh (Job A)
 - Leaderboard: 48288 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
