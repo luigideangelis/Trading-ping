@@ -5113,5 +5113,47 @@
     "leverage": 10,
     "unrealized_pnl": -112402.556237,
     "liquidation_price": 2673.8913003844
+  },
+  {
+    "ts": "2026-11-08T22:00:21.637852+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "GRAM",
+    "side": "SHORT",
+    "size": 45757.0,
+    "entry_price": 1.420168,
+    "position_value_usd": 47536.9473,
+    "leverage": 5,
+    "unrealized_pnl": 17445.698576,
+    "liquidation_price": 51.2020059156
+  },
+  {
+    "ts": "2026-11-08T22:00:21.637852+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "APT",
+    "side": "SHORT",
+    "size": 11770.58,
+    "entry_price": 0.675,
+    "position_value_usd": 6904.622228,
+    "leverage": 10,
+    "unrealized_pnl": 1041.292079,
+    "liquidation_price": 206.9493068525
+  },
+  {
+    "ts": "2026-11-08T22:00:21.637852+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "TRUMP",
+    "side": "SHORT",
+    "size": 0.1,
+    "entry_price": 1.93885,
+    "position_value_usd": 0.11711,
+    "leverage": 10,
+    "unrealized_pnl": 0.076775,
+    "liquidation_price": 24290088.671342853
   }
 ]

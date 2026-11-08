@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-08
 
+### 22:00 UTC — Position poll (Job B)
+- 3 signals
+- CLOSED SHORT GRAM x5 (0xa20fb0c9...) — trader no longer on shortlist
+- CLOSED SHORT APT x10 (0x47f5a639...) — trader no longer on shortlist
+- CLOSED SHORT TRUMP x10 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $14,266.41 (+42.66%)
+
 ### 15:56 UTC — Daily refresh (Job A)
 - Leaderboard: 48280 traders fetched, 5 shortlisted
 - Shortlist change: +0 new, -0 dropped
