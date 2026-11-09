@@ -1,46 +1,46 @@
 {
-  "account_value": 960935.574258,
+  "account_value": 957531.3831,
   "positions": [
-    {
-      "coin": "BTC",
-      "side": "SHORT",
-      "size": 13.3044,
-      "entry_price": 78753.6,
-      "position_value_usd": 992890.07628,
-      "leverage": 40,
-      "unrealized_pnl": 54879.486927,
-      "liquidation_price": 173082.5239619605
-    },
-    {
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 262.1299,
-      "entry_price": 2310.49,
-      "position_value_usd": 556737.69461,
-      "leverage": 25,
-      "unrealized_pnl": 48912.842077,
-      "liquidation_price": 7084.1798666069
-    },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 38225.05,
       "entry_price": 90.8715,
-      "position_value_usd": 3304670.24765,
+      "position_value_usd": 3304077.759375,
       "leverage": 20,
-      "unrealized_pnl": 168897.68419,
-      "liquidation_price": 120.3024009203
+      "unrealized_pnl": 169490.172465,
+      "liquidation_price": 120.198734682
     },
     {
       "coin": "AVAX",
       "side": "SHORT",
       "size": 16818.21,
       "entry_price": 8.9586,
-      "position_value_usd": 143661.14982,
+      "position_value_usd": 143913.42297,
       "leverage": 10,
-      "unrealized_pnl": 7007.529989,
-      "liquidation_price": 83.6444049422
+      "unrealized_pnl": 6755.256839,
+      "liquidation_price": 83.4637885841
+    },
+    {
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 13.3044,
+      "entry_price": 78753.6,
+      "position_value_usd": 995678.67852,
+      "leverage": 40,
+      "unrealized_pnl": 52090.884687,
+      "liquidation_price": 173035.6850570182
+    },
+    {
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 262.1299,
+      "entry_price": 2310.49,
+      "position_value_usd": 557615.829775,
+      "leverage": 25,
+      "unrealized_pnl": 48034.706912,
+      "liquidation_price": 7074.6100155933
     }
   ],
-  "timestamp_ms": 1794250825958
+  "timestamp_ms": 1794254429933
 }
