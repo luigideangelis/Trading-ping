@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-10
 
+### 22:57 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT XPL x10 (0x781e95fd...) — trader no longer on shortlist
+- Portfolio equity: $14,383.20 (+43.83%)
+
 ### 16:59 UTC — Daily refresh (Job A)
 - Leaderboard: 47992 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
