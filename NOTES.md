@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-11
 
+### 17:04 UTC — Daily refresh (Job A)
+- Leaderboard: 48237 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f
+-   +0x015354106478dda69c4aae3c0cf801290b738052
+-   -0x779e5e469d5de3a13e563f736ffcf47ebe5584c5
+-   -0xca4903c207a0df58bf37d4bc8bbc5210726f53c8
+- #1 0xbfc79c44... acc=$6,009,305 month=$6,247,671 edge=7718bps
+- #2 0x4fe260d1... acc=$2,541,424 month=$951,156 edge=541bps
+- #3 0xf6f371fb... acc=$957,808 month=$1,156,491 edge=1916bps
+- #4 0x4c0e6c0f... acc=$551,517 month=$104,767 edge=185bps
+- #5 0x01535410... acc=$11,920,852 month=$1,604,647 edge=3037bps
+- Current positions across the shortlist:
+-   0xbfc79c44... 27 positions: SHORT BTC x40, SHORT SOL x20, SHORT DOGE x10, SHORT CFX x5, SHORT XRP x20, SHORT AAVE x10, SHORT UNI x10, SHORT ZRO x5, SHORT FET x5, SHORT NEAR x10, SHORT JUP x10, SHORT ONDO x10, SHORT STRK x5, SHORT TAO x5, SHORT ENA x10, SHORT MNT x5, SHORT GRASS x3, SHORT VIRTUAL x5, SHORT PENGU x5, SHORT VVV x3, SHORT PUMP x10, SHORT ASTER x5, SHORT STBL x3, SHORT APEX x3, SHORT ZEC x10, SHORT GRAM x5, SHORT PONS x3
+-   0x4fe260d1... 2 positions: SHORT HYPE x10, SHORT ZEC x10
+-   0xf6f371fb... 15 positions: SHORT ETH x5, SHORT BNB x5, SHORT ARB x5, SHORT INJ x5, SHORT LINK x5, SHORT XRP x5, SHORT AAVE x5, SHORT WLD x5, SHORT UNI x5, SHORT NEAR x5, SHORT TAO x5, SHORT HBAR x5, SHORT XPL x5, SHORT ZEC x5, SHORT XMR x5
+-   0x4c0e6c0f... 3 positions: SHORT BTC x20, SHORT HYPE x10, SHORT SYRUP x3
+-   0x01535410... 1 positions: SHORT ZEC x1
+
 ### 15:00 UTC — Position poll (Job B)
 - 27 signals
 - NEW SHORT TAO x5 (0xbfc79c44...)
