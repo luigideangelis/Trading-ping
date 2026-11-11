@@ -4,6 +4,37 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-11
 
+### 15:00 UTC — Position poll (Job B)
+- 27 signals
+- NEW SHORT TAO x5 (0xbfc79c44...)
+- NEW SHORT PENGU x5 (0xbfc79c44...)
+- NEW SHORT PUMP x10 (0xbfc79c44...)
+- NEW SHORT JUP x10 (0xbfc79c44...)
+- NEW SHORT VIRTUAL x5 (0xbfc79c44...)
+- NEW SHORT UNI x10 (0xbfc79c44...)
+- NEW SHORT DOGE x10 (0xbfc79c44...)
+- NEW SHORT APEX x3 (0xbfc79c44...)
+- NEW SHORT GRASS x3 (0xbfc79c44...)
+- NEW SHORT MNT x5 (0xbfc79c44...)
+- NEW SHORT VVV x3 (0xbfc79c44...)
+- NEW SHORT STRK x5 (0xbfc79c44...)
+- NEW SHORT AAVE x10 (0xbfc79c44...)
+- NEW SHORT ZEC x10 (0xbfc79c44...)
+- NEW SHORT PONS x3 (0xbfc79c44...)
+- NEW SHORT ASTER x5 (0xbfc79c44...)
+- NEW SHORT BTC x40 (0xbfc79c44...)
+- NEW SHORT XRP x20 (0xbfc79c44...)
+- NEW SHORT ZRO x5 (0xbfc79c44...)
+- NEW SHORT SOL x20 (0xbfc79c44...)
+- NEW SHORT ONDO x10 (0xbfc79c44...)
+- NEW SHORT STBL x3 (0xbfc79c44...)
+- NEW SHORT NEAR x10 (0xbfc79c44...)
+- NEW SHORT FET x5 (0xbfc79c44...)
+- NEW SHORT ENA x10 (0xbfc79c44...)
+- NEW SHORT CFX x5 (0xbfc79c44...)
+- NEW SHORT GRAM x5 (0xbfc79c44...)
+- Portfolio equity: $14,186.61 (+41.87%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48132 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
