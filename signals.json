@@ -5398,5 +5398,19 @@
     "leverage": 10,
     "unrealized_pnl": 1061.676984,
     "liquidation_price": 74.3553602078
+  },
+  {
+    "ts": "2026-11-11T10:00:27.111315+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "APEX",
+    "side": "SHORT",
+    "size": 42380.0,
+    "entry_price": 0.28207,
+    "position_value_usd": 7612.7194,
+    "leverage": 3,
+    "unrealized_pnl": 4341.40748,
+    "liquidation_price": 59.1364301932
   }
 ]
