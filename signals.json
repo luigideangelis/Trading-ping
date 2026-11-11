@@ -5763,5 +5763,57 @@
     "leverage": 5,
     "unrealized_pnl": 139460.05992,
     "liquidation_price": 8.4399710216
+  },
+  {
+    "ts": "2026-11-11T18:00:25.526643+00:00",
+    "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+    "type": "NEW",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 2.5,
+    "entry_price": 80876.0,
+    "position_value_usd": 186235.0,
+    "leverage": 20,
+    "unrealized_pnl": 15955.0,
+    "liquidation_price": 132773.9743589136
+  },
+  {
+    "ts": "2026-11-11T18:00:25.526643+00:00",
+    "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+    "type": "NEW",
+    "coin": "SYRUP",
+    "side": "SHORT",
+    "size": 298607.0,
+    "entry_price": 0.160699,
+    "position_value_usd": 40546.948709,
+    "leverage": 3,
+    "unrealized_pnl": 7439.074047,
+    "liquidation_price": 0.5592423446
+  },
+  {
+    "ts": "2026-11-11T18:00:25.526643+00:00",
+    "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+    "type": "NEW",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 2500.0,
+    "entry_price": 94.628,
+    "position_value_usd": 184670.0,
+    "leverage": 10,
+    "unrealized_pnl": 51900.07653,
+    "liquidation_price": 130.0665467032
+  },
+  {
+    "ts": "2026-11-11T18:00:25.526643+00:00",
+    "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
+    "type": "NEW",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 4474.09,
+    "entry_price": 1303.5725,
+    "position_value_usd": 4505856.039,
+    "leverage": 1,
+    "unrealized_pnl": 1326444.842323,
+    "liquidation_price": 2498.6102418663
   }
 ]

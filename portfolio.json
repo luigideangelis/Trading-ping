@@ -1,5 +1,5 @@
 {
-  "cash": 62.7164358708866,
+  "cash": 51.08292899456133,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -4081,6 +4081,54 @@
       "margin": 3.3008650458361366,
       "opened_at": "2026-11-11T15:00:34.330488+00:00",
       "signal_ts": "2026-11-11T15:00:27.024877+00:00"
+    },
+    "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f:BTC:SHORT": {
+      "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.00012636416256222669,
+      "entry_price": 74447.25775,
+      "leverage": 3,
+      "notional": 9.40746538063299,
+      "margin": 3.13582179354433,
+      "opened_at": "2026-11-11T18:00:33.641560+00:00",
+      "signal_ts": "2026-11-11T18:00:25.526643+00:00"
+    },
+    "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f:SYRUP:SHORT": {
+      "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+      "coin": "SYRUP",
+      "side": "SHORT",
+      "size": 65.8994206658648,
+      "entry_price": 0.1356171575,
+      "leverage": 3,
+      "notional": 8.937092111601341,
+      "margin": 2.9790307038671138,
+      "opened_at": "2026-11-11T18:00:33.641579+00:00",
+      "signal_ts": "2026-11-11T18:00:25.526643+00:00"
+    },
+    "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f:HYPE:SHORT": {
+      "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.11504607876151,
+      "entry_price": 73.79858225,
+      "leverage": 3,
+      "notional": 8.490237506021273,
+      "margin": 2.8300791686737576,
+      "opened_at": "2026-11-11T18:00:33.641747+00:00",
+      "signal_ts": "2026-11-11T18:00:25.526643+00:00"
+    },
+    "0x015354106478dda69c4aae3c0cf801290b738052:ZEC:SHORT": {
+      "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 0.00267321259162756,
+      "entry_price": 1005.746875,
+      "leverage": 1,
+      "notional": 2.68857521024007,
+      "margin": 2.68857521024007,
+      "opened_at": "2026-11-11T18:00:33.641752+00:00",
+      "signal_ts": "2026-11-11T18:00:25.526643+00:00"
     }
   },
   "equity_history": [
@@ -20343,7 +20391,12 @@
       "ts": "2026-11-11T17:00:33.125375+00:00",
       "equity": 13767.914524910982,
       "cash": 62.7164358708866
+    },
+    {
+      "ts": "2026-11-11T18:00:33.641906+00:00",
+      "equity": 13857.258859947922,
+      "cash": 51.08292899456133
     }
   ],
-  "last_processed_signal_index": 439
+  "last_processed_signal_index": 443
 }
