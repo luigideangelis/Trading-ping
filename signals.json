@@ -5883,5 +5883,19 @@
     "leverage": 40,
     "unrealized_pnl": 50308.03715,
     "liquidation_price": 423014.4015593086
+  },
+  {
+    "ts": "2026-11-12T08:00:26.663146+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "CC",
+    "side": "SHORT",
+    "size": 203735.0,
+    "entry_price": 0.110096,
+    "position_value_usd": 18442.703405,
+    "leverage": 3,
+    "unrealized_pnl": 3987.844903,
+    "liquidation_price": 10.3335673126
   }
 ]
