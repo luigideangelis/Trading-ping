@@ -4,6 +4,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-12
 
+### 17:57 UTC — Position poll (Job B)
+- 6 signals
+- NEW SHORT ENA x10 (0x1bf629cd...)
+- NEW SHORT AERO x3 (0x1bf629cd...)
+- NEW SHORT XMR x5 (0x1bf629cd...)
+- NEW SHORT BTC x40 (0x1bf629cd...)
+- NEW SHORT HYPE x10 (0x1bf629cd...)
+- NEW SHORT ZEC x10 (0x1bf629cd...)
+- Portfolio equity: $15,231.36 (+52.31%)
+
 ### 17:32 UTC — Daily refresh (Job A)
 - Leaderboard: 48081 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
