@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-12
 
+### 11:00 UTC — Position poll (Job B)
+- 1 signals
+- NEW SHORT AERO x3 (0xf6f371fb...)
+- Portfolio equity: $14,876.18 (+48.76%)
+
 ### 08:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT CC x3 (0x47f5a639...) — trader no longer on shortlist
