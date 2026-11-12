@@ -1,36 +1,36 @@
 {
-  "account_value": 68278.699267,
+  "account_value": 68717.643083,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 2.5,
       "entry_price": 80876.0,
-      "position_value_usd": 181170.0,
+      "position_value_usd": 178990.0,
       "leverage": 20,
-      "unrealized_pnl": 21020.0,
-      "liquidation_price": 137790.7587875556
-    },
-    {
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 2500.0,
-      "entry_price": 94.628,
-      "position_value_usd": 175711.75,
-      "leverage": 10,
-      "unrealized_pnl": 60858.32653,
-      "liquidation_price": 133.2745031166
+      "unrealized_pnl": 23200.0,
+      "liquidation_price": 137057.3049872593
     },
     {
       "coin": "SYRUP",
       "side": "SHORT",
       "size": 298607.0,
       "entry_price": 0.160699,
-      "position_value_usd": 37788.71585,
+      "position_value_usd": 38031.483341,
       "leverage": 3,
-      "unrealized_pnl": 10197.306906,
-      "liquidation_price": 0.6011773765
+      "unrealized_pnl": 9954.539415,
+      "liquidation_price": 0.6029970367
+    },
+    {
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 2500.0,
+      "entry_price": 94.628,
+      "position_value_usd": 177212.5,
+      "leverage": 10,
+      "unrealized_pnl": 59357.57653,
+      "liquidation_price": 134.0084012377
     }
   ],
-  "timestamp_ms": 1794492026658
+  "timestamp_ms": 1794495632305
 }
