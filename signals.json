@@ -6030,5 +6030,19 @@
     "leverage": 10,
     "unrealized_pnl": 10194.8688,
     "liquidation_price": 14450.5713634921
+  },
+  {
+    "ts": "2026-11-12T20:00:25.719537+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "TAO",
+    "side": "LONG",
+    "size": 0.996,
+    "entry_price": 246.43,
+    "position_value_usd": 209.09028,
+    "leverage": 5,
+    "unrealized_pnl": -36.354,
+    "liquidation_price": 0.0
   }
 ]
