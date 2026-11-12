@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-12
 
+### 22:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT DOGE x10 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $15,039.01 (+50.39%)
+
 ### 20:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED LONG TAO x5 (0x6859da14...) — trader no longer on shortlist
