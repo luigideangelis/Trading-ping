@@ -5910,5 +5910,47 @@
     "leverage": 3,
     "unrealized_pnl": -0.31901,
     "liquidation_price": 12.5281847538
+  },
+  {
+    "ts": "2026-11-12T17:00:22.697905+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "AERO",
+    "side": "SHORT",
+    "size": 869.0,
+    "entry_price": 0.398725,
+    "position_value_usd": 449.61191,
+    "leverage": 3,
+    "unrealized_pnl": -103.119054,
+    "liquidation_price": 4463.9975891905
+  },
+  {
+    "ts": "2026-11-12T17:00:22.697905+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "AAVE",
+    "side": "SHORT",
+    "size": 72.92,
+    "entry_price": 125.0617,
+    "position_value_usd": 8239.2308,
+    "leverage": 10,
+    "unrealized_pnl": 880.275453,
+    "liquidation_price": 59215.2678859154
+  },
+  {
+    "ts": "2026-11-12T17:00:22.697905+00:00",
+    "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "SYRUP",
+    "side": "SHORT",
+    "size": 298607.0,
+    "entry_price": 0.160699,
+    "position_value_usd": 37848.43725,
+    "leverage": 3,
+    "unrealized_pnl": 10137.585506,
+    "liquidation_price": 0.6006284698
   }
 ]
