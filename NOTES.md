@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-12
+
+### 06:00 UTC — Position poll (Job B)
+- 3 signals
+- CLOSED SHORT CC x3 (0xa20fb0c9...) — trader no longer on shortlist
+- CLOSED SHORT BTC x30 (0x34ea1e25...) — trader no longer on shortlist
+- CLOSED SHORT BTC x40 (0x6788e111...) — trader no longer on shortlist
+- Portfolio equity: $14,819.36 (+48.19%)
+
 ## 2026-11-11
 
 ### 22:00 UTC — Position poll (Job B)
