@@ -4,6 +4,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-13
 
+### 15:00 UTC — Position poll (Job B)
+- 10 signals
+- NEW SHORT MELANIA x3 (0xaea8e3bd...)
+- NEW SHORT BTC x20 (0xaea8e3bd...)
+- NEW SHORT MOODENG x3 (0xaea8e3bd...)
+- NEW SHORT APEX x3 (0xaea8e3bd...)
+- NEW SHORT ETH x20 (0xaea8e3bd...)
+- NEW SHORT OP x5 (0xaea8e3bd...)
+- NEW SHORT HYPE x10 (0xaea8e3bd...)
+- NEW SHORT HBAR x5 (0xaea8e3bd...)
+- NEW SHORT ETHFI x5 (0xacb66d19...)
+- NEW SHORT BNB x10 (0xacb66d19...)
+- Portfolio equity: $15,068.78 (+50.69%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48205 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
