@@ -6139,5 +6139,19 @@
     "leverage": 10,
     "unrealized_pnl": -15468.942858,
     "liquidation_price": 9081.7530160571
+  },
+  {
+    "ts": "2026-11-13T06:00:24.000353+00:00",
+    "trader": "0x34ea1e25034eb9d49f23c5c55483c84a9d642f47",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 200.0,
+    "entry_price": 1425.5359,
+    "position_value_usd": 180722.0,
+    "leverage": 10,
+    "unrealized_pnl": 104385.19,
+    "liquidation_price": 8962.3763372286
   }
 ]

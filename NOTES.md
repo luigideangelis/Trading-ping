@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-13
 
+### 06:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT ZEC x10 (0x34ea1e25...) — trader no longer on shortlist
+- Portfolio equity: $15,871.99 (+58.72%)
+
 ### 05:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT ZEC x10 (0x6788e111...) — trader no longer on shortlist
