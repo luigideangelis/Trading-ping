@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-13
 
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 48205 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b
+-   +0xacb66d1996501bcc82a0e7819c9e041599f5efbd
+-   -0x4fe260d11bf48ba3a94459771259c910a398ac59
+-   -0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa
+- #1 0x779e5e46... acc=$5,060,714 month=$260,148 edge=370bps
+- #2 0xaea8e3bd... acc=$2,363,424 month=$1,294,782 edge=1028bps
+- #3 0xacb66d19... acc=$6,641,996 month=$2,976,440 edge=2714bps
+- #4 0xca4903c2... acc=$12,928,238 month=$13,401,720 edge=8485bps
+- #5 0x218a65e2... acc=$13,365,939 month=$15,731,742 edge=6433bps
+- Current positions across the shortlist:
+-   0x779e5e46... 1 positions: SHORT HYPE x10
+-   0xaea8e3bd... 8 positions: SHORT BTC x20, SHORT ETH x20, SHORT OP x5, SHORT HBAR x5, SHORT MOODENG x3, SHORT HYPE x10, SHORT MELANIA x3, SHORT APEX x3
+-   0xacb66d19... 16 positions: SHORT BTC x20, SHORT ETH x10, SHORT SOL x20, SHORT BNB x10, SHORT OP x5, SHORT XRP x20, LONG WLD x10, LONG JUP x10, SHORT ENS x5, SHORT STRK x5, SHORT ETHFI x5, SHORT HBAR x5, SHORT EIGEN x5, SHORT PAXG x10, LONG PUMP x10, LONG ASTER x5
+-   0xca4903c2... 5 positions: SHORT BTC x40, SHORT ETH x25, SHORT SOL x20, SHORT DOGE x10, SHORT XRP x20
+-   0x218a65e2... 2 positions: SHORT BTC x8, SHORT ETH x10
+
 ### 06:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT ZEC x10 (0x34ea1e25...) — trader no longer on shortlist
