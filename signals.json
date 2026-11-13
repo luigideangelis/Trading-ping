@@ -6058,5 +6058,72 @@
     "leverage": 10,
     "unrealized_pnl": 98683.959472,
     "liquidation_price": 0.9128783734
+  },
+  {
+    "ts": "2026-11-13T03:00:19.257088+00:00",
+    "trader": "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 144.0,
+    "entry_price": 1012.0277,
+    "position_value_usd": 137763.36,
+    "leverage": 10,
+    "unrealized_pnl": 7968.6288,
+    "liquidation_price": 14372.6945905159
+  },
+  {
+    "ts": "2026-11-13T03:00:19.257088+00:00",
+    "trader": "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa",
+    "type": "CLOSED",
+    "coin": "AERO",
+    "side": "SHORT",
+    "size": 48000.0,
+    "entry_price": 0.562381,
+    "position_value_usd": 24919.68,
+    "leverage": 3,
+    "unrealized_pnl": 2074.628089,
+    "liquidation_price": 36.7423723944
+  },
+  {
+    "ts": "2026-11-13T03:00:19.257088+00:00",
+    "trader": "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 1.0,
+    "entry_price": 83076.4,
+    "position_value_usd": 70927.3,
+    "leverage": 40,
+    "unrealized_pnl": 12149.193172,
+    "liquidation_price": 2074383.985517037
+  },
+  {
+    "ts": "2026-11-13T03:00:19.257088+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "BOME",
+    "side": "SHORT",
+    "size": 1885.0,
+    "entry_price": 0.001138,
+    "position_value_usd": 1.065025,
+    "leverage": 3,
+    "unrealized_pnl": 1.080322,
+    "liquidation_price": 165.4355604405
+  },
+  {
+    "ts": "2026-11-13T03:00:19.257088+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "NIL",
+    "side": "SHORT",
+    "size": 1.0,
+    "entry_price": 0.127779,
+    "position_value_usd": 0.055896,
+    "leverage": 3,
+    "unrealized_pnl": 0.071883,
+    "liquidation_price": 311845.0223014285
   }
 ]

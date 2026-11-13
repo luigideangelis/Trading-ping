@@ -2,6 +2,17 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-13
+
+### 03:00 UTC — Position poll (Job B)
+- 5 signals
+- CLOSED SHORT ZEC x10 (0x1bf629cd...)
+- CLOSED SHORT AERO x3 (0x1bf629cd...)
+- CLOSED SHORT BTC x40 (0x1bf629cd...)
+- CLOSED SHORT BOME x3 (0x641edd3f...) — trader no longer on shortlist
+- CLOSED SHORT NIL x3 (0x641edd3f...) — trader no longer on shortlist
+- Portfolio equity: $15,313.63 (+53.14%)
+
 ## 2026-11-12
 
 ### 22:00 UTC — Position poll (Job B)
