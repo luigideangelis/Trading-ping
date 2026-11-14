@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 12:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT XMR x5 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $16,288.99 (+62.89%)
+
 ### 06:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT XMR x5 (0xc435249d...) — trader no longer on shortlist

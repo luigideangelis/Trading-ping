@@ -6325,5 +6325,19 @@
     "leverage": 5,
     "unrealized_pnl": 9186.566789,
     "liquidation_price": 13314.4778949091
+  },
+  {
+    "ts": "2026-11-14T12:00:21.829116+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 0.175,
+    "entry_price": 583.324,
+    "position_value_usd": 92.687,
+    "leverage": 5,
+    "unrealized_pnl": 9.3948,
+    "liquidation_price": 22787827.13804675
   }
 ]
