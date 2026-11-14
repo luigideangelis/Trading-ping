@@ -1,5 +1,5 @@
 {
-  "cash": 767.5621125685511,
+  "cash": 1874.715611782356,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -12,18 +12,6 @@
       "notional": 1500.0,
       "margin": 500.0,
       "opened_at": "2026-10-27T00:37:36.883527+00:00",
-      "signal_ts": "2026-10-27T00:37:35.213904+00:00"
-    },
-    "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:XPL:SHORT": {
-      "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
-      "coin": "XPL",
-      "side": "SHORT",
-      "size": 18445.650346009745,
-      "entry_price": 0.073391286,
-      "leverage": 3,
-      "notional": 1353.75,
-      "margin": 451.25,
-      "opened_at": "2026-10-27T00:37:36.883554+00:00",
       "signal_ts": "2026-10-27T00:37:35.213904+00:00"
     },
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:SPX:SHORT": {
@@ -3864,18 +3852,6 @@
       "notional": 189.42501216539344,
       "margin": 63.141670721797816,
       "opened_at": "2026-11-12T17:57:52.004352+00:00",
-      "signal_ts": "2026-11-12T17:57:43.766092+00:00"
-    },
-    "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa:XMR:SHORT": {
-      "trader": "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa",
-      "coin": "XMR",
-      "side": "SHORT",
-      "size": 0.3197367846720799,
-      "entry_price": 534.6775275000001,
-      "leverage": 3,
-      "notional": 170.95607347926762,
-      "margin": 56.985357826422536,
-      "opened_at": "2026-11-12T17:57:52.004379+00:00",
       "signal_ts": "2026-11-12T17:57:43.766092+00:00"
     },
     "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa:HYPE:SHORT": {
@@ -20742,7 +20718,12 @@
       "ts": "2026-11-14T21:09:45.129879+00:00",
       "equity": 18541.365860586404,
       "cash": 767.5621125685511
+    },
+    {
+      "ts": "2026-11-14T22:00:30.356396+00:00",
+      "equity": 18536.020206859004,
+      "cash": 1874.715611782356
     }
   ],
-  "last_processed_signal_index": 492
+  "last_processed_signal_index": 494
 }

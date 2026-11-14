@@ -1,14 +1,14 @@
 {
-  "account_value": 424235.055319,
+  "account_value": 257614.510666,
   "positions": [
     {
       "coin": "WLFI",
       "side": "LONG",
       "size": 9500000.0,
       "entry_price": 0.049395,
-      "position_value_usd": 436810.0,
+      "position_value_usd": 438995.0,
       "leverage": 5,
-      "unrealized_pnl": -32448.824791,
+      "unrealized_pnl": -30263.824791,
       "liquidation_price": 0.0
     },
     {
@@ -16,51 +16,51 @@
       "side": "SHORT",
       "size": 4600.0,
       "entry_price": 107.2776,
-      "position_value_usd": 323398.4,
+      "position_value_usd": 320836.2,
       "leverage": 20,
-      "unrealized_pnl": 170078.8151,
-      "liquidation_price": 434.659879499
+      "unrealized_pnl": 172641.0151,
+      "liquidation_price": 439.2302556475
     },
     {
       "coin": "ZRO",
       "side": "SHORT",
-      "size": 210000.0,
+      "size": 167200.0,
       "entry_price": 0.97761,
-      "position_value_usd": 288876.0,
+      "position_value_usd": 228177.84,
       "leverage": 5,
-      "unrealized_pnl": -83577.756789,
-      "liquidation_price": 8.812560917
+      "unrealized_pnl": -64721.33413,
+      "liquidation_price": 10.8368267419
     },
     {
       "coin": "AERO",
       "side": "SHORT",
       "size": 340000.0,
       "entry_price": 0.706591,
-      "position_value_usd": 145540.4,
+      "position_value_usd": 145921.2,
       "leverage": 3,
-      "unrealized_pnl": 94700.758485,
-      "liquidation_price": 4.7589960635
+      "unrealized_pnl": 94319.958485,
+      "liquidation_price": 4.8210629001
     },
     {
       "coin": "XMR",
       "side": "SHORT",
-      "size": 500.0,
+      "size": 235.0,
       "entry_price": 599.992,
-      "position_value_usd": 235760.0,
+      "position_value_usd": 110706.15,
       "leverage": 5,
-      "unrealized_pnl": 64236.326504,
-      "liquidation_price": 3595.04358516
+      "unrealized_pnl": 30292.123172,
+      "liquidation_price": 7210.4074095861
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 3500.0,
       "entry_price": 89.3533,
-      "position_value_usd": 217567.0,
+      "position_value_usd": 217798.0,
       "leverage": 10,
-      "unrealized_pnl": 95169.66345,
-      "liquidation_price": 529.6281147859
+      "unrealized_pnl": 94938.66345,
+      "liquidation_price": 536.2725035042
     }
   ],
-  "timestamp_ms": 1794690583891
+  "timestamp_ms": 1794693628785
 }
