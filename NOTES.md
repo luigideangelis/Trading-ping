@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 20:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT UNI x10 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $17,600.78 (+76.01%)
+
 ### 19:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT PONS x3 (0xbfc79c44...) — trader no longer on shortlist
