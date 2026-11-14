@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 18:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT APEX x3 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $17,391.31 (+73.91%)
+
 ### 16:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED LONG kPEPE x4 (0x4b673377...) — trader no longer on shortlist
