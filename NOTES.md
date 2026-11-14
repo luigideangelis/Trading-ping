@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 16:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED LONG kPEPE x4 (0x4b673377...) — trader no longer on shortlist
+- Portfolio equity: $16,975.72 (+69.76%)
+
 ### 15:45 UTC — Daily refresh (Job A)
 - Leaderboard: 47887 traders fetched, 5 shortlisted
 - Shortlist change: +0 new, -0 dropped
