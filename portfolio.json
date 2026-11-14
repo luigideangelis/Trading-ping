@@ -1,5 +1,5 @@
 {
-  "cash": 807.7642138750031,
+  "cash": 692.5568428710808,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -4093,6 +4093,42 @@
       "margin": 41.197169756192835,
       "opened_at": "2026-11-13T15:00:36.161656+00:00",
       "signal_ts": "2026-11-13T15:00:28.525533+00:00"
+    },
+    "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797:HYPE:SHORT": {
+      "trader": "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 1.806218305810167,
+      "entry_price": 67.08194225,
+      "leverage": 3,
+      "notional": 121.16463208125046,
+      "margin": 40.38821069375015,
+      "opened_at": "2026-11-14T15:00:31.222601+00:00",
+      "signal_ts": "2026-11-14T15:00:22.214714+00:00"
+    },
+    "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797:ETH:SHORT": {
+      "trader": "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.062118170645606485,
+      "entry_price": 1853.0230250000002,
+      "leverage": 3,
+      "notional": 115.10640047718795,
+      "margin": 38.36880015906265,
+      "opened_at": "2026-11-14T15:00:31.222763+00:00",
+      "signal_ts": "2026-11-14T15:00:22.214714+00:00"
+    },
+    "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797:SOL:SHORT": {
+      "trader": "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 1.4750976943716136,
+      "entry_price": 74.13141575,
+      "leverage": 3,
+      "notional": 109.35108045332854,
+      "margin": 36.450360151109514,
+      "opened_at": "2026-11-14T15:00:31.222768+00:00",
+      "signal_ts": "2026-11-14T15:00:22.214714+00:00"
     }
   },
   "equity_history": [
@@ -20745,7 +20781,12 @@
       "ts": "2026-11-14T14:00:37.136508+00:00",
       "equity": 16542.6759758548,
       "cash": 807.7642138750031
+    },
+    {
+      "ts": "2026-11-14T15:00:31.222922+00:00",
+      "equity": 16913.188728752237,
+      "cash": 692.5568428710808
     }
   ],
-  "last_processed_signal_index": 482
+  "last_processed_signal_index": 485
 }
