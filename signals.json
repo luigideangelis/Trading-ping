@@ -6406,5 +6406,33 @@
     "leverage": 3,
     "unrealized_pnl": 14551.22023,
     "liquidation_price": 44.9501479439
+  },
+  {
+    "ts": "2026-11-14T19:00:24.021710+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 34950.0,
+    "entry_price": 0.457572,
+    "position_value_usd": 4210.077,
+    "leverage": 3,
+    "unrealized_pnl": 11782.08614,
+    "liquidation_price": 124.4344154908
+  },
+  {
+    "ts": "2026-11-14T19:00:24.021710+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "STBL",
+    "side": "SHORT",
+    "size": 500000.0,
+    "entry_price": 0.440609,
+    "position_value_usd": 10079.0,
+    "leverage": 3,
+    "unrealized_pnl": 210225.72307,
+    "liquidation_price": 8.7097034888
   }
 ]
