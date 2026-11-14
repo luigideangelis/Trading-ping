@@ -6504,5 +6504,61 @@
     "leverage": 5,
     "unrealized_pnl": 90350.944777,
     "liquidation_price": 2477.946272573
+  },
+  {
+    "ts": "2026-11-14T23:00:22.532499+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "MNT",
+    "side": "SHORT",
+    "size": 3581.0,
+    "entry_price": 0.73688,
+    "position_value_usd": 1325.29229,
+    "leverage": 5,
+    "unrealized_pnl": 1313.499303,
+    "liquidation_price": 1585.7059702224
+  },
+  {
+    "ts": "2026-11-14T23:00:22.532499+00:00",
+    "trader": "0xfb1898bb5955fdd11704e397104c6a0e0725eb17",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 3.5,
+    "entry_price": 90.1492,
+    "position_value_usd": 217.742,
+    "leverage": 10,
+    "unrealized_pnl": 97.780433,
+    "liquidation_price": 620500.9967042176
+  },
+  {
+    "ts": "2026-11-14T23:00:22.532499+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "MNT",
+    "side": "SHORT",
+    "size": 42955.7,
+    "entry_price": 0.52797,
+    "position_value_usd": 15895.327228,
+    "leverage": 5,
+    "unrealized_pnl": 6784.087182,
+    "liquidation_price": 58.5022584911
+  },
+  {
+    "ts": "2026-11-14T23:00:22.532499+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ENA",
+    "side": "SHORT",
+    "size": 207308.0,
+    "entry_price": 0.178337,
+    "position_value_usd": 23494.21564,
+    "leverage": 10,
+    "unrealized_pnl": 13476.64043,
+    "liquidation_price": 12.7323323752
   }
 ]

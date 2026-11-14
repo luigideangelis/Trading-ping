@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 23:00 UTC — Position poll (Job B)
+- 4 signals
+- CLOSED SHORT MNT x5 (0x6859da14...) — trader no longer on shortlist
+- CLOSED SHORT HYPE x10 (0xfb1898bb...) — trader no longer on shortlist
+- CLOSED SHORT MNT x5 (0xbfc79c44...) — trader no longer on shortlist
+- CLOSED SHORT ENA x10 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $18,649.14 (+86.49%)
+
 ### 22:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT XPL x10 (0x6859da14...) — trader no longer on shortlist
