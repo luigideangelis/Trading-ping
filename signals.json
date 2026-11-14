@@ -6462,5 +6462,19 @@
     "leverage": 5,
     "unrealized_pnl": 19585.22552,
     "liquidation_price": 15.5490917887
+  },
+  {
+    "ts": "2026-11-14T21:09:37.740712+00:00",
+    "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "SKY",
+    "side": "SHORT",
+    "size": 350000.0,
+    "entry_price": 0.071286,
+    "position_value_usd": 18420.5,
+    "leverage": 3,
+    "unrealized_pnl": 6529.808318,
+    "liquidation_price": 2.4165740978
   }
 ]
