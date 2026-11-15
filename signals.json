@@ -6560,5 +6560,33 @@
     "leverage": 10,
     "unrealized_pnl": 13476.64043,
     "liquidation_price": 12.7323323752
+  },
+  {
+    "ts": "2026-11-15T00:00:30.868186+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "TAO",
+    "side": "SHORT",
+    "size": 15.128,
+    "entry_price": 242.851,
+    "position_value_usd": 2742.7064,
+    "leverage": 5,
+    "unrealized_pnl": 931.145546,
+    "liquidation_price": 171086.99196523
+  },
+  {
+    "ts": "2026-11-15T00:00:30.868186+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "PENGU",
+    "side": "SHORT",
+    "size": 6568059.0,
+    "entry_price": 0.009641,
+    "position_value_usd": 30823.900887,
+    "leverage": 5,
+    "unrealized_pnl": 32501.501246,
+    "liquidation_price": 0.3983346083
   }
 ]

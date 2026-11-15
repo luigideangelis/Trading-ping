@@ -2,6 +2,14 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-15
+
+### 00:00 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT TAO x5 (0xbfc79c44...) — trader no longer on shortlist
+- CLOSED SHORT PENGU x5 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $18,243.92 (+82.44%)
+
 ## 2026-11-14
 
 ### 23:00 UTC — Position poll (Job B)
