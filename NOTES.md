@@ -4,6 +4,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-15
 
+### 15:00 UTC — Position poll (Job B)
+- 11 signals
+- NEW SHORT LINK x10 (0x3dc90837...)
+- NEW SHORT GRASS x3 (0x3dc90837...)
+- NEW SHORT HYPE x10 (0x3dc90837...)
+- NEW SHORT PUMP x10 (0x3dc90837...)
+- NEW SHORT VVV x3 (0x3dc90837...)
+- NEW SHORT XMR x5 (0x3dc90837...)
+- NEW SHORT BTC x20 (0x3dc90837...)
+- NEW SHORT ETH x20 (0x3dc90837...)
+- NEW SHORT AAVE x10 (0x3dc90837...)
+- NEW SHORT SOL x20 (0x3dc90837...)
+- CLOSED SHORT ZEC x1 (0x01535410...) — trader no longer on shortlist
+- Portfolio equity: $17,715.51 (+77.16%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47999 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
