@@ -6588,5 +6588,19 @@
     "leverage": 5,
     "unrealized_pnl": 32501.501246,
     "liquidation_price": 0.3983346083
+  },
+  {
+    "ts": "2026-11-15T11:00:21.254280+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 0.2,
+    "entry_price": 0.97614,
+    "position_value_usd": 0.29774,
+    "leverage": 5,
+    "unrealized_pnl": -0.102512,
+    "liquidation_price": 10345435.19271818
   }
 ]

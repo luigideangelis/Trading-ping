@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-15
 
+### 11:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT ZRO x5 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $17,396.90 (+73.97%)
+
 ### 00:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT TAO x5 (0xbfc79c44...) — trader no longer on shortlist
