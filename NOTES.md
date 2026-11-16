@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 20:00 UTC — Position poll (Job B)
+- 2 signals
+- NEW SHORT HYPE x10 (0x28cee446...)
+- NEW SHORT ENA x10 (0x28cee446...)
+- Portfolio equity: $17,424.57 (+74.25%)
+
 ### 19:31 UTC — Daily refresh (Job A)
 - Leaderboard: 47956 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped

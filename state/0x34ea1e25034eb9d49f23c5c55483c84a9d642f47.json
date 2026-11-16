@@ -1,24 +1,24 @@
 {
-  "account_value": 294493.496081,
+  "account_value": 287860.167382,
   "positions": [
     {
       "coin": "VVV",
       "side": "SHORT",
       "size": 19000.0,
       "entry_price": 20.1075,
-      "position_value_usd": 377799.8,
+      "position_value_usd": 383933.0,
       "leverage": 3,
-      "unrealized_pnl": 4242.898483,
-      "liquidation_price": 83.8411683683
+      "unrealized_pnl": -1890.301517,
+      "liquidation_price": 84.0634760766
     },
     {
       "coin": "WLFI",
       "side": "LONG",
       "size": 10000000.0,
       "entry_price": 0.049031,
-      "position_value_usd": 458110.0,
+      "position_value_usd": 459570.0,
       "leverage": 5,
-      "unrealized_pnl": -32203.75702,
+      "unrealized_pnl": -30743.75702,
       "liquidation_price": 0.0
     },
     {
@@ -26,11 +26,11 @@
       "side": "SHORT",
       "size": 2200000.0,
       "entry_price": 0.096874,
-      "position_value_usd": 211257.2,
+      "position_value_usd": 213243.8,
       "leverage": 3,
-      "unrealized_pnl": 1867.7,
-      "liquidation_price": 0.6483816359
+      "unrealized_pnl": -118.9,
+      "liquidation_price": 0.6484167479
     }
   ],
-  "timestamp_ms": 1794855629994
+  "timestamp_ms": 1794859231440
 }
