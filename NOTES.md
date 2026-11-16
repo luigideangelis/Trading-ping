@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 18:00 UTC — Position poll (Job B)
+- 3 signals
+- CLOSED SHORT DOGE x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT VVV x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT ZRO x3 (0x5b5d5120...) — trader no longer on shortlist
+- Portfolio equity: $17,671.63 (+76.72%)
+
 ### 15:00 UTC — Position poll (Job B)
 - 5 signals
 - NEW SHORT HYPE x6 (0x4a96036f...)
