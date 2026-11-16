@@ -6937,5 +6937,19 @@
     "leverage": 3,
     "unrealized_pnl": 247139.808371,
     "liquidation_price": 6.0121751322
+  },
+  {
+    "ts": "2026-11-16T19:00:25.217083+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "FARTCOIN",
+    "side": "SHORT",
+    "size": 13736444.5,
+    "entry_price": 0.20186,
+    "position_value_usd": 1272818.94737,
+    "leverage": 3,
+    "unrealized_pnl": 1500036.142091,
+    "liquidation_price": 0.3774031286
   }
 ]

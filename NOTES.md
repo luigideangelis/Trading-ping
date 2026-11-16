@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 19:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT FARTCOIN x3 (0x5b5d5120...) — trader no longer on shortlist
+- Portfolio equity: $17,529.70 (+75.30%)
+
 ### 18:00 UTC — Position poll (Job B)
 - 3 signals
 - CLOSED SHORT DOGE x3 (0x5b5d5120...) — trader no longer on shortlist
