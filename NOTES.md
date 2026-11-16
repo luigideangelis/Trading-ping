@@ -4,6 +4,26 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 23:00 UTC — Position poll (Job B)
+- 16 signals
+- CLOSED SHORT NEAR x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT ETH x5 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT XPL x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT BTC x5 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT ZEC x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT WLD x2 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT SUI x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT BNB x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT ENA x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT XRP x5 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT LINK x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT PUMP x5 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT ONDO x3 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT SOL x7 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT HYPE x5 (0x5b5d5120...) — trader no longer on shortlist
+- CLOSED SHORT INJ x3 (0x5b5d5120...) — trader no longer on shortlist
+- Portfolio equity: $17,320.02 (+73.20%)
+
 ### 22:04 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT XMR x3 (0x5b5d5120...) — trader no longer on shortlist
