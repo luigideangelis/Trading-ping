@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 11:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT HYPE x10 (0x34ea1e25...) — trader no longer on shortlist
+- Portfolio equity: $17,489.78 (+74.90%)
+
 ### 09:08 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT CHIP x3 (0x641edd3f...) — trader no longer on shortlist
