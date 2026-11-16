@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 08:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT APEX x3 (0xa20fb0c9...) — trader no longer on shortlist
+- Portfolio equity: $17,561.33 (+75.61%)
+
 ### 05:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT FET x5 (0xbfc79c44...) — trader no longer on shortlist
