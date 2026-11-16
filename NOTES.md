@@ -4,6 +4,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 15:00 UTC — Position poll (Job B)
+- 5 signals
+- NEW SHORT HYPE x6 (0x4a96036f...)
+- NEW SHORT ZEC x10 (0x4a96036f...)
+- NEW LONG ASTER x5 (0x4a96036f...)
+- NEW SHORT BTC x40 (0x4a96036f...)
+- NEW SHORT SOL x20 (0x4a96036f...)
+- Portfolio equity: $17,445.75 (+74.46%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47897 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
