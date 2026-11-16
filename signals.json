@@ -6802,5 +6802,19 @@
     "leverage": 5,
     "unrealized_pnl": 7180.722318,
     "liquidation_price": 20322.3102515385
+  },
+  {
+    "ts": "2026-11-16T09:07:57.659426+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "CHIP",
+    "side": "SHORT",
+    "size": 404507.0,
+    "entry_price": 0.055353,
+    "position_value_usd": 11019.579694,
+    "leverage": 3,
+    "unrealized_pnl": 11371.337033,
+    "liquidation_price": 0.624704995
   }
 ]
