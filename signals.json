@@ -7285,5 +7285,58 @@
     "leverage": 10,
     "unrealized_pnl": 0.198493,
     "liquidation_price": 304225.1722793651
+  },
+  {
+    "ts": "2026-11-17T15:00:30.653953+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "NEW",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 50.0,
+    "entry_price": 80695.3,
+    "position_value_usd": 3250000.0,
+    "leverage": 20,
+    "unrealized_pnl": 784766.30705,
+    "liquidation_price": 143973.6063975704
+  },
+  {
+    "ts": "2026-11-17T15:00:30.653953+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "NEW",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 5050.0,
+    "entry_price": 89.4902,
+    "position_value_usd": 351262.85,
+    "leverage": 10,
+    "unrealized_pnl": 100662.82446,
+    "liquidation_price": 823.5482916317
+  },
+  {
+    "ts": "2026-11-17T15:00:30.653953+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "NEW",
+    "coin": "kPEPE",
+    "side": "SHORT",
+    "size": 16000000.0,
+    "entry_price": 0.005316,
+    "position_value_usd": 61312.0,
+    "leverage": 10,
+    "unrealized_pnl": 23744.0,
+    "liquidation_price": 0.2418105014
+  },
+  {
+    "ts": "2026-11-17T15:00:30.653953+00:00",
+    "trader": "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "LINK",
+    "side": "SHORT",
+    "size": 18865.0,
+    "entry_price": 7.55579,
+    "position_value_usd": 176076.4775,
+    "leverage": 10,
+    "unrealized_pnl": -33536.459968,
+    "liquidation_price": 917.5892960423
   }
 ]

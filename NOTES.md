@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-17
 
+### 15:00 UTC — Position poll (Job B)
+- 4 signals
+- NEW SHORT BTC x20 (0x71038a3e...)
+- NEW SHORT HYPE x10 (0x71038a3e...)
+- NEW SHORT kPEPE x10 (0x71038a3e...)
+- CLOSED SHORT LINK x10 (0x3dc90837...) — trader no longer on shortlist
+- Portfolio equity: $17,034.71 (+70.35%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48210 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
