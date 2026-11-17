@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-17
 
+### 21:00 UTC — Position poll (Job B)
+- 1 signals
+- NEW SHORT ETC x5 (0x47f5a639...)
+- Portfolio equity: $17,556.29 (+75.56%)
+
 ### 19:00 UTC — Position poll (Job B)
 - 4 signals
 - NEW LONG HYPE x10 (0x47f5a639...)
