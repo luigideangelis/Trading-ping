@@ -2,6 +2,16 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-17
+
+### 02:00 UTC — Position poll (Job B)
+- 4 signals
+- CLOSED SHORT REZ x3 (0x641edd3f...) — trader no longer on shortlist
+- CLOSED SHORT ZORA x3 (0x641edd3f...) — trader no longer on shortlist
+- CLOSED SHORT VVV x3 (0x641edd3f...) — trader no longer on shortlist
+- CLOSED SHORT WLD x10 (0x641edd3f...) — trader no longer on shortlist
+- Portfolio equity: $17,419.28 (+74.19%)
+
 ## 2026-11-16
 
 ### 23:00 UTC — Position poll (Job B)

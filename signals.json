@@ -7229,5 +7229,61 @@
     "leverage": 3,
     "unrealized_pnl": -23.488266,
     "liquidation_price": 35000.5644226511
+  },
+  {
+    "ts": "2026-11-17T02:00:21.229108+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "REZ",
+    "side": "SHORT",
+    "size": 1999614.0,
+    "entry_price": 0.00447,
+    "position_value_usd": 5516.935026,
+    "leverage": 3,
+    "unrealized_pnl": 3423.297244,
+    "liquidation_price": 0.1259938739
+  },
+  {
+    "ts": "2026-11-17T02:00:21.229108+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ZORA",
+    "side": "SHORT",
+    "size": 2803323.0,
+    "entry_price": 0.007475,
+    "position_value_usd": 12483.197319,
+    "leverage": 3,
+    "unrealized_pnl": 8473.314031,
+    "liquidation_price": 0.0923565984
+  },
+  {
+    "ts": "2026-11-17T02:00:21.229108+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 6982.96,
+    "entry_price": 21.4608,
+    "position_value_usd": 141390.97408,
+    "leverage": 3,
+    "unrealized_pnl": 8469.12438,
+    "liquidation_price": 55.5370721444
+  },
+  {
+    "ts": "2026-11-17T02:00:21.229108+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "WLD",
+    "side": "SHORT",
+    "size": 0.9,
+    "entry_price": 0.4802,
+    "position_value_usd": 0.233694,
+    "leverage": 10,
+    "unrealized_pnl": 0.198493,
+    "liquidation_price": 304225.1722793651
   }
 ]

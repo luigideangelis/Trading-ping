@@ -1,14 +1,14 @@
 {
-  "account_value": 190203.064678,
+  "account_value": 182302.813792,
   "positions": [
     {
       "coin": "WLFI",
       "side": "LONG",
       "size": 6000000.0,
       "entry_price": 0.049395,
-      "position_value_usd": 274554.0,
+      "position_value_usd": 274398.0,
       "leverage": 5,
-      "unrealized_pnl": -21819.994405,
+      "unrealized_pnl": -21975.994405,
       "liquidation_price": 0.0
     },
     {
@@ -16,41 +16,41 @@
       "side": "SHORT",
       "size": 4600.0,
       "entry_price": 107.2776,
-      "position_value_usd": 328766.6,
+      "position_value_usd": 330109.8,
       "leverage": 20,
-      "unrealized_pnl": 164710.6151,
-      "liquidation_price": 405.2238820354
+      "unrealized_pnl": 163367.4151,
+      "liquidation_price": 406.5653787909
     },
     {
       "coin": "ZRO",
       "side": "SHORT",
       "size": 100000.0,
       "entry_price": 0.97761,
-      "position_value_usd": 146180.0,
+      "position_value_usd": 150440.0,
       "leverage": 5,
-      "unrealized_pnl": -48418.932028,
-      "liquidation_price": 15.7676621709
+      "unrealized_pnl": -52678.932028,
+      "liquidation_price": 15.8552474182
     },
     {
       "coin": "AERO",
       "side": "SHORT",
       "size": 340000.0,
       "entry_price": 0.706591,
-      "position_value_usd": 147036.4,
+      "position_value_usd": 148529.0,
       "leverage": 3,
-      "unrealized_pnl": 93204.758485,
-      "liquidation_price": 4.3996318625
+      "unrealized_pnl": 91712.158485,
+      "liquidation_price": 4.416496763
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 3500.0,
       "entry_price": 89.3533,
-      "position_value_usd": 241647.0,
+      "position_value_usd": 242289.25,
       "leverage": 10,
-      "unrealized_pnl": 71089.66345,
-      "liquidation_price": 497.2446772237
+      "unrealized_pnl": 70447.41345,
+      "liquidation_price": 498.7746744215
     }
   ],
-  "timestamp_ms": 1794877242940
+  "timestamp_ms": 1794880827857
 }
