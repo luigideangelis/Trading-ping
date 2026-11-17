@@ -1,56 +1,46 @@
 {
-  "account_value": 549502.52206,
+  "account_value": 520096.392403,
   "positions": [
-    {
-      "coin": "BTC",
-      "side": "SHORT",
-      "size": 3.56704,
-      "entry_price": 85606.1,
-      "position_value_usd": 231768.424,
-      "leverage": 40,
-      "unrealized_pnl": 73592.266266,
-      "liquidation_price": 477018.2125343474
-    },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 25959.65,
       "entry_price": 84.812,
-      "position_value_usd": 1804533.15045,
+      "position_value_usd": 1769539.54225,
       "leverage": 10,
-      "unrealized_pnl": 397157.446423,
-      "liquidation_price": 124.1086000984
+      "unrealized_pnl": 432151.054623,
+      "liquidation_price": 125.9373106413
     },
     {
       "coin": "PAXG",
       "side": "SHORT",
       "size": 477.591,
       "entry_price": 4263.825,
-      "position_value_usd": 1839011.9046,
+      "position_value_usd": 1844886.2739,
       "leverage": 10,
-      "unrealized_pnl": 197352.919776,
-      "liquidation_price": 6793.7729590781
+      "unrealized_pnl": 191478.550476,
+      "liquidation_price": 6970.3365426846
     },
     {
       "coin": "MON",
       "side": "SHORT",
       "size": 40922154.0,
       "entry_price": 0.02165,
-      "position_value_usd": 628932.584826,
+      "position_value_usd": 613750.465692,
       "leverage": 5,
-      "unrealized_pnl": 257033.756154,
-      "liquidation_price": 0.0484283725
+      "unrealized_pnl": 272215.875288,
+      "liquidation_price": 0.0499809717
     },
     {
       "coin": "TRX",
       "side": "SHORT",
       "size": 1365570.0,
       "entry_price": 0.331078,
-      "position_value_usd": 420349.7574,
+      "position_value_usd": 419885.4636,
       "leverage": 10,
-      "unrealized_pnl": 31761.0785,
-      "liquidation_price": 1.3456889266
+      "unrealized_pnl": 32225.3723,
+      "liquidation_price": 1.4057385762
     }
   ],
-  "timestamp_ms": 1794927634168
+  "timestamp_ms": 1794931241543
 }
