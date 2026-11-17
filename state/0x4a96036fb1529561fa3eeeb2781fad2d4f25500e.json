@@ -1,44 +1,44 @@
 {
-  "account_value": 597493.632451,
+  "account_value": 581750.618,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 16.0,
       "entry_price": 78779.5,
-      "position_value_usd": 1040512.0,
+      "position_value_usd": 1041184.0,
       "leverage": 40,
-      "unrealized_pnl": 219961.20432,
-      "liquidation_price": 177886.1186572223
+      "unrealized_pnl": 219289.20432,
+      "liquidation_price": 177152.3281633334
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 1000.0,
       "entry_price": 72.2504,
-      "position_value_usd": 73635.0,
+      "position_value_usd": 73714.0,
       "leverage": 20,
-      "unrealized_pnl": -1384.52119,
-      "liquidation_price": 1857.28058268
+      "unrealized_pnl": -1463.52119,
+      "liquidation_price": 1845.0983085327
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 48000.0,
       "entry_price": 86.5796,
-      "position_value_usd": 3334214.4,
+      "position_value_usd": 3346464.0,
       "leverage": 6,
-      "unrealized_pnl": 821609.25633,
-      "liquidation_price": 105.7373381398
+      "unrealized_pnl": 809359.65633,
+      "liquidation_price": 105.7431769096
     },
     {
       "coin": "ASTER",
       "side": "LONG",
       "size": 90000.0,
       "entry_price": 0.700118,
-      "position_value_usd": 53511.3,
+      "position_value_usd": 51008.4,
       "leverage": 5,
-      "unrealized_pnl": -9499.39801,
+      "unrealized_pnl": -12002.29801,
       "liquidation_price": 0.0
     },
     {
@@ -46,11 +46,11 @@
       "side": "SHORT",
       "size": 90.0,
       "entry_price": 1319.5694,
-      "position_value_usd": 85356.9,
+      "position_value_usd": 85652.1,
       "leverage": 10,
-      "unrealized_pnl": 33404.348,
-      "liquidation_price": 20294.8303412381
+      "unrealized_pnl": 33109.148,
+      "liquidation_price": 20165.1176851429
     }
   ],
-  "timestamp_ms": 1794920423786
+  "timestamp_ms": 1794924025239
 }
