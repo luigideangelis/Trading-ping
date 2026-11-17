@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-17
 
+### 19:00 UTC — Position poll (Job B)
+- 4 signals
+- NEW LONG HYPE x10 (0x47f5a639...)
+- NEW LONG TRUMP x10 (0x47f5a639...)
+- NEW LONG TIA x5 (0x47f5a639...)
+- CLOSED SHORT XMR x5 (0x3dc90837...) — trader no longer on shortlist
+- Portfolio equity: $17,790.86 (+77.91%)
+
 ### 18:29 UTC — Daily refresh (Job A)
 - Leaderboard: 48107 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

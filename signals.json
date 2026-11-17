@@ -7352,5 +7352,58 @@
     "leverage": 40,
     "unrealized_pnl": 73592.266266,
     "liquidation_price": 477018.2125343474
+  },
+  {
+    "ts": "2026-11-17T19:00:31.038731+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "NEW",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 4379.04,
+    "entry_price": 69.6322,
+    "position_value_usd": 296447.87088,
+    "leverage": 10,
+    "unrealized_pnl": -8474.407579,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-17T19:00:31.038731+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "NEW",
+    "coin": "TRUMP",
+    "side": "LONG",
+    "size": 8401.7,
+    "entry_price": 1.1353,
+    "position_value_usd": 7979.514575,
+    "leverage": 10,
+    "unrealized_pnl": -1558.935435,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-17T19:00:31.038731+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "NEW",
+    "coin": "TIA",
+    "side": "LONG",
+    "size": 61919.5,
+    "entry_price": 0.42968,
+    "position_value_usd": 21485.447305,
+    "leverage": 5,
+    "unrealized_pnl": -5120.123455,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-17T19:00:31.038731+00:00",
+    "trader": "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 130.09,
+    "entry_price": 505.189,
+    "position_value_usd": 65727.9725,
+    "leverage": 5,
+    "unrealized_pnl": -7.906505,
+    "liquidation_price": 155897.2754154257
   }
 ]
