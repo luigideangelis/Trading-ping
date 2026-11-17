@@ -1,14 +1,14 @@
 {
-  "account_value": 191809.501333,
+  "account_value": 190203.064678,
   "positions": [
     {
       "coin": "WLFI",
       "side": "LONG",
-      "size": 6500000.0,
+      "size": 6000000.0,
       "entry_price": 0.049395,
-      "position_value_usd": 297752.0,
+      "position_value_usd": 274554.0,
       "leverage": 5,
-      "unrealized_pnl": -23319.827311,
+      "unrealized_pnl": -21819.994405,
       "liquidation_price": 0.0
     },
     {
@@ -16,41 +16,41 @@
       "side": "SHORT",
       "size": 4600.0,
       "entry_price": 107.2776,
-      "position_value_usd": 329203.6,
+      "position_value_usd": 328766.6,
       "leverage": 20,
-      "unrealized_pnl": 164273.6151,
-      "liquidation_price": 404.8544205762
+      "unrealized_pnl": 164710.6151,
+      "liquidation_price": 405.2238820354
     },
     {
       "coin": "ZRO",
       "side": "SHORT",
       "size": 100000.0,
       "entry_price": 0.97761,
-      "position_value_usd": 146340.0,
+      "position_value_usd": 146180.0,
       "leverage": 5,
-      "unrealized_pnl": -48578.932028,
-      "liquidation_price": 15.7493536638
+      "unrealized_pnl": -48418.932028,
+      "liquidation_price": 15.7676621709
     },
     {
       "coin": "AERO",
       "side": "SHORT",
       "size": 340000.0,
       "entry_price": 0.706591,
-      "position_value_usd": 148542.6,
+      "position_value_usd": 147036.4,
       "leverage": 3,
-      "unrealized_pnl": 91698.558485,
-      "liquidation_price": 4.398541016
+      "unrealized_pnl": 93204.758485,
+      "liquidation_price": 4.3996318625
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 3500.0,
       "entry_price": 89.3533,
-      "position_value_usd": 244398.0,
+      "position_value_usd": 241647.0,
       "leverage": 10,
-      "unrealized_pnl": 68338.66345,
-      "liquidation_price": 497.4347763312
+      "unrealized_pnl": 71089.66345,
+      "liquidation_price": 497.2446772237
     }
   ],
-  "timestamp_ms": 1794873629590
+  "timestamp_ms": 1794877242940
 }
