@@ -4,6 +4,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-18
 
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 48164 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+-   +0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1
+-   -0x47f5a6397b79deaaca5c456503e7c1a49357b942
+- #1 0x28cee446... acc=$3,877,758 month=$1,158,368 edge=2121bps
+- #2 0xaea8e3bd... acc=$1,642,496 month=$1,107,033 edge=1052bps
+- #3 0xd4758770... acc=$13,078,293 month=$8,714,197 edge=10342bps
+- #4 0x218a65e2... acc=$13,755,688 month=$17,933,640 edge=8170bps
+- #5 0xbe195419... acc=$25,645,037 month=$2,669,204 edge=5194bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0xaea8e3bd... 8 positions: SHORT BTC x20, SHORT ETH x20, SHORT OP x5, SHORT HBAR x5, SHORT MOODENG x3, SHORT HYPE x10, SHORT MELANIA x3, SHORT APEX x3
+-   0xd4758770... 2 positions: SHORT UNI x10, SHORT HYPE x5
+-   0x218a65e2... 2 positions: SHORT BTC x8, SHORT ETH x10
+-   0xbe195419... 7 positions: SHORT WLD x3, SHORT HYPE x3, SHORT FARTCOIN x10, SHORT WLFI x3, SHORT MEGA x3, SHORT LIT x3, SHORT CHIP x3
+
 ### 01:00 UTC — Position poll (Job B)
 - 2 signals
 - NEW LONG PAXG x10 (0x47f5a639...)
