@@ -4,6 +4,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-18
 
+### 15:00 UTC — Position poll (Job B)
+- 7 signals
+- NEW SHORT WLFI x3 (0xbe195419...)
+- NEW SHORT FARTCOIN x10 (0xbe195419...)
+- NEW SHORT WLD x3 (0xbe195419...)
+- NEW SHORT LIT x3 (0xbe195419...)
+- NEW SHORT CHIP x3 (0xbe195419...)
+- NEW SHORT MEGA x3 (0xbe195419...)
+- NEW SHORT HYPE x3 (0xbe195419...)
+- Portfolio equity: $17,590.08 (+75.90%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48164 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
