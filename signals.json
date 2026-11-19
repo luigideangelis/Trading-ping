@@ -7535,5 +7535,19 @@
     "leverage": 3,
     "unrealized_pnl": -600959.410794,
     "liquidation_price": 408.123028256
+  },
+  {
+    "ts": "2026-11-19T08:00:21.881999+00:00",
+    "trader": "0xabe6724948b47deb99ae12fce930ea4b35d51d99",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 0.04,
+    "entry_price": 107.3077,
+    "position_value_usd": 3.0056,
+    "leverage": 20,
+    "unrealized_pnl": 1.286708,
+    "liquidation_price": 7913558.979756099
   }
 ]
