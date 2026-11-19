@@ -4,6 +4,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-19
 
+### 19:00 UTC — Position poll (Job B)
+- 11 signals
+- NEW SHORT SEI x5 (0xa20fb0c9...)
+- NEW LONG GRAM x5 (0xa20fb0c9...)
+- NEW LONG MNT x5 (0xa20fb0c9...)
+- NEW LONG SOL x20 (0xa20fb0c9...)
+- NEW SHORT LIT x5 (0xa20fb0c9...)
+- NEW SHORT OP x5 (0xa20fb0c9...)
+- NEW LONG W x5 (0xa20fb0c9...)
+- NEW SHORT POL x5 (0xa20fb0c9...)
+- NEW LONG BTC x20 (0xa20fb0c9...)
+- NEW SHORT TRUMP x10 (0xa20fb0c9...)
+- NEW SHORT ETH x20 (0xa20fb0c9...)
+- Portfolio equity: $17,752.24 (+77.52%)
+
 ### 18:12 UTC — Daily refresh (Job A)
 - Leaderboard: 48003 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
