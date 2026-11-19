@@ -1,36 +1,36 @@
 {
-  "account_value": 306185.734732,
+  "account_value": 377255.445087,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 50.0,
       "entry_price": 80695.3,
-      "position_value_usd": 3179300.0,
+      "position_value_usd": 3155050.0,
       "leverage": 20,
-      "unrealized_pnl": 855466.30705,
-      "liquidation_price": 141005.089440237
+      "unrealized_pnl": 879716.30705,
+      "liquidation_price": 140811.0606241778
     },
     {
       "coin": "kPEPE",
       "side": "SHORT",
       "size": 16000000.0,
       "entry_price": 0.005316,
-      "position_value_usd": 62304.0,
+      "position_value_usd": 60720.0,
       "leverage": 10,
-      "unrealized_pnl": 22752.0,
-      "liquidation_price": 0.2371881311
+      "unrealized_pnl": 24336.0,
+      "liquidation_price": 0.2379659416
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5050.0,
       "entry_price": 89.4902,
-      "position_value_usd": 349089.835,
+      "position_value_usd": 342889.95,
       "leverage": 10,
-      "unrealized_pnl": 102835.83946,
-      "liquidation_price": 808.2764223785
+      "unrealized_pnl": 109035.72446,
+      "liquidation_price": 809.8267358037
     }
   ],
-  "timestamp_ms": 1795100430991
+  "timestamp_ms": 1795104027418
 }
