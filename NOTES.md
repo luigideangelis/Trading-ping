@@ -4,6 +4,24 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-19
 
+### 15:00 UTC — Position poll (Job B)
+- 14 signals
+- NEW SHORT BTC x40 (0x3440f23a...)
+- NEW SHORT ETH x25 (0x3440f23a...)
+- NEW LONG HYPE x10 (0x3440f23a...)
+- NEW SHORT SOL x20 (0x3440f23a...)
+- NEW LONG XRP x20 (0x3440f23a...)
+- NEW SHORT LIT x5 (0x5ccaf678...)
+- NEW SHORT ETH x25 (0x5ccaf678...)
+- NEW SHORT AAVE x8 (0x5ccaf678...)
+- NEW SHORT NEAR x10 (0x5ccaf678...)
+- NEW LONG VVV x3 (0x5ccaf678...)
+- NEW SHORT SOL x15 (0x5ccaf678...)
+- NEW SHORT SUI x10 (0x5ccaf678...)
+- NEW SHORT ENA x9 (0x5ccaf678...)
+- NEW SHORT ARB x10 (0x5ccaf678...)
+- Portfolio equity: $17,208.00 (+72.08%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48284 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
