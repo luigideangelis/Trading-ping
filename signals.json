@@ -7930,5 +7930,61 @@
     "leverage": 3,
     "unrealized_pnl": 184231.033789,
     "liquidation_price": 50.485488518
+  },
+  {
+    "ts": "2026-11-20T19:00:29.261319+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "WLD",
+    "side": "LONG",
+    "size": 921602.8,
+    "entry_price": 0.54283,
+    "position_value_usd": 213304.96806,
+    "leverage": 10,
+    "unrealized_pnl": -286976.476778,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-20T19:00:29.261319+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 101377027.0,
+    "entry_price": 0.004456,
+    "position_value_usd": 242797.979665,
+    "leverage": 10,
+    "unrealized_pnl": -208986.163937,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-20T19:00:29.261319+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "JUP",
+    "side": "LONG",
+    "size": 1490158.0,
+    "entry_price": 0.303507,
+    "position_value_usd": 332275.43084,
+    "leverage": 10,
+    "unrealized_pnl": -119998.61719,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-20T19:00:29.261319+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ASTER",
+    "side": "LONG",
+    "size": 695839.0,
+    "entry_price": 0.723227,
+    "position_value_usd": 348810.17392,
+    "leverage": 5,
+    "unrealized_pnl": -154439.8598,
+    "liquidation_price": 0.0
   }
 ]

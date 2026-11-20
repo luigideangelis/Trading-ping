@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-20
 
+### 19:00 UTC — Position poll (Job B)
+- 4 signals
+- CLOSED LONG WLD x10 (0xacb66d19...) — trader no longer on shortlist
+- CLOSED LONG PUMP x10 (0xacb66d19...) — trader no longer on shortlist
+- CLOSED LONG JUP x10 (0xacb66d19...) — trader no longer on shortlist
+- CLOSED LONG ASTER x5 (0xacb66d19...) — trader no longer on shortlist
+- Portfolio equity: $20,241.27 (+102.41%)
+
 ### 18:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT LIT x3 (0x60a8c761...) — trader no longer on shortlist
