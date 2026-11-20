@@ -2,6 +2,29 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-20
+
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46341 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+-   +0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11
+-   +0x4fe260d11bf48ba3a94459771259c910a398ac59
+-   +0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1
+-   -0x5ccaf678b74464fac20f6cae8cbaa9b402010c45
+-   -0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   -0xa20fb0c9e04063eec5be286e9269028d966646fa
+- #1 0x28cee446... acc=$3,758,470 month=$1,985,166 edge=3634bps
+- #2 0xcf5343ba... acc=$19,585,639 month=$6,897,156 edge=12775bps
+- #3 0x4fe260d1... acc=$3,244,543 month=$1,496,376 edge=1040bps
+- #4 0xbe195419... acc=$16,382,049 month=$5,453,571 edge=10617bps
+- #5 0x218a65e2... acc=$13,311,218 month=$21,771,498 edge=9918bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0xcf5343ba... 4 positions: SHORT BTC x5, SHORT ETH x7, SHORT NEAR x10, SHORT HYPE x5
+-   0x4fe260d1... 2 positions: SHORT HYPE x10, SHORT ZEC x10
+-   0xbe195419... 7 positions: SHORT WLD x3, SHORT HYPE x3, SHORT FARTCOIN x10, SHORT WLFI x3, SHORT MEGA x3, SHORT LIT x3, SHORT CHIP x3
+-   0x218a65e2... 2 positions: SHORT BTC x8, SHORT ETH x10
+
 ## 2026-11-19
 
 ### 19:00 UTC — Position poll (Job B)
