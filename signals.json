@@ -7902,5 +7902,19 @@
     "leverage": 5,
     "unrealized_pnl": 4115.704541,
     "liquidation_price": 19.8094828774
+  },
+  {
+    "ts": "2026-11-20T17:00:29.966367+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "WLFI",
+    "side": "SHORT",
+    "size": 924962.0,
+    "entry_price": 0.052492,
+    "position_value_usd": 41314.352692,
+    "leverage": 5,
+    "unrealized_pnl": 7239.571424,
+    "liquidation_price": 1.7565880464
   }
 ]
