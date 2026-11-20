@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-20
 
+### 21:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT VIRTUAL x5 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $20,490.15 (+104.90%)
+
 ### 19:00 UTC — Position poll (Job B)
 - 4 signals
 - CLOSED LONG WLD x10 (0xacb66d19...) — trader no longer on shortlist
