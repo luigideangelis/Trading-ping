@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-20
 
+### 16:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT ALGO x5 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $20,124.87 (+101.25%)
+
 ### 15:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT W x5 (0x47f5a639...) — trader no longer on shortlist
