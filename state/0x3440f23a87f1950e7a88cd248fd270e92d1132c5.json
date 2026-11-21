@@ -1,34 +1,34 @@
 {
-  "account_value": 1009732.159127,
+  "account_value": 1231725.696166,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 104.34666,
       "entry_price": 71145.1,
-      "position_value_usd": 6110331.71628,
+      "position_value_usd": 5926785.94134,
       "leverage": 40,
-      "unrealized_pnl": 1313424.162203,
-      "liquidation_price": 71754.7496530138
+      "unrealized_pnl": 1496969.937143,
+      "liquidation_price": 72120.0547814064
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1019.6963,
       "entry_price": 2292.34,
-      "position_value_usd": 1650786.34007,
+      "position_value_usd": 1603778.34064,
       "leverage": 25,
-      "unrealized_pnl": 686706.346772,
-      "liquidation_price": 2959.4084228843
+      "unrealized_pnl": 733714.346202,
+      "liquidation_price": 3129.0925358104
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 18640.49,
       "entry_price": 83.2722,
-      "position_value_usd": 1103414.485305,
+      "position_value_usd": 1064893.91272,
       "leverage": 10,
-      "unrealized_pnl": -448821.517964,
+      "unrealized_pnl": -487342.090549,
       "liquidation_price": 0.0
     },
     {
@@ -36,21 +36,21 @@
       "side": "SHORT",
       "size": 15051.52,
       "entry_price": 92.4172,
-      "position_value_usd": 1031254.8928,
+      "position_value_usd": 999872.4736,
       "leverage": 20,
-      "unrealized_pnl": 359765.091769,
-      "liquidation_price": 158.8875084285
+      "unrealized_pnl": 391147.510969,
+      "liquidation_price": 171.3499377704
     },
     {
       "coin": "XRP",
       "side": "LONG",
       "size": 72873.0,
       "entry_price": 1.501292,
-      "position_value_usd": 65673.1476,
+      "position_value_usd": 64333.01313,
       "leverage": 20,
-      "unrealized_pnl": -43730.567357,
+      "unrealized_pnl": -45070.701827,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1795230030688
+  "timestamp_ms": 1795233634504
 }
