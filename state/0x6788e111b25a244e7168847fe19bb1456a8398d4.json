@@ -1,14 +1,14 @@
 {
-  "account_value": 142627.63294,
+  "account_value": 140243.14294,
   "positions": [
     {
       "coin": "WLFI",
       "side": "LONG",
       "size": 6000000.0,
       "entry_price": 0.049395,
-      "position_value_usd": 262596.0,
+      "position_value_usd": 262116.0,
       "leverage": 5,
-      "unrealized_pnl": -33777.994405,
+      "unrealized_pnl": -34257.994405,
       "liquidation_price": 0.0
     },
     {
@@ -16,31 +16,31 @@
       "side": "SHORT",
       "size": 100000.0,
       "entry_price": 0.97761,
-      "position_value_usd": 113950.0,
+      "position_value_usd": 114850.0,
       "leverage": 5,
-      "unrealized_pnl": -16188.932028,
-      "liquidation_price": 14.1512654437
+      "unrealized_pnl": -17088.932028,
+      "liquidation_price": 14.1512719648
     },
     {
       "coin": "AERO",
       "side": "SHORT",
       "size": 340000.0,
       "entry_price": 0.706591,
-      "position_value_usd": 135214.6,
+      "position_value_usd": 136107.44,
       "leverage": 3,
-      "unrealized_pnl": 105026.558485,
-      "liquidation_price": 4.0059947029
+      "unrealized_pnl": 104133.718485,
+      "liquidation_price": 4.0061267129
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 3500.0,
       "entry_price": 89.3533,
-      "position_value_usd": 212625.0,
+      "position_value_usd": 212736.65,
       "leverage": 10,
-      "unrealized_pnl": 100111.66345,
-      "liquidation_price": 450.2178091997
+      "unrealized_pnl": 100000.01345,
+      "liquidation_price": 449.9805166346
     }
   ],
-  "timestamp_ms": 1795280431647
+  "timestamp_ms": 1795281016476
 }
