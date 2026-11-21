@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-21
 
+### 09:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT ONDO x10 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $20,846.08 (+108.46%)
+
 ### 07:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT kPEPE x10 (0x71038a3e...) — trader no longer on shortlist
