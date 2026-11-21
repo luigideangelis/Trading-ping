@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-21
 
+### 07:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT kPEPE x10 (0x71038a3e...) — trader no longer on shortlist
+- Portfolio equity: $20,578.21 (+105.78%)
+
 ### 04:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT XRP x20 (0xa20fb0c9...) — trader no longer on shortlist

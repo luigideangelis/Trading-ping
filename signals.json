@@ -8028,5 +8028,19 @@
     "leverage": 5,
     "unrealized_pnl": 27825.960213,
     "liquidation_price": 40.7527920889
+  },
+  {
+    "ts": "2026-11-21T07:00:25.955648+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "kPEPE",
+    "side": "SHORT",
+    "size": 16000000.0,
+    "entry_price": 0.005316,
+    "position_value_usd": 51344.0,
+    "leverage": 10,
+    "unrealized_pnl": 33712.0,
+    "liquidation_price": 0.2473039911
   }
 ]
