@@ -1,56 +1,56 @@
 {
-  "account_value": 145415.826665,
+  "account_value": 149988.461906,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 26.998,
       "entry_price": 72898.0,
-      "position_value_usd": 1564858.076,
+      "position_value_usd": 1562941.218,
       "leverage": 20,
-      "unrealized_pnl": 403242.650579,
-      "liquidation_price": 76591.3332356215
+      "unrealized_pnl": 405159.508579,
+      "liquidation_price": 76689.5881526844
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 150.004,
       "entry_price": 2427.61,
-      "position_value_usd": 245586.5488,
+      "position_value_usd": 244146.5104,
       "leverage": 20,
-      "unrealized_pnl": 118565.557082,
-      "liquidation_price": 4965.4881928966
+      "unrealized_pnl": 120005.595482,
+      "liquidation_price": 4986.1270175998
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 1200.0,
       "entry_price": 117.3993,
-      "position_value_usd": 114764.4,
+      "position_value_usd": 113823.6,
       "leverage": 10,
-      "unrealized_pnl": 26114.8439,
-      "liquidation_price": 499.7970578802
+      "unrealized_pnl": 27055.6439,
+      "liquidation_price": 502.6850130817
     },
     {
       "coin": "XLM",
       "side": "SHORT",
       "size": 5.0,
       "entry_price": 0.183935,
-      "position_value_usd": 0.62475,
+      "position_value_usd": 0.61655,
       "leverage": 5,
-      "unrealized_pnl": 0.294929,
-      "liquidation_price": 92589.520028
+      "unrealized_pnl": 0.303129,
+      "liquidation_price": 93430.7299432727
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 180000.0,
       "entry_price": 1.12684,
-      "position_value_usd": 112271.4,
+      "position_value_usd": 110779.2,
       "leverage": 10,
-      "unrealized_pnl": 90560.72083,
-      "liquidation_price": 3.3181303859
+      "unrealized_pnl": 92052.92083,
+      "liquidation_price": 3.3343200872
     }
   ],
-  "timestamp_ms": 1795244427110
+  "timestamp_ms": 1795248023242
 }
