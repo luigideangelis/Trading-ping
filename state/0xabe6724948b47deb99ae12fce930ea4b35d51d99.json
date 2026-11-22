@@ -1,56 +1,56 @@
 {
-  "account_value": 227645.686095,
+  "account_value": 220208.89719,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 26.998,
       "entry_price": 72898.0,
-      "position_value_usd": 1639966.512,
+      "position_value_usd": 1644961.142,
       "leverage": 20,
-      "unrealized_pnl": 328134.214579,
-      "liquidation_price": 75272.9531760469
+      "unrealized_pnl": 323139.584579,
+      "liquidation_price": 75180.0647373056
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 150.004,
       "entry_price": 2427.61,
-      "position_value_usd": 255570.81504,
+      "position_value_usd": 256956.852,
       "leverage": 20,
-      "unrealized_pnl": 108581.290842,
-      "liquidation_price": 4299.4805606491
+      "unrealized_pnl": 107195.253882,
+      "liquidation_price": 4259.0734370613
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 1200.0,
       "entry_price": 117.3993,
-      "position_value_usd": 118516.8,
+      "position_value_usd": 118842.0,
       "leverage": 10,
-      "unrealized_pnl": 22362.4439,
-      "liquidation_price": 413.9670446984
+      "unrealized_pnl": 22037.2439,
+      "liquidation_price": 408.2093046429
     },
     {
       "coin": "XLM",
       "side": "SHORT",
       "size": 5.0,
       "entry_price": 0.183935,
-      "position_value_usd": 0.63965,
+      "position_value_usd": 0.63915,
       "leverage": 5,
-      "unrealized_pnl": 0.280029,
-      "liquidation_price": 72210.2799881818
+      "unrealized_pnl": 0.280529,
+      "liquidation_price": 70829.1503481818
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 180000.0,
       "entry_price": 1.12684,
-      "position_value_usd": 118243.8,
+      "position_value_usd": 118641.6,
       "leverage": 10,
-      "unrealized_pnl": 84588.32083,
-      "liquidation_price": 2.7582636313
+      "unrealized_pnl": 84190.52083,
+      "liquidation_price": 2.720282031
     }
   ],
-  "timestamp_ms": 1795356031983
+  "timestamp_ms": 1795359625660
 }
