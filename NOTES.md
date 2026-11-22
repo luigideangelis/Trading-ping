@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-22
 
+### 10:00 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT kBONK x10 (0xa20fb0c9...) — trader no longer on shortlist
+- CLOSED SHORT kBONK x10 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $19,459.67 (+94.60%)
+
 ### 09:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED LONG BTC x40 (0x47f5a639...) — trader no longer on shortlist

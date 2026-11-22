@@ -8735,5 +8735,33 @@
     "leverage": 40,
     "unrealized_pnl": -115389.663871,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-22T10:00:23.727639+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "kBONK",
+    "side": "SHORT",
+    "size": 1349258.0,
+    "entry_price": 0.003012,
+    "position_value_usd": 2767.328158,
+    "leverage": 10,
+    "unrealized_pnl": 1297.330817,
+    "liquidation_price": 0.6497063005
+  },
+  {
+    "ts": "2026-11-22T10:00:23.727639+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "kBONK",
+    "side": "SHORT",
+    "size": 4016444.0,
+    "entry_price": 0.002864,
+    "position_value_usd": 8237.726644,
+    "leverage": 10,
+    "unrealized_pnl": 3268.654427,
+    "liquidation_price": 0.2520010629
   }
 ]
