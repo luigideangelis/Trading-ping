@@ -8721,5 +8721,19 @@
     "leverage": 20,
     "unrealized_pnl": 167916.8151,
     "liquidation_price": 372.6406028282
+  },
+  {
+    "ts": "2026-11-22T09:00:22.253877+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 4.58357,
+    "entry_price": 84297.6,
+    "position_value_usd": 270994.40911,
+    "leverage": 40,
+    "unrealized_pnl": -115389.663871,
+    "liquidation_price": 0.0
   }
 ]

@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-22
+
+### 09:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED LONG BTC x40 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $19,652.78 (+96.53%)
+
 ## 2026-11-21
 
 ### 16:44 UTC — Daily refresh (Job A)
