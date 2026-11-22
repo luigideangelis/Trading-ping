@@ -4,6 +4,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-22
 
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46572 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+-   +0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   +0xdcd62a213d1009992da52d8428b5562adee065b0
+-   +0xd7b19f8aaf5c9619bd5141945a73d2ca74984451
+-   -0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11
+-   -0x4fe260d11bf48ba3a94459771259c910a398ac59
+-   -0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1
+- #1 0x28cee446... acc=$3,767,850 month=$1,685,729 edge=3086bps
+- #2 0x03ef8f73... acc=$12,009,342 month=$2,364,909 edge=3018bps
+- #3 0x71038a3e... acc=$5,136,080 month=$932,708 edge=188bps
+- #4 0xdcd62a21... acc=$1,398,999 month=$171,241 edge=72bps
+- #5 0xd7b19f8a... acc=$9,455,721 month=$2,611,641 edge=1571bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x71038a3e... 2 positions: SHORT BTC x20, SHORT HYPE x10
+-   0xdcd62a21... 1 positions: SHORT HYPE x10
+-   0xd7b19f8a... no open positions
+
 ### 10:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT kBONK x10 (0xa20fb0c9...) — trader no longer on shortlist
