@@ -1,56 +1,56 @@
 {
-  "account_value": 225105.843711,
+  "account_value": 226630.248168,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 26.998,
       "entry_price": 72898.0,
-      "position_value_usd": 1639888.2178,
+      "position_value_usd": 1638859.594,
       "leverage": 20,
-      "unrealized_pnl": 328212.508779,
-      "liquidation_price": 75172.2273072994
+      "unrealized_pnl": 329241.132579,
+      "liquidation_price": 75190.9981098188
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 150.004,
       "entry_price": 2427.61,
-      "position_value_usd": 257159.3574,
+      "position_value_usd": 257166.8576,
       "leverage": 20,
-      "unrealized_pnl": 106992.748482,
-      "liquidation_price": 4292.5931405163
+      "unrealized_pnl": 106985.248282,
+      "liquidation_price": 4302.8035911395
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 1200.0,
       "entry_price": 117.3993,
-      "position_value_usd": 118412.4,
+      "position_value_usd": 117933.6,
       "leverage": 10,
-      "unrealized_pnl": 22466.8439,
-      "liquidation_price": 411.7577299452
+      "unrealized_pnl": 22945.6439,
+      "liquidation_price": 412.59253185
     },
     {
       "coin": "XLM",
       "side": "SHORT",
       "size": 5.0,
       "entry_price": 0.183935,
-      "position_value_usd": 0.64,
+      "position_value_usd": 0.6385,
       "leverage": 5,
-      "unrealized_pnl": 0.279679,
-      "liquidation_price": 71724.077042
+      "unrealized_pnl": 0.281179,
+      "liquidation_price": 72006.729542
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 180000.0,
       "entry_price": 1.12684,
-      "position_value_usd": 118292.4,
+      "position_value_usd": 118053.0,
       "leverage": 10,
-      "unrealized_pnl": 84539.72083,
-      "liquidation_price": 2.7443848663
+      "unrealized_pnl": 84779.12083,
+      "liquidation_price": 2.7512802123
     }
   ],
-  "timestamp_ms": 1795374030680
+  "timestamp_ms": 1795377630911
 }
