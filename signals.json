@@ -8942,5 +8942,19 @@
     "leverage": 5,
     "unrealized_pnl": 227.781516,
     "liquidation_price": 30.4470128203
+  },
+  {
+    "ts": "2026-11-23T20:00:24.126303+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "SEI",
+    "side": "SHORT",
+    "size": 62019.0,
+    "entry_price": 0.044236,
+    "position_value_usd": 2176.556805,
+    "leverage": 5,
+    "unrealized_pnl": 566.920626,
+    "liquidation_price": 13.304046055
   }
 ]
