@@ -2,6 +2,14 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-23
+
+### 10:00 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT AAVE x10 (0xabe67249...) — trader no longer on shortlist
+- CLOSED SHORT XLM x5 (0xabe67249...) — trader no longer on shortlist
+- Portfolio equity: $18,962.07 (+89.62%)
+
 ## 2026-11-22
 
 ### 17:05 UTC — Daily refresh (Job A)
