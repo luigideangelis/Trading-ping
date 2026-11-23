@@ -8804,5 +8804,32 @@
     "leverage": 5,
     "unrealized_pnl": 0.277879,
     "liquidation_price": 68496.7078038182
+  },
+  {
+    "ts": "2026-11-23T14:00:28.017600+00:00",
+    "trader": "0xdcd62a213d1009992da52d8428b5562adee065b0",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 18966.59,
+    "entry_price": 73.053,
+    "position_value_usd": 1208589.04798,
+    "leverage": 10,
+    "unrealized_pnl": 176978.023482,
+    "liquidation_price": 117.4592976205
+  },
+  {
+    "ts": "2026-11-23T14:00:28.017600+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "PAXG",
+    "side": "LONG",
+    "size": 47.133,
+    "entry_price": 3825.215,
+    "position_value_usd": 170269.282224,
+    "leverage": 10,
+    "unrealized_pnl": -10024.583976,
+    "liquidation_price": 0.0
   }
 ]

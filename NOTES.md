@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-23
 
+### 14:01 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT HYPE x10 (0xdcd62a21...)
+- CLOSED LONG PAXG x10 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $18,122.49 (+81.22%)
+
 ### 10:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT AAVE x10 (0xabe67249...) — trader no longer on shortlist
