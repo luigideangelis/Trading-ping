@@ -8900,5 +8900,19 @@
     "leverage": 15,
     "unrealized_pnl": 59244.32803,
     "liquidation_price": 398.4209726705
+  },
+  {
+    "ts": "2026-11-23T16:00:37.518303+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ONDO",
+    "side": "SHORT",
+    "size": 64173.0,
+    "entry_price": 0.460242,
+    "position_value_usd": 19678.00872,
+    "leverage": 10,
+    "unrealized_pnl": 9857.15066,
+    "liquidation_price": 12.8741957251
   }
 ]
