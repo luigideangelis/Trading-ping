@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-23
 
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46681 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x218a65e21eddeece7a9df38c6bbdd89f692b7da2
+-   +0xba5d9cc840745aeeeeedac5712e32f13ab8ea352
+-   -0xd7b19f8aaf5c9619bd5141945a73d2ca74984451
+-   -0xdcd62a213d1009992da52d8428b5562adee065b0
+- #1 0x28cee446... acc=$3,781,919 month=$1,573,904 edge=2881bps
+- #2 0x218a65e2... acc=$11,337,154 month=$20,396,988 edge=13667bps
+- #3 0x03ef8f73... acc=$12,042,804 month=$2,215,835 edge=2872bps
+- #4 0x71038a3e... acc=$5,136,710 month=$888,337 edge=182bps
+- #5 0xba5d9cc8... acc=$6,108,994 month=$12,610,525 edge=5254bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0x218a65e2... 2 positions: SHORT BTC x8, SHORT ETH x10
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x71038a3e... 2 positions: SHORT BTC x20, SHORT HYPE x10
+-   0xba5d9cc8... 15 positions: SHORT BTC x20, SHORT ETH x20, SHORT SOL x20, SHORT LINK x10, SHORT AAVE x10, SHORT UNI x10, SHORT ZRO x5, SHORT NEAR x10, SHORT ETHFI x5, SHORT ENA x10, SHORT HYPE x10, SHORT ZEC x10, SHORT MON x5, SHORT XMR x5, SHORT GRAM x5
+
 ### 14:01 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT HYPE x10 (0xdcd62a21...)
