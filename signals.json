@@ -8956,5 +8956,19 @@
     "leverage": 5,
     "unrealized_pnl": 566.920626,
     "liquidation_price": 13.304046055
+  },
+  {
+    "ts": "2026-11-23T20:56:51.066879+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "AVAX",
+    "side": "SHORT",
+    "size": 133.81,
+    "entry_price": 8.594,
+    "position_value_usd": 917.334455,
+    "leverage": 10,
+    "unrealized_pnl": 232.640378,
+    "liquidation_price": 34895.9514051836
   }
 ]
