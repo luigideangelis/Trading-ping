@@ -4,6 +4,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-23
 
+### 15:00 UTC — Position poll (Job B)
+- 5 signals
+- NEW SHORT ZEC x10 (0xba5d9cc8...)
+- CLOSED SHORT LIT x5 (0x5ccaf678...) — trader no longer on shortlist
+- CLOSED SHORT ETH x25 (0x5ccaf678...) — trader no longer on shortlist
+- CLOSED SHORT NEAR x10 (0x5ccaf678...) — trader no longer on shortlist
+- CLOSED SHORT SOL x15 (0x5ccaf678...) — trader no longer on shortlist
+- Portfolio equity: $17,779.99 (+77.80%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46681 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
