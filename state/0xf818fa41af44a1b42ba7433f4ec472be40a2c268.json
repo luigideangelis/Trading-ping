@@ -1,56 +1,56 @@
 {
-  "account_value": 220353.730202,
+  "account_value": 235562.250607,
   "positions": [
     {
       "coin": "NEAR",
       "side": "SHORT",
       "size": 100000.0,
       "entry_price": 5.02214,
-      "position_value_usd": 312050.0,
+      "position_value_usd": 305900.0,
       "leverage": 10,
-      "unrealized_pnl": 190164.888489,
-      "liquidation_price": 29.922019427
+      "unrealized_pnl": 196314.888489,
+      "liquidation_price": 30.011404009
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 500.0,
       "entry_price": 1254.6799,
-      "position_value_usd": 420130.0,
+      "position_value_usd": 409865.0,
       "leverage": 10,
-      "unrealized_pnl": 207209.956,
-      "liquidation_price": 6200.5638854057
+      "unrealized_pnl": 217474.956,
+      "liquidation_price": 6210.2108018076
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 1500.0,
       "entry_price": 495.947,
-      "position_value_usd": 757635.0,
+      "position_value_usd": 760290.0,
       "leverage": 5,
-      "unrealized_pnl": -13714.43456,
-      "liquidation_price": 2210.6412362655
+      "unrealized_pnl": -16369.43456,
+      "liquidation_price": 2222.0129823933
     },
     {
       "coin": "DASH",
       "side": "SHORT",
       "size": 10.0,
       "entry_price": 49.4376,
-      "position_value_usd": 362.98,
+      "position_value_usd": 359.67,
       "leverage": 5,
-      "unrealized_pnl": 131.39677,
-      "liquidation_price": 255868.9834398182
+      "unrealized_pnl": 134.70677,
+      "liquidation_price": 257308.914359
     },
     {
       "coin": "UNI",
       "side": "SHORT",
       "size": 14400.0,
       "entry_price": 7.08131,
-      "position_value_usd": 72552.96,
+      "position_value_usd": 71150.4,
       "leverage": 10,
-      "unrealized_pnl": 29417.99357,
-      "liquidation_price": 191.1600626877
+      "unrealized_pnl": 30820.55357,
+      "liquidation_price": 192.110472285
     }
   ],
-  "timestamp_ms": 1795453240333
+  "timestamp_ms": 1795456832946
 }
