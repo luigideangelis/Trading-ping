@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-23
 
+### 17:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT WLD x10 (0xf818fa41...) — trader no longer on shortlist
+- Portfolio equity: $18,288.55 (+82.89%)
+
 ### 16:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT ONDO x10 (0xc435249d...) — trader no longer on shortlist
