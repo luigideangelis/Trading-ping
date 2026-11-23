@@ -4,6 +4,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-23
 
+### 21:15 UTC — Daily refresh (Job A)
+- Leaderboard: 46749 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+-   +0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3
+-   -0x218a65e21eddeece7a9df38c6bbdd89f692b7da2
+- #1 0x28cee446... acc=$3,798,509 month=$1,481,871 edge=2713bps
+- #2 0x71038a3e... acc=$5,136,486 month=$889,310 edge=182bps
+- #3 0x03ef8f73... acc=$12,079,232 month=$2,091,871 edge=2711bps
+- #4 0xcac19662... acc=$41,899,055 month=$4,790,473 edge=941bps
+- #5 0xba5d9cc8... acc=$6,579,401 month=$12,580,933 edge=4781bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0x71038a3e... 2 positions: SHORT BTC x20, SHORT HYPE x10
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0xcac19662... 36 positions: LONG BTC x20, LONG ETH x20, LONG SOL x20, LONG AVAX x10, SHORT BNB x10, SHORT LTC x10, SHORT DOGE x10, LONG SUI x10, LONG LINK x10, LONG XRP x20, SHORT AAVE x10, SHORT WLD x10, LONG TRX x10, LONG UNI x10, LONG SEI x5, LONG ADA x10, LONG FET x5, SHORT NEAR x10, SHORT ONDO x10, LONG STRK x5, SHORT TAO x5, SHORT ENA x10, LONG POL x5, LONG PNUT x3, LONG XLM x5, SHORT ALGO x5, SHORT HYPE x10, LONG FARTCOIN x10, SHORT BIO x3, SHORT VVV x3, SHORT PUMP x5, SHORT ZEC x10, LONG ICP x5, LONG LIT x5, LONG XMR x5, SHORT GRAM x5
+-   0xba5d9cc8... 15 positions: SHORT BTC x20, SHORT ETH x20, SHORT SOL x20, SHORT LINK x10, SHORT AAVE x10, SHORT UNI x10, SHORT ZRO x5, SHORT NEAR x10, SHORT ETHFI x5, SHORT ENA x10, SHORT HYPE x10, SHORT ZEC x10, SHORT MON x5, SHORT XMR x5, SHORT GRAM x5
+
 ### 20:56 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT AVAX x10 (0x6859da14...) — trader no longer on shortlist
