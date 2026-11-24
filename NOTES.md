@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 18:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT PUMP x9 (0x6859da14...) — trader no longer on shortlist
+- Portfolio equity: $19,907.92 (+99.08%)
+
 ### 15:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT AERO x3 (0x6788e111...) — trader no longer on shortlist
