@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 14:00 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT ETH x20 (0xa20fb0c9...) — trader no longer on shortlist
+- CLOSED SHORT FIL x5 (0x47f5a639...) — trader no longer on shortlist
+- Portfolio equity: $19,671.99 (+96.72%)
+
 ### 13:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT ZEC x10 (0xc435249d...) — trader no longer on shortlist
