@@ -9438,5 +9438,19 @@
     "leverage": 10,
     "unrealized_pnl": 73866.86517,
     "liquidation_price": 25.483504731
+  },
+  {
+    "ts": "2026-11-24T00:00:24.786715+00:00",
+    "trader": "0xf818fa41af44a1b42ba7433f4ec472be40a2c268",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "DASH",
+    "side": "SHORT",
+    "size": 10.0,
+    "entry_price": 49.4376,
+    "position_value_usd": 352.28,
+    "leverage": 5,
+    "unrealized_pnl": 142.09677,
+    "liquidation_price": 263714.3902747273
   }
 ]

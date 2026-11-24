@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-24
+
+### 00:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT DASH x5 (0xf818fa41...) — trader no longer on shortlist
+- Portfolio equity: $19,181.20 (+91.81%)
+
 ## 2026-11-23
 
 ### 22:00 UTC — Position poll (Job B)
