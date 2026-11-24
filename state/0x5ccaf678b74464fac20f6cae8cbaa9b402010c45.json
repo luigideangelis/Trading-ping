@@ -1,24 +1,24 @@
 {
-  "account_value": 331340.240588,
+  "account_value": 341009.900399,
   "positions": [
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 569.47,
       "entry_price": 131.7,
-      "position_value_usd": 54269.35206,
+      "position_value_usd": 54335.98005,
       "leverage": 8,
-      "unrealized_pnl": 20729.87784,
-      "liquidation_price": 1718.9792104806
+      "unrealized_pnl": 20663.24985,
+      "liquidation_price": 1747.661481053
     },
     {
       "coin": "VVV",
       "side": "LONG",
       "size": 13000.0,
       "entry_price": 16.3973,
-      "position_value_usd": 328120.0,
+      "position_value_usd": 324480.0,
       "leverage": 3,
-      "unrealized_pnl": 114953.807116,
+      "unrealized_pnl": 111313.807116,
       "liquidation_price": 0.0
     },
     {
@@ -26,31 +26,31 @@
       "side": "SHORT",
       "size": 500000.0,
       "entry_price": 0.72209,
-      "position_value_usd": 333490.0,
+      "position_value_usd": 331025.0,
       "leverage": 10,
-      "unrealized_pnl": 27556.603723,
-      "liquidation_price": 2.5162554779
+      "unrealized_pnl": 30021.603723,
+      "liquidation_price": 2.5438596071
     },
     {
       "coin": "ENA",
       "side": "SHORT",
       "size": 846024.0,
       "entry_price": 0.1773,
-      "position_value_usd": 85093.09392,
+      "position_value_usd": 84365.51328,
       "leverage": 9,
-      "unrealized_pnl": 64907.34835,
-      "liquidation_price": 1.1935014052
+      "unrealized_pnl": 65634.92899,
+      "liquidation_price": 1.2118690685
     },
     {
       "coin": "ARB",
       "side": "SHORT",
       "size": 1057889.3,
       "entry_price": 0.16927,
-      "position_value_usd": 121043.693706,
+      "position_value_usd": 120345.486768,
       "leverage": 10,
-      "unrealized_pnl": 58035.219729,
-      "liquidation_price": 0.9884601656
+      "unrealized_pnl": 58733.426667,
+      "liquidation_price": 1.0031770719
     }
   ],
-  "timestamp_ms": 1795507233360
+  "timestamp_ms": 1795510843233
 }
