@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 14:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46702 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x218a65e21eddeece7a9df38c6bbdd89f692b7da2
+-   +0x45d26f28196d226497130c4bac709d808fed4029
+-   -0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3
+-   -0xba5d9cc840745aeeeeedac5712e32f13ab8ea352
+- #1 0x28cee446... acc=$3,758,525 month=$1,675,221 edge=3067bps
+- #2 0x218a65e2... acc=$14,673,971 month=$20,317,051 edge=13614bps
+- #3 0x45d26f28... acc=$53,372,891 month=$37,547,026 edge=52630bps
+- #4 0x03ef8f73... acc=$11,990,396 month=$2,343,661 edge=3043bps
+- #5 0x71038a3e... acc=$5,136,788 month=$1,144,499 edge=314bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0x218a65e2... 2 positions: SHORT BTC x8, SHORT ETH x10
+-   0x45d26f28... 49 positions: SHORT BTC x20, SHORT ETH x20, SHORT ATOM x5, SHORT SOL x20, SHORT AVAX x10, SHORT BNB x10, SHORT OP x5, SHORT ARB x10, SHORT DOGE x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT STX x5, SHORT XRP x20, SHORT AAVE x10, SHORT TRX x10, SHORT kSHIB x10, SHORT UNI x10, SHORT SEI x5, SHORT ZRO x5, SHORT NEAR x10, SHORT FIL x5, SHORT kBONK x10, SHORT ONDO x10, SHORT TAO x5, SHORT kFLOKI x5, SHORT ETHFI x5, SHORT ENA x10, SHORT POL x5, SHORT MOODENG x3, SHORT GRASS x3, SHORT HYPE x10, SHORT VIRTUAL x5, SHORT PENGU x5, SHORT FARTCOIN x7, SHORT SPX x5, SHORT VVV x3, SHORT INIT x3, SHORT SYRUP x3, SHORT PUMP x3, SHORT XPL x5, SHORT ASTER x3, SHORT APEX x3, SHORT 2Z x3, SHORT ZEC x5, SHORT MON x5, SHORT LIT x3, SHORT CHIP x3, SHORT CASHCAT x3
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x71038a3e... 2 positions: SHORT BTC x20, SHORT HYPE x10
+
 ### 14:00 UTC — Position poll (Job B)
 - 2 signals
 - CLOSED SHORT ETH x20 (0xa20fb0c9...) — trader no longer on shortlist
