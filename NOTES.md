@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 10:00 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT AAVE x10 (0xbfc79c44...) — trader no longer on shortlist
+- CLOSED SHORT CFX x5 (0xbfc79c44...) — trader no longer on shortlist
+- Portfolio equity: $19,471.13 (+94.71%)
+
 ### 04:00 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT AVAX x10 (0x47f5a639...) — trader no longer on shortlist

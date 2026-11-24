@@ -9466,5 +9466,33 @@
     "leverage": 10,
     "unrealized_pnl": 11780.572137,
     "liquidation_price": 355.9260193783
+  },
+  {
+    "ts": "2026-11-24T10:00:26.848305+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "AAVE",
+    "side": "SHORT",
+    "size": 7.06,
+    "entry_price": 115.3038,
+    "position_value_usd": 673.6299,
+    "leverage": 10,
+    "unrealized_pnl": 140.415619,
+    "liquidation_price": 293211.7265974639
+  },
+  {
+    "ts": "2026-11-24T10:00:26.848305+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "CFX",
+    "side": "SHORT",
+    "size": 962.0,
+    "entry_price": 0.050028,
+    "position_value_usd": 31.93359,
+    "leverage": 5,
+    "unrealized_pnl": 16.193864,
+    "liquidation_price": 2053.3985492544
   }
 ]
