@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 15:00 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT AERO x3 (0x6788e111...) — trader no longer on shortlist
+- Portfolio equity: $19,677.49 (+96.77%)
+
 ### 14:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46702 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped

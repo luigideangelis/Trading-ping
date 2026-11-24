@@ -9536,5 +9536,19 @@
     "leverage": 5,
     "unrealized_pnl": 5385.41371,
     "liquidation_price": 96.6914882503
+  },
+  {
+    "ts": "2026-11-24T15:00:28.541381+00:00",
+    "trader": "0x6788e111b25a244e7168847fe19bb1456a8398d4",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "AERO",
+    "side": "SHORT",
+    "size": 88000.0,
+    "entry_price": 0.706591,
+    "position_value_usd": 35812.48,
+    "leverage": 3,
+    "unrealized_pnl": 26367.584436,
+    "liquidation_price": 15.1457887889
   }
 ]
