@@ -9564,5 +9564,47 @@
     "leverage": 9,
     "unrealized_pnl": 10219.324889,
     "liquidation_price": 1.2960314467
+  },
+  {
+    "ts": "2026-11-25T11:08:34.731628+00:00",
+    "trader": "0xabe6724948b47deb99ae12fce930ea4b35d51d99",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "SUI",
+    "side": "SHORT",
+    "size": 180000.0,
+    "entry_price": 1.12684,
+    "position_value_usd": 115747.2,
+    "leverage": 10,
+    "unrealized_pnl": 87084.92083,
+    "liquidation_price": 3.0156297177
+  },
+  {
+    "ts": "2026-11-25T11:08:34.731628+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 26.3,
+    "entry_price": 0.83955,
+    "position_value_usd": 27.099257,
+    "leverage": 5,
+    "unrealized_pnl": -5.019021,
+    "liquidation_price": 189881.1509128586
+  },
+  {
+    "ts": "2026-11-25T11:08:34.731628+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "UNI",
+    "side": "SHORT",
+    "size": 0.3,
+    "entry_price": 5.20606,
+    "position_value_usd": 1.38405,
+    "leverage": 10,
+    "unrealized_pnl": 0.177768,
+    "liquidation_price": 17438835.999933336
   }
 ]

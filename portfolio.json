@@ -1,5 +1,5 @@
 {
-  "cash": 1238.408503885239,
+  "cash": 1406.7746211431809,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -204,18 +204,6 @@
       "notional": 338.9033114888487,
       "margin": 112.96777049628291,
       "opened_at": "2026-10-27T00:37:36.883654+00:00",
-      "signal_ts": "2026-10-27T00:37:35.213904+00:00"
-    },
-    "0xabe6724948b47deb99ae12fce930ea4b35d51d99:SUI:SHORT": {
-      "trader": "0xabe6724948b47deb99ae12fce930ea4b35d51d99",
-      "coin": "SUI",
-      "side": "SHORT",
-      "size": 285.01233625415813,
-      "entry_price": 0.9200897250000001,
-      "leverage": 3,
-      "notional": 262.2369220856959,
-      "margin": 87.41230736189863,
-      "opened_at": "2026-10-27T00:37:36.883668+00:00",
       "signal_ts": "2026-10-27T00:37:35.213904+00:00"
     },
     "0xa20fb0c9e04063eec5be286e9269028d966646fa:CASHCAT:SHORT": {
@@ -1706,18 +1694,6 @@
       "opened_at": "2026-10-28T16:00:28.183479+00:00",
       "signal_ts": "2026-10-28T16:00:24.570497+00:00"
     },
-    "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:ZRO:SHORT": {
-      "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
-      "coin": "ZRO",
-      "side": "SHORT",
-      "size": 0.016593600540030683,
-      "entry_price": 1.713992575,
-      "leverage": 3,
-      "notional": 0.028441308118128582,
-      "margin": 0.009480436039376193,
-      "opened_at": "2026-10-28T16:00:28.183500+00:00",
-      "signal_ts": "2026-10-28T16:00:24.570497+00:00"
-    },
     "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:HYPE:SHORT": {
       "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
       "coin": "HYPE",
@@ -1836,18 +1812,6 @@
       "notional": 0.017028861770583964,
       "margin": 0.005676287256861322,
       "opened_at": "2026-10-28T16:00:28.183553+00:00",
-      "signal_ts": "2026-10-28T16:00:24.570497+00:00"
-    },
-    "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:UNI:SHORT": {
-      "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
-      "coin": "UNI",
-      "side": "SHORT",
-      "size": 0.002284379128304186,
-      "entry_price": 7.08175735,
-      "leverage": 3,
-      "notional": 0.016177418682054762,
-      "margin": 0.005392472894018254,
-      "opened_at": "2026-10-28T16:00:28.183557+00:00",
       "signal_ts": "2026-10-28T16:00:24.570497+00:00"
     },
     "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:BTC:SHORT": {
@@ -22781,7 +22745,12 @@
       "ts": "2026-11-25T01:59:19.006223+00:00",
       "equity": 20191.65795339261,
       "cash": 1238.408503885239
+    },
+    {
+      "ts": "2026-11-25T11:08:43.824496+00:00",
+      "equity": 20364.799773467534,
+      "cash": 1406.7746211431809
     }
   ],
-  "last_processed_signal_index": 723
+  "last_processed_signal_index": 726
 }

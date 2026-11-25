@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-25
+
+### 11:08 UTC — Position poll (Job B)
+- 3 signals
+- CLOSED SHORT SUI x10 (0xabe67249...) — trader no longer on shortlist
+- CLOSED SHORT ZRO x5 (0xba5d9cc8...) — trader no longer on shortlist
+- CLOSED SHORT UNI x10 (0xba5d9cc8...) — trader no longer on shortlist
+- Portfolio equity: $20,364.80 (+103.65%)
+
 ## 2026-11-24
 
 ### 20:06 UTC — Daily refresh (Job A)
