@@ -1,5 +1,5 @@
 {
-  "cash": 1406.7746211431809,
+  "cash": 1406.7899575017627,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -1728,18 +1728,6 @@
       "notional": 0.02438486654778049,
       "margin": 0.008128288849260163,
       "opened_at": "2026-10-28T16:00:28.183515+00:00",
-      "signal_ts": "2026-10-28T16:00:24.570497+00:00"
-    },
-    "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:ETHFI:SHORT": {
-      "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
-      "coin": "ETHFI",
-      "side": "SHORT",
-      "size": 0.0354798497149707,
-      "entry_price": 0.6529233750000001,
-      "leverage": 3,
-      "notional": 0.023165623220391462,
-      "margin": 0.007721874406797154,
-      "opened_at": "2026-10-28T16:00:28.183519+00:00",
       "signal_ts": "2026-10-28T16:00:24.570497+00:00"
     },
     "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:LINK:SHORT": {
@@ -22760,7 +22748,12 @@
       "ts": "2026-11-26T03:59:32.905473+00:00",
       "equity": 19180.349124241897,
       "cash": 1406.7746211431809
+    },
+    {
+      "ts": "2026-11-26T13:46:06.372168+00:00",
+      "equity": 19163.89731436949,
+      "cash": 1406.7899575017627
     }
   ],
-  "last_processed_signal_index": 726
+  "last_processed_signal_index": 727
 }

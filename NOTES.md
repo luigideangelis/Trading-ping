@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-26
+
+### 13:46 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED SHORT ETHFI x5 (0xba5d9cc8...) — trader no longer on shortlist
+- Portfolio equity: $19,163.90 (+91.64%)
+
 ## 2026-11-25
 
 ### 19:10 UTC — Daily refresh (Job A)

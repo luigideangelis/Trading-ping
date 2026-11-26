@@ -9606,5 +9606,19 @@
     "leverage": 10,
     "unrealized_pnl": 0.177768,
     "liquidation_price": 17438835.999933336
+  },
+  {
+    "ts": "2026-11-26T13:45:58.265888+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "reason": "dropped_trader_exit",
+    "coin": "ETHFI",
+    "side": "SHORT",
+    "size": 59960.0,
+    "entry_price": 0.53973,
+    "position_value_usd": 26472.34,
+    "leverage": 5,
+    "unrealized_pnl": 5889.991091,
+    "liquidation_price": 60.2758263066
   }
 ]
