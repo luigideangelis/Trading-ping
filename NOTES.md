@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-26
 
+### 18:57 UTC — Daily refresh (Job A)
+- Leaderboard: 46783 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0xa0f2e2f7b3ab58e3e52b74f08d94ae52778d46df
+-   +0xd7b19f8aaf5c9619bd5141945a73d2ca74984451
+-   -0xd47587702a91731dc1089b5db0932cf820151a91
+-   -0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797
+- #1 0x28cee446... acc=$3,724,675 month=$1,967,157 edge=3933bps
+- #2 0xa0f2e2f7... acc=$2,363,205 month=$623,392 edge=1096bps
+- #3 0x03ef8f73... acc=$11,520,906 month=$2,717,563 edge=3566bps
+- #4 0x71038a3e... acc=$5,138,894 month=$1,130,724 edge=310bps
+- #5 0xd7b19f8a... acc=$9,463,887 month=$3,305,606 edge=1989bps
+- Current positions across the shortlist:
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0xa0f2e2f7... 2 positions: SHORT HYPE x2, SHORT LIT x2
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x71038a3e... 2 positions: SHORT BTC x20, SHORT HYPE x10
+-   0xd7b19f8a... no open positions
+
 ### 13:46 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED SHORT ETHFI x5 (0xba5d9cc8...) — trader no longer on shortlist
