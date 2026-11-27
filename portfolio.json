@@ -1,5 +1,5 @@
 {
-  "cash": 1445.2960293879723,
+  "cash": 958.8389151569381,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -4621,6 +4621,102 @@
       "margin": 66.82252298133373,
       "opened_at": "2026-11-26T22:51:41.085414+00:00",
       "signal_ts": "2026-11-26T22:51:31.875361+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:CASHCAT:SHORT": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "CASHCAT",
+      "side": "SHORT",
+      "size": 4826.391398413785,
+      "entry_price": 0.044918529500000005,
+      "leverage": 3,
+      "notional": 216.79440440819587,
+      "margin": 72.26480146939862,
+      "opened_at": "2026-11-27T23:16:18.747048+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:INIT:LONG": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "INIT",
+      "side": "LONG",
+      "size": 2298.7097665981587,
+      "entry_price": 0.0895957755,
+      "leverage": 3,
+      "notional": 205.95468418778603,
+      "margin": 68.65156139592868,
+      "opened_at": "2026-11-27T23:16:18.747068+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:ZEC:LONG": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 0.26900028252742514,
+      "entry_price": 727.3484925,
+      "leverage": 3,
+      "notional": 195.65694997839677,
+      "margin": 65.21898332613226,
+      "opened_at": "2026-11-27T23:16:18.747072+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:WLD:LONG": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "WLD",
+      "side": "LONG",
+      "size": 755.6689520990041,
+      "entry_price": 0.245972925,
+      "leverage": 3,
+      "notional": 185.87410247947693,
+      "margin": 61.958034159825644,
+      "opened_at": "2026-11-27T23:16:18.747075+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:XMR:SHORT": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "XMR",
+      "side": "SHORT",
+      "size": 0.4350589335139966,
+      "entry_price": 405.87696,
+      "leverage": 3,
+      "notional": 176.58039735550307,
+      "margin": 58.86013245183435,
+      "opened_at": "2026-11-27T23:16:18.747078+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:WLFI:SHORT": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "WLFI",
+      "side": "SHORT",
+      "size": 4594.325234329625,
+      "entry_price": 0.036512734500000005,
+      "leverage": 3,
+      "notional": 167.75137748772792,
+      "margin": 55.91712582924264,
+      "opened_at": "2026-11-27T23:16:18.747080+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0xc435249d0e837efa5eb431ad74c9fa8889f2c905:PENDLE:SHORT": {
+      "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+      "coin": "PENDLE",
+      "side": "SHORT",
+      "size": 132.2524306391264,
+      "entry_price": 1.2049972,
+      "leverage": 3,
+      "notional": 159.36380861334152,
+      "margin": 53.121269537780506,
+      "opened_at": "2026-11-27T23:16:18.747083+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
+    },
+    "0x4fd04553468610e5a88a2cffa38e057c954312da:HYPE:SHORT": {
+      "trader": "0x4fd04553468610e5a88a2cffa38e057c954312da",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 2.4079956418896282,
+      "entry_price": 62.872048250000006,
+      "leverage": 3,
+      "notional": 151.39561818267444,
+      "margin": 50.46520606089148,
+      "opened_at": "2026-11-27T23:16:18.747092+00:00",
+      "signal_ts": "2026-11-27T23:16:09.354824+00:00"
     }
   },
   "equity_history": [
@@ -22708,7 +22804,12 @@
       "ts": "2026-11-27T14:46:53.465355+00:00",
       "equity": 19107.25595281009,
       "cash": 1445.2960293879723
+    },
+    {
+      "ts": "2026-11-27T23:16:18.747221+00:00",
+      "equity": 19231.081921653644,
+      "cash": 958.8389151569381
     }
   ],
-  "last_processed_signal_index": 736
+  "last_processed_signal_index": 744
 }
