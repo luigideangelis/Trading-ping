@@ -1,5 +1,5 @@
 {
-  "cash": 1298.2950942352302,
+  "cash": 1445.2960293879723,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:CASHCAT:SHORT": {
@@ -2510,30 +2510,6 @@
       "opened_at": "2026-11-04T17:15:26.436456+00:00",
       "signal_ts": "2026-11-04T17:15:19.552601+00:00"
     },
-    "0x4fe260d11bf48ba3a94459771259c910a398ac59:HYPE:SHORT": {
-      "trader": "0x4fe260d11bf48ba3a94459771259c910a398ac59",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 0.8190590717273915,
-      "entry_price": 78.12741675000001,
-      "leverage": 3,
-      "notional": 63.990969439714064,
-      "margin": 21.330323146571356,
-      "opened_at": "2026-11-06T14:15:24.185294+00:00",
-      "signal_ts": "2026-11-06T14:15:17.063941+00:00"
-    },
-    "0x4fe260d11bf48ba3a94459771259c910a398ac59:ZEC:SHORT": {
-      "trader": "0x4fe260d11bf48ba3a94459771259c910a398ac59",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.046434196193205476,
-      "entry_price": 1309.195075,
-      "leverage": 3,
-      "notional": 60.791420967728364,
-      "margin": 20.263806989242788,
-      "opened_at": "2026-11-06T14:15:24.185333+00:00",
-      "signal_ts": "2026-11-06T14:15:17.063941+00:00"
-    },
     "0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f:SOL:SHORT": {
       "trader": "0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f",
       "coin": "SOL",
@@ -4633,18 +4609,6 @@
       "margin": 9.4348797160659,
       "opened_at": "2026-11-23T22:00:34.955677+00:00",
       "signal_ts": "2026-11-23T22:00:27.638958+00:00"
-    },
-    "0xa0f2e2f7b3ab58e3e52b74f08d94ae52778d46df:HYPE:SHORT": {
-      "trader": "0xa0f2e2f7b3ab58e3e52b74f08d94ae52778d46df",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 2.2543163814719827,
-      "entry_price": 62.40428225,
-      "leverage": 2,
-      "notional": 140.67899575017628,
-      "margin": 70.33949787508814,
-      "opened_at": "2026-11-26T22:51:41.085393+00:00",
-      "signal_ts": "2026-11-26T22:51:31.875361+00:00"
     },
     "0xa0f2e2f7b3ab58e3e52b74f08d94ae52778d46df:LIT:SHORT": {
       "trader": "0xa0f2e2f7b3ab58e3e52b74f08d94ae52778d46df",
@@ -22739,7 +22703,12 @@
       "ts": "2026-11-27T04:51:18.197368+00:00",
       "equity": 18608.740101103547,
       "cash": 1298.2950942352302
+    },
+    {
+      "ts": "2026-11-27T14:46:53.465355+00:00",
+      "equity": 19107.25595281009,
+      "cash": 1445.2960293879723
     }
   ],
-  "last_processed_signal_index": 733
+  "last_processed_signal_index": 736
 }
