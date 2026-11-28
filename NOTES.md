@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-28
 
+### 16:00 UTC — Position poll (Job B)
+- 2 signals
+- CLOSED SHORT BTC x20 (0xabe67249...) — trader no longer on shortlist
+- CLOSED SHORT ETH x20 (0xabe67249...) — trader no longer on shortlist
+- Portfolio equity: $19,692.26 (+96.92%)
+
 ### 06:50 UTC — Position poll (Job B)
 - 1 signals
 - CLOSED LONG WLFI x5 (0x34ea1e25...) — trader no longer on shortlist
