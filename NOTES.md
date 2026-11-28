@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-28
+
+### 06:50 UTC — Position poll (Job B)
+- 1 signals
+- CLOSED LONG WLFI x5 (0x34ea1e25...) — trader no longer on shortlist
+- Portfolio equity: $19,337.60 (+93.38%)
+
 ## 2026-11-27
 
 ### 23:16 UTC — Position poll (Job B)
